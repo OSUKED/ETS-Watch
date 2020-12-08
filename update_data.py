@@ -52,7 +52,7 @@ data['datetime'] = pd.to_datetime(data['datetime']).strftime('%Y-%m-%d %H:%M').t
 with open('data/ets_mkt.json', 'w') as fp:
     json.dump(data, fp)
 
-# Visualising data
+## Visualising data
 latest_date = df.index.max()
 earliest_date = latest_date - pd.Timedelta(weeks=8)
 
@@ -64,3 +64,25 @@ fig.savefig('img/ohlc_vol.png')
 
 fig, ax = plot_long_term_avg(df)
 fig.savefig('img/long_term_avg.png')
+
+## Updating README
+def update_readme_time(readme_fp, 
+                       splitter='Last updated: ', 
+                       dt_format='%Y-%m-%d %H:%M'):
+    
+    with open(readme_fp, 'r') as readme:
+        txt = readme.read()
+    
+    start, end = txt.split(splitter)
+    old_date = end[:16]
+    end = end.split(old_date)[1]
+    new_date = pd.Timestamp.now().strftime(dt_format)
+    
+    new_txt = start + splitter + new_date + end
+    
+    with open(readme_fp, 'w') as readme:
+        readme.write(new_txt)
+        
+    return
+
+update_readme_time('README.md')
