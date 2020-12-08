@@ -1,0 +1,32 @@
+name: Update data and visualisations
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+  - cron: "30 0 * * *"
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        dir
+        python -m pip install --upgrade pip
+        python -m pip install pandas
+        python -m pip install requests
+        python -m pip install feautils
+        python -m pip install mplfinance
+        python -m pip install matplotlib
+        python update_data.py
+        dir
+      
+    - uses: stefanzweifel/git-auto-commit-action@v4 
