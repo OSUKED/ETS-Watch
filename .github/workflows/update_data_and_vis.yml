@@ -24,8 +24,9 @@ jobs:
         python -m pip install pandas
         python -m pip install requests
         python -m pip install feautils
-        python -m pip install mplfinance
         python -m pip install matplotlib
+        python -m pip install mplfinance
+        python -m pip install ipython
         python update_data.py
         dir
       
