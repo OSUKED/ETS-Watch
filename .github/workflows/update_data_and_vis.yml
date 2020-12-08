@@ -30,5 +30,7 @@ jobs:
         python -m pip install python-dotenv
         python update_data.py
         dir
+      env: 
+        USER_KEY: ${{ secrets.QUANDL_API_KEY  }}
       
     - uses: stefanzweifel/git-auto-commit-action@v4 
