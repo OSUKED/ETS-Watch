@@ -1,5 +1,7 @@
 # ETS Watch
 
+This repository includes code for retrieving the latest data on the EU ETS market
+
 Last updated: 2020-12-08 11:34
 
 <br>
