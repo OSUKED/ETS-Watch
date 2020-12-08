@@ -27,7 +27,7 @@ jobs:
         python -m pip install matplotlib
         python -m pip install mplfinance
         python -m pip install ipython
-        python -m pip install dotenv
+        python -m pip install python-dotenv
         python update_data.py
         dir
       
