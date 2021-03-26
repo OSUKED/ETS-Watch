@@ -2,7 +2,7 @@
 
 This repository includes code for retrieving the latest data on the EU ETS market
 
-Last updated: 2021-03-25 01:57
+Last updated: 2021-03-26 02:56
 
 <br>
 
