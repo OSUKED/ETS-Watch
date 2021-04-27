@@ -1,0 +1,1581 @@
+account_id,aircraft_operator_id,,monitoring_plan_id,monitoring_plan_start_date,monitoring_plan_expiration_Date,subsidiary_undertaking_name,parent_undertaking_name,EPRTR_id,call_sign,initial_emissions_year,first_address_line,second_address_line,postcode,city,country,lat,lon,main_activity
+90574,200103,27702,BMLFUW-UW.1.3.2/0354-V/4/2009,2010-01-01,,,,,JAG,2013,,,,,AT,,,10-Aircraft operator activities
+90727,200108,194,BMFLUW-UW.1.3.2/0084-V/4/2010,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+90728,200109,36057,UW.1.3.2/0085-V/4/2011,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+90423,200146,440,BMNT-UW.1.3.2/0189-IV/1/2019,2010-01-01,,,,,AUA,2012,,,,,AT,,,10-Aircraft operator activities
+90730,200165,28567,BMLFUW-UW.1.3.2/0130-V/4/2010,2010-01-01,,,,,OE-HMR,2012,,,,,AT,,,10-Aircraft operator activities
+90705,200180,209,BMFLUW-UW.1.3.2/0372-V/4/2009,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+90607,200265,30323,BMFLUW-UW.1.3.2/0255-V/4/2010,2009-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+90572,200433,29932,BMLFUW-UW.1.3.2/0261-V/4/2013,2010-01-01,,,,,NLY,2012,,,,,AT,,,10-Aircraft operator activities
+90788,200442,1178,BMLFUW-UW.1.3.2/0010-V/4/2011,2010-01-01,,,,,OE-HIT,2012,,,,,AT,,,10-Aircraft operator activities
+106246,201018,28512,BMLFUW-UW.1.3.2/0030-V/4/2011,2010-01-01,,,,,ISK,2012,,,,,AT,,,10-Aircraft operator activities
+106956,201342,32040,BMLFUW‐UW.1.3.2/0247‐V/4/2010,2010-01-01,,,,,VJS,2012,,,,,AT,,,10-Aircraft operator activities
+108150,201494,25989,BMLFUW‐UW.1.3.2/0356‐V/4/2009,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+108417,201505,13030,BMLFUW‐UW.1.3.2/0121‐V/4/2011,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+106794,201519,27885,BMLFUW-UW.1.3.2/0014-V/4/2011,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+106369,201525,2168,BMLFUW‐UW.1.3.2/0364‐V/4/2009,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+106814,201564,19210,BMLFUW-UW.1.3.2/0001-I/4/2015,2010-01-01,,,,,AUI,2012,,,,,AT,,,10-Aircraft operator activities
+107851,201641,33061,BMNT-UW.1.3.2/0194-IV/1/2019,2010-01-01,,,,,AOJ,2012,,,,,AT,,,10-Aircraft operator activities
+108410,201836,15451,BMLFUW-UW.1.3.2/0121-V/4/2010,2012-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+108119,201928,37796,BMLFUWUW.1.3.2/0388-V/4/2012,2011-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+108025,202012,25637,BMLFUW-UW.1.3.2/0094-V/4/2011,2010-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+108123,202607,35956,BMLFUWUW.1.3.2/0110-V/4/2011,2012-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+108499,202913,30222,BMNT-UW.1.3.2/0006-IV/1/2019,2012-01-01,,,,,LDM,2012,,,,,AT,,,10-Aircraft operator activities
+108806,203332,38061,BMLFUW-UW.1.3.2/0061-I/4/2015,2012-01-01,,,,,M-STEP M-ROMA,2012,,,,,AT,,,10-Aircraft operator activities
+108796,203339,36370,BMLFUW-UW.1.3.2/0166-V/4/2011,2012-01-01,,,,,,2012,,,,,AT,,,10-Aircraft operator activities
+108716,203383,31326,BMNT-UW.1.3.2/0197-IV/1/2019,2009-01-01,,,,,GLJ,2012,,,,,AT,,,10-Aircraft operator activities
+108697,203413,9965,BMLFUW-UW.1.3.2/0011-V/4/2011,2009-01-01,,,,,C-GMGX,2012,,,,,AT,,,10-Aircraft operator activities
+112689,206907,39219,BMLFUW-UW.1.3.2/0372-I/4/2014,2013-01-01,,,,,,2013,,,,,AT,,,10-Aircraft operator activities
+113430,207233,33517,BMLFUW-UW.1.3.2/0062-I/4/2017,2015-01-01,,,,,MJF,2013,,,,,AT,,,10-Aircraft operator activities
+114548,207782,8421,BMLFUW-UW.1.3.2/0321-I/4/2016,2015-01-01,,,,,,2014,,,,,AT,,,10-Aircraft operator activities
+115048,208967,37260,BMNT-UW.1.3.2/0195-IV/1/2019,2016-01-01,,,,,PE,2016,,,,,AT,,,10-Aircraft operator activities
+116605,210600,45298,BMNT-UW.1.3.2/0048-IV/1/2019,2018-01-01,,,,,LDX,2018,,,,,AT,,,10-Aircraft operator activities
+116573,210636,45083,BMNT-UW.1.3.2/0032-IV/1/2019,2019-01-01,,,,,EJU,2019,,,,,AT,,,10-Aircraft operator activities
+117187,210838,45735,BMNT-UW.1.3.2/0152-IV/1/2019,2018-01-01,,,,,FOO,2018,,,,,AT,,,10-Aircraft operator activities
+90706,200797,27011,TNTMPE2011_1.WA00TAY004,2012-01-01,,,,,3V,2012,,,,,BE,,,10-Aircraft operator activities
+106112,201275,f11102,FEDEX_MP2011,2012-01-01,,,,,N1FE,2012,,,,,BE,,,10-Aircraft operator activities
+106127,201297,28453,TCW_MP2011,2012-01-01,,,,,Phoeninx,2012,,,,,BE,,,10-Aircraft operator activities
+106472,201543,00908,BEL_MP2011,2012-01-01,,,,,BEL,2012,,,,,BE,,,10-Aircraft operator activities
+106549,201565,27975,SQC_MP2011,2012-01-01,,,,,SQC,2012,,,,,BE,,,10-Aircraft operator activities
+106726,201645,30011,BEAUTY_MP2011,2012-01-01,,,,,BEAUTY,2012,,,,,BE,,,10-Aircraft operator activities
+106775,201663,33612,AJK_MP2011,2012-01-01,,,,,AJK,2012,,,,,BE,,,10-Aircraft operator activities
+107132,201950,01084,MILMPE2011_1.1084-MPC02-2012-150,2012-01-01,,,,,BAF,2012,,,,,BE,,,10-Aircraft operator activities
+107330,202193,32432,EGYPTAIRCARGOMPE2011,2012-01-01,,,,,MSX,2012,,,,,BE,,,10-Aircraft operator activities
+107524,202434,27769,SEA-AIR_MP2011,2012-01-01,,,,,N680SE,2012,,,,,BE,,,10-Aircraft operator activities
+107916,202757,04369,CALMPE2011_1,2012-01-01,,,,,ICL,2012,,,,,BE,,,10-Aircraft operator activities
+107941,202832,28582,IUWMPE2011_1,2012-01-01,,,,,HB-IUW,2012,,,,,BE,,,10-Aircraft operator activities
+108224,203093,27709,CKSMPE2011,2012-01-01,,,,,CKS,2012,,,,,BE,,,10-Aircraft operator activities
+108383,203227,09542,IP_MP2011,2012-01-01,,,,,XXXIP,2012,,,,,BE,,,10-Aircraft operator activities
+108377,203228,13457,FP_MP2011,2012-01-01,,,,,IGA,2012,,,,,BE,,,10-Aircraft operator activities
+108382,203229,13603,VFC_MP2011,2012-01-01,,,,,XXXVFC,2012,,,,,BE,,,10-Aircraft operator activities
+108381,203230,29427,FS_MP2011,2012-01-01,,,,,FYG,2012,,,,,BE,,,10-Aircraft operator activities
+108380,203231,32909,Cresair_MP2011,2012-01-01,,,,,XXXCA,2012,,,,,BE,,,10-Aircraft operator activities
+108379,203232,35334,SP_MP2011,2012-01-01,,,,,XXXSP,2012,,,,,BE,,,10-Aircraft operator activities
+108378,203233,36269,HB-GJU_MP2011,2012-01-01,,,,,HB-GJU,2012,,,,,BE,,,10-Aircraft operator activities
+108386,203234,26688,N902NC_MP2011,2012-01-01,,,,,N902NC,2012,,,,,BE,,,10-Aircraft operator activities
+108409,203255,30020,30020-MPCO2-2016-100,2012-01-01,,,,,TUP,2012,,,,,BE,,,10-Aircraft operator activities
+108466,203295,24578,GAFI_MP2011,2012-01-01,,,,,3B-PGF,2012,,,,,BE,,,10-Aircraft operator activities
+108514,203329,31207,N604FJ_MPE2011,2012-01-01,,,,,XXX,2012,,,,,BE,,,10-Aircraft operator activities
+108547,203357,26784,SOO_MPE2011,2012-01-01,,,,,SOO,2012,,,,,BE,,,10-Aircraft operator activities
+108602,203385,07649,ABX_MPE2011,2012-01-01,,,,,ABX,2012,,,,,BE,,,10-Aircraft operator activities
+108603,203386,f11336,CorpWings_MPE2011,2012-01-01,,,,,XXX,2012,,,,,BE,,,10-Aircraft operator activities
+111665,206221,f12977,XXX_MP2011,2012-01-01,,,,,XXX,2012,,,,,BE,,,10-Aircraft operator activities
+111755,206281,00123,AAB_MP2011,2012-01-01,,,,,AAB,2012,,,,,BE,,,10-Aircraft operator activities
+112148,206582,31102,ACT_MP2011,2011-01-01,,,,,RUN,2012,,,,,BE,,,10-Aircraft operator activities
+112565,206951,29980,CHH_MP2011,2012-01-01,,,,,CHH,2012,,,,,BE,,,10-Aircraft operator activities
+113399,207689,2344,2344-MPCO2-2016-150,2015-01-01,,,,,SVA,2012,,,,,BE,,,10-Aircraft operator activities
+113398,207690,20065,VLM_MP2015,2015-01-01,,,,,VLM,2015,,,,,BE,,,10-Aircraft operator activities
+114957,209053,38484,ATG_MP2016,2016-01-01,,,,,ATG,2016,,,,,BE,,,10-Aircraft operator activities
+116588,210660,01084,MILMPE2011_1.1084-MPC02-2012-150,2018-01-01,,,,,BAF,2018,,,,,BE,,,10-Aircraft operator activities
+861625,214182,46463,CHALLENGE_AIRLINES_MP2020,2020-01-01,,,,,CHG,2020,,,,,BE,,,10-Aircraft operator activities
+1020625,214420,29424,29424-MPCO2-2020-150,2020-01-01,,,,,ACP,2020,,,,,BE,,,10-Aircraft operator activities
+1131125,214781,00000,WESTERN_GLOBAL_MP2020,2020-01-01,,,,,WGN,2020,,,,,BE,,,10-Aircraft operator activities
+90096,200120,11775,4/2009,2009-01-01,,,,,,2012,,,,,BG,,,10-Aircraft operator activities
+90097,200122,28445,5/2011,2009-01-01,,,,,,2012,,,,,BG,,,10-Aircraft operator activities
+90130,200160,29056,9/2009,2009-01-01,,,,,,2012,,,,,BG,,,10-Aircraft operator activities
+90175,200204,27538,1/2009,2009-01-01,,,,,,2012,,,,,BG,,,10-Aircraft operator activities
+90807,200696,12495,19550-0026,2010-01-01,,,,,CTN,2012,,,,,DE,,,10-Aircraft operator activities
+90030,200021,866,CY-ETS-AV-003,2012-01-01,,,,,CYP,2012,,,,,CY,,,10-Aircraft operator activities
+90090,200105,27554,CY-ETS-AV-004,2012-01-01,,,,,,2012,,,,,CY,,,10-Aircraft operator activities
+90093,200118,30932,CY-ETS-AV-006,2012-01-01,,,,,,2012,,,,,CY,,,10-Aircraft operator activities
+90094,200119,34989,CY-ETS-AV-001,2012-01-01,,,,,,2012,,,,,CY,,,10-Aircraft operator activities
+90170,200200,20324,CY-ETS-AV-002,2012-01-01,,,,,,2012,,,,,CY,,,10-Aircraft operator activities
+108877,203584,7132,CY-ETS-AV-005,2012-01-01,,,,,,2012,,,,,CY,,,10-Aircraft operator activities
+111609,206129,f10401,CY-ETS-AV-009,2013-01-01,,,,,,2012,,,,,CY,,,10-Aircraft operator activities
+111790,206304,35759,1,2014-01-01,,,,,,2013,,,,,CY,,,10-Aircraft operator activities
+112686,207028,8214,Funair Corporation AEMP 8214,2012-01-01,,,,,,2013,,,,,CY,,,10-Aircraft operator activities
+113909,208042,37570,CY-ETS3-MPAV-011,2013-01-01,,,,,,2013,,,,,CY,,,10-Aircraft operator activities
+115000,209075,43511,CY/ETS3/MPAV/013/1,2016-01-01,,,,,,2016,,,,,CY,,,10-Aircraft operator activities
+115008,209079,31143,CY-ETS-AV-010,2016-01-01,,,,,OXM,2015,,,,,CY,,,10-Aircraft operator activities
+116088,210168,43177,CY/ETS3/MPAV/014/1,2017-01-01,,,,,,2017,,,,,CY,,,10-Aircraft operator activities
+116680,210705,44370,CY-ETS-AV-015,2018-01-01,,,,,,2018,,,,,CY,,,10-Aircraft operator activities
+107049,201395,F10379,CZA-002-10,2010-01-01,,,,,N2T,2012,,,,,CZ,,,10-Aircraft operator activities
+106672,201399,2276,CZA-003-11,2012-01-01,,,,,N43R,2012,,,,,CZ,,,10-Aircraft operator activities
+106803,201652,859,CZA-001-10,2010-01-01,,,,,,2012,,,,,CZ,,,10-Aircraft operator activities
+106804,201653,36746,CZA-001-12,2012-01-01,,,,,,2012,,,,,CZ,,,10-Aircraft operator activities
+107287,201679,24903,CZA-003-10,2010-01-01,,,,,TVS,2012,,,,,CZ,,,10-Aircraft operator activities
+108470,201906,30145,CZA-001-11,2010-01-01,,,,,N680GA,2012,,,,,CZ,,,10-Aircraft operator activities
+108469,202252,34430,CZA-002-11,2010-01-01,,,,,P4-GVV,2012,,,,,CZ,,,10-Aircraft operator activities
+108471,202253,36763,CZA-006-11,2010-01-01,,,,,P4NGK,2012,,,,,CZ,,,10-Aircraft operator activities
+108472,202824,35361,CZA-004-11,2010-01-01,,,,,,2012,,,,,CZ,,,10-Aircraft operator activities
+108740,203031,35333,CZA-004-10,2012-01-01,,,,,,2012,,,,,CZ,,,10-Aircraft operator activities
+108757,203272,f13143,CZA-015-13,2012-01-01,,,,,,2012,,,,,CZ,,,10-Aircraft operator activities
+109181,203469,32935,CZA-005-11,2011-01-01,,,,,N604BB,2012,,,,,CZ,,,10-Aircraft operator activities
+108963,203631,35825,CZA-008-10,2012-01-01,,,,,,2012,,,,,CZ,,,10-Aircraft operator activities
+113450,207687,30560,CZA-016-16,2015-01-01,,,,,,2015,,,,,CZ,,,10-Aircraft operator activities
+115904,209931,44173,CZA-017-18,2017-01-01,,,,,P4GVI,2017,,,,,CZ,,,10-Aircraft operator activities
+106245,201405,9918,9918-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+106250,201417,781,781-1,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+106251,201418,f10218,f10218-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+106252,201419,12230,12230-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+106580,201580,35196,3596-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+106671,201626,46967,46967-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+106677,201630,32158,32158-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107143,201992,22466,22466-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107269,202134,33803,33803-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107469,202332,f10500,f10500-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107533,202452,142,142-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107903,202817,4357,4357-1,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107990,202890,3456,3456-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+107994,202893,366,366-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+108259,203125,34774,34774-1,2010-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+108519,203337,12327,12327-1,2011-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+108540,203356,26272,26272-1,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+108869,203579,36866,36866-1,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+108868,203581,32595,32595-1,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+111345,205999,9914,9914-1,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+111839,206362,34892,OY-JJO,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+112146,206581,32921,32921,2012-01-01,,,,,,2012,,,,,DK,,,10-Aircraft operator activities
+113240,207553,29123,ej opgivet,2013-01-01,,,,,RLD,2012,,,,,DK,,,10-Aircraft operator activities
+114149,208203,1234567,Endnu ikke kendt,2016-01-01,,,,,,2013,,,,,DK,,,10-Aircraft operator activities
+106103,200417,18219,Version 3,2011-01-01,,,,,ELL,2012,,,,,EE,,,10-Aircraft operator activities
+108007,202903,30036,30036,2009-01-01,,,,,KZV,2012,,,,,EE,,,10-Aircraft operator activities
+109229,203860,38604,Version 1,2012-01-01,,,,,MYX,2012,,,,,EE,,,10-Aircraft operator activities
+90111,200142,1167,3/69/2009,2010-01-01,,,,,FIN,2012,,,,,FI,,,10-Aircraft operator activities
+90155,200175,27086,7/69/2009,2010-01-01,,,,,FCM,2012,,,,,FI,,,10-Aircraft operator activities
+90156,200179,32127,1/69/2009,2010-01-01,,,,,OH-KNE,2012,,,,,FI,,,10-Aircraft operator activities
+90210,200281,5922,5/69/2009,2010-01-01,,,,,JEF,2012,,,,,FI,,,10-Aircraft operator activities
+90216,200285,838,6/69/2009,2010-01-01,,,,,BLF,2012,,,,,FI,,,10-Aircraft operator activities
+90362,200423,29266,4/69/2009,2010-01-01,,,,,FIF,2012,,,,,FI,,,10-Aircraft operator activities
+106232,201398,37724,TRAFI/22652/2011,2012-01-01,,,,,NGB,2012,,,,,FI,,,10-Aircraft operator activities
+108865,203577,380,9/69/2009,2010-01-01,,,,,IGA,2012,,,,,FI,,,10-Aircraft operator activities
+109061,203760,8930,10/69/2009,2010-01-01,,,,,BZF,2012,,,,,FI,,,10-Aircraft operator activities
+112573,206961,40361,TRAFI/29267/05.00.25.00/2014,2014-01-01,,,,,,2014,,,,,FI,,,10-Aircraft operator activities
+112903,206965,37664,TRAFI/2085/05.00.25.00/2015,2012-01-01,,,,,,2013,,,,,FI,,,10-Aircraft operator activities
+112693,207037,27696,TRAFI/10553/05.00.25.00/2015,2013-01-01,,,,,,2013,,,,,FI,,,10-Aircraft operator activities
+90092,200111,227,227-17/01/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90098,200121,637,637-22/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90101,200127,1855,1855-19/05/09-V1 03,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90102,200128,17921,17921-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90103,200129,29467,29467-30/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90104,200132,35097,35097- 01/01/2012 - V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90112,200144,4306,4306-19/07/2010-v2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90131,200162,7028,7028-13/10/2010-V4,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90132,200164,186,186-11/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90151,200170,27518,27518-30/11/2010-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90173,200203,4790,4790-01/01/12-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90211,200283,24094,24094-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90250,200322,1147,1147-29/12/2009-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90252,200326,28237,28237-12/12/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90270,200338,1013,1013-22/02/2010-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90272,200341,261,261-31/12/2011-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90273,200342,6369,6369-10/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90274,200350,19696,19696-16/12/09-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90310,200380,f10277,f10277-05/02/10-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90330,200385,f10181,f10181-22/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90351,200404,32673,32673-16/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90352,200405,1139,1139-11/06/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90354,200409,23330,23330-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90355,200411,35426,35426-04/04/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90356,200412,7764,7764-25/08/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90357,200414,35192,35192-30/11/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90358,200415,10054,10054-01/03/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90366,200430,23592,23592-22/12/2009-Vorg,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90391,200447,32311,32311-11/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90393,200450,9002,9002-30/03/2011-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90415,200469,5636,5636-14/02/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90418,200472,28265,28265-12/12/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90420,200476,18972,18972-22/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90431,200484,30455,30455-22/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90470,200540,2176,2176-22/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90491,200600,1976,1976-30/03/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90511,200621,9703,9703-07/12/2011-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90563,200650,5117,5117-22/01/2012-V4,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90567,200657,5432,5432-4/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90573,200667,12219,12219-31/08/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90575,200669,258,258-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90577,200671,32411,32411-14/01/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90605,200697,33859,33859-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90606,200698,24636,24636-26/08/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90725,200815,1769,1769-07/03/2011-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90745,200835,2850,2850-10/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90765,200855,1249,1249-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90766,200856,f10476,f10476-05/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90767,200857,2752,2752-14/02/2012,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90768,200875,f10290,f10290-06/01/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90845,200975,2232,2232-13/01/12-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90846,200995,31199,31199-01/04/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90885,201017,21442,21442-30/03/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+90905,201036,32959,32959-11/02/2012-v1,2010-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106088,201255,11467,11467-07/12/2011-V5,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106090,201258,29860,29860-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106091,201259,22432,22432-30/04/14-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106092,201261,18982,18982-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106093,201262,21075,21075-19/05/09-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106110,201271,26287,26287-21/06/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106126,201296,23693,23693-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106133,201315,35373,35373-05/04/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106165,201348,f10194,f10194-22/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106167,201352,28156,28156-30/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106177,201357,22850,22850-22/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106209,201376,35062,35062-08/03/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106240,201404,f10036,f10036-22/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106259,201435,252,252-10/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106270,201455,19445,19445-10/12/2009-v2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106275,201462,10326,10326-16/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106285,201466,f10082,f10082-21/04/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106287,201468,36817,36817-13/01/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106294,201482,f10437,f10437-05/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106297,201486,4489,4489-30/11/2010-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106300,201490,2987,2987-15/10/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106326,201514,5967,5967-09/08/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106327,201515,31137,31137-16/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106395,201528,32078,32078-30/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106429,201535,26897,26897-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106589,201582,f10306,f10306- 12/12/2011-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106615,201594,6510,6510-27/1/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106701,201644,36374,36374-30/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106991,201792,29420,29420-20/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+106992,201793,11638,11638-16/07/12-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107081,201864,f10651,f10651-19/05/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107253,202098,2574,2574-26/12/12-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107259,202112,35614,35614-26/12/12-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107426,202271,31779,31779-01/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107557,202475,f11024,f11024-28/04/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107618,202529,35455,35455-30/11/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107665,202575,29815,29815-01/03/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107674,202576,31341,31341-11/02/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107683,202583,31977,31977-07/12/2011-V3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107691,202592,799,799-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107757,202662,f12236,f12236-14/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107759,202670,28006,28006-28/04/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+107863,202774,31140,31140-11/06/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108040,202945,9689,9689-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108048,202954,31073,31073-07/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108054,202958,f12170,f12170-30/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108059,202959,31025,31025-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108066,202962,34393,34393-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108071,202971,30304,30304-31/03/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108074,202972,31581,31581-13/12/2010-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108112,202995,f10303,f10303-21/04/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108206,203079,23028,23028-15/10/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108210,203084,37372,37372-14/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108211,203085,31488,31488-26/12/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108213,203086,f10060,f10060-05/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108228,203096,31400,31400-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108279,203137,28092,28092-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108322,203165,26086,26086-28/02/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108371,203220,f12240,f12240-14/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108373,203221,159,159-18/06/2012-V5,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108388,203237,24204,24204-27/08/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108453,203293,f11808,f11808-28/04/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108513,203330,32578,32578-22/02/2010-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108515,203331,32707,32707-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108516,203333,28583,28583-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108517,203335,34296,34296-16/12/2009-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108528,203342,34820,34820-13/12/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108560,203365,35828,35828-24/01/2012-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108579,203372,406,406-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108594,203382,308,308-01/07/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108601,203387,37718,37718-23/01/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108604,203388,30067,30067-30/08/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108607,203390,28640,28640-10/10/09-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108609,203392,38305,38305-20/03/13-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108622,203400,f10019,f10019/30/05/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108623,203402,26797,26797-30/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108625,203403,28604,28604-16/12/2009-v2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108627,203407,34415,34415-06/09/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108628,203408,28382,28382-10/05/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108633,203414,24571,24571-26/08/2009-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108638,203415,29465,29465-11/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108640,203416,34603,34603-31/08/12-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108646,203417,24200,24200-10/12/2009-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108649,203419,f10175,f10175-20/04/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108650,203421,28189,28189-16/12/2009-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108652,203422,31182,31182-11/10/2012-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108654,203424,8542,8542-20/01/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108660,203432,4386,4386-21/12/2010-v3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108661,203433,27881,27881-22/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108663,203435,31765,31765-11/04/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108665,203436,f12199,f12199-10/02/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108668,203439,3517,3517-31/08/2012-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108674,203440,f10834,f10834-13/12/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108675,203441,32610,32610-30/11/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108676,203442,8231,8231-26/05/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108678,203445,36825,36825-08/11/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108679,203447,27867,27867-25/03/2013-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108683,203449,f11476,f11476-19/09/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108684,203450,28010,28010-29/12/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108694,203456,37923,37923-14/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108696,203458,f12244,f12244-14/03/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108707,203463,8921,8921-13/12/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108714,203464,10637,10637-10/03/2011-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108718,203465,38247,38247-20/03/13-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108719,203466,37249,37249-05/06/2020-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108723,203467,36345,36345-15/10/12-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108729,203471,37896,37896-24/07/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108731,203473,36010,36010-31/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108732,203474,37878,37878-24/10/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108736,203477,27863,27863-13/07/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108742,203482,f11188,f11188-28/04/2011-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108745,203484,34289,34289-16/12/2009-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108746,203485,34418,34418-13/12/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108758,203492,12312,12312-05/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108759,203494,f10079,f10079-22/02/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108763,203496,f10420,f10420-10/05/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108768,203502,f10313,f10313-05/11/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108770,203503,12316,12316-30/03/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108773,203508,f10223,f10223-12/12/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108774,203509,31018,31018-10/05/2010-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108777,203510,35371,35371-05/02/2010-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108778,203511,1971,1971-13/12/10-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108779,203512,35242,35242-23/01/2013-v1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108780,203513,1098,1098-14/02/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108782,203517,34651,34651-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108783,203519,22230,22230-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+108785,203520,33703,33703-10/03/2011-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+109039,203744,5362,5362-12/12/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+109557,204141,33249,33249-14/02/2012-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+109624,204199,3329,3329-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+109642,204203,6188,6188-13/01/2012-V4,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+109830,204362,3513,3513-07/12/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110314,204950,20337,20337-16/12/03-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110426,205041,9122,9122-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110456,205075,25946,25946-16/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110579,205227,f10481,f10481-28/05/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110609,205301,f10263,f10263-14/12/2012- v3,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110613,205308,21879,21879-17/12/2011-V2,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+110723,205503,37747,37747-29/03/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+111478,206098,39317,39317-21/10/13-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+111565,206156,f12986,f12986-04/05/2013-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+111776,206301,37523,37523-22/05/2013-V1,2013-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112372,206783,37719,37719-18/06/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112621,206996,29834,29834-06/03/2015-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112632,207002,2816,2816-20/05/2014-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112636,207009,39587,39587-16/01/2015-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+112675,207020,12141,12141-26/02/2015-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112684,207027,31081,31081-10/05/2010-VI,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112721,207068,22150,22150-30/03/2015-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+112726,207102,f12482,f12482-02/01/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112730,207104,38198,38198-27/04/2015-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+112768,207122,31595,31595-16/07/2012-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+112914,207246,37847,37847-30/03/2015-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+113254,207561,38197,38197-18/06/2013-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+113378,207671,39563,39563-02/12/2015-V1,2014-01-01,,,,,,2014,,,,,FR,,,10-Aircraft operator activities
+113384,207674,21791,21791-12/03/2014-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+113461,207752,f14311,f14311-30/03/2016-V1,2015-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+113464,207764,3932,3932-10/12/2009-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+113469,207770,f10497,f10497-24/04/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+113729,207842,40758,40758-06/05/2016-V2,2015-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+114631,208806,38579,38579-28/05/2013-V1,2012-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+114916,209012,36155,36155-04/02/2016-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+114917,209016,34201,34201-22/01/2016-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+114918,209019,38481,38481-07/10/2016-V1,2015-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+114952,209048,4095,4095-03/11/2016-V1,2015-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+115028,209082,35198,35198/31-03-2017/V2,2015-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+115110,209163,40089,40089-29/06/2016-V1,2015-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+115188,209282,38085,38085-01/06/2017-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+115209,209302,24019,24019-21/07/2017-V1,2013-01-01,,,,,,2013,,,,,FR,,,10-Aircraft operator activities
+115590,209603,28019,28019 - 05/05/2017 - V1,2016-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+115648,209682,31358,31358 - 25/01/2016 - V1,2016-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+115871,209965,28511,28511-06/06/2016 - V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+116011,210128,5752,5752-17/04/2013-V1,2012-01-01,,,,,,2012,,,,,FR,,,10-Aircraft operator activities
+116134,210223,38406,38406-20/03/2017-V1.3,2017-01-01,,,,,,2017,,,,,FR,,,10-Aircraft operator activities
+116156,210268,43613,43613-27/03/2018-V1,2018-01-01,,,,,,2017,,,,,FR,,,10-Aircraft operator activities
+116232,210369,40684,40684-18/05/2018- V1,2017-01-01,,,,,,2015,,,,,FR,,,10-Aircraft operator activities
+116292,210393,36894,36894-14/05/2018-V1,2018-01-01,,,,,,2017,,,,,FR,,,10-Aircraft operator activities
+116602,210666,36972,36972-23/10/2018-V1,2017-01-01,,,,,,2017,,,,,FR,,,10-Aircraft operator activities
+116713,210737,44931,44931-20/02/2019-V1,2018-01-01,,,,,,2018,,,,,FR,,,10-Aircraft operator activities
+116826,210858,44178,44178-20/02/2019-V1,2018-01-01,,,,,,2018,,,,,FR,,,10-Aircraft operator activities
+119566,213020,43301,43301-26/05/2020-V1,2017-01-01,,,,,,2017,,,,,FR,,,10-Aircraft operator activities
+191125,213320,f15516,f15516/23-03-2020/V1,2019-01-01,,,,,,2019,,,,,FR,,,10-Aircraft operator activities
+681125,213940,45459,45459 - 26/06/2020 - V1,2019-01-01,,,,,,2019,,,,,FR,,,10-Aircraft operator activities
+1090625,214680,45965,45965-24/06/2020-V1,2019-01-01,,,,,,2019,,,,,FR,,,10-Aircraft operator activities
+90422,200022,1776,19550-0123,2010-01-01,,,,,DLH,2012,,,,,DE,,,10-Aircraft operator activities
+90531,200304,34169,19550-0413,2010-01-01,,,,,WAU,2012,,,,,DE,,,10-Aircraft operator activities
+90373,200312,2758,19550-0242,2009-01-01,,,,,THY,2012,,,,,DE,,,10-Aircraft operator activities
+90532,200316,824,19550-0072,2012-01-01,,,,,CFG,2012,,,,,DE,,,10-Aircraft operator activities
+90392,200319,26466,19550-0075,2010-01-01,,,,,DCS,2012,,,,,DE,,,10-Aircraft operator activities
+90581,200320,5960,19550-0164,2011-01-01,,,,,D-AZEM,2012,,,,,DE,,,10-Aircraft operator activities
+90568,200334,8960,19550-0287,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90370,200335,4692,19550-0288,2012-01-01,,,,,USA,2012,,,,,DE,,,10-Aircraft operator activities
+90430,200337,28944,19550-0099,2010-01-01,,,,,GWI,2012,,,,,DE,,,10-Aircraft operator activities
+90368,200340,12878,19550-0152,2010-01-01,,,,,DCEIS,2012,,,,,DE,,,10-Aircraft operator activities
+90350,200343,775,19550-0279,2010-01-01,,,,,Not applicable,2012,,,,,DE,,,10-Aircraft operator activities
+90367,200344,35126,19550-0298,2009-01-01,,,,,BOX,2012,,,,,DE,,,10-Aircraft operator activities
+90490,200345,29841,19550-0150,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90410,200349,24784,19550-0193,2011-01-01,,,,,tkw,2012,,,,,DE,,,10-Aircraft operator activities
+90390,200351,3857,19550-0124,2010-01-01,,,,,GEC,2012,,,,,DE,,,10-Aircraft operator activities
+90359,200352,31614,19550-0062,2011-01-01,,,,,M-BTLT,2012,,,,,DE,,,10-Aircraft operator activities
+90416,200382,8221,19550-0041,2012-01-01,,,,,BER,2012,,,,,DE,,,10-Aircraft operator activities
+90372,200383,21756,19550-0046,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90562,200400,1652,19550-0192,2010-01-01,,,,,KAL,2012,,,,,DE,,,10-Aircraft operator activities
+90411,200408,25067,19550-0236,2010-01-01,,,,,MNB,2012,,,,,DE,,,10-Aircraft operator activities
+90726,200418,3647,19550-0162,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90513,200420,4484,19550-0265,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106188,200434,29731,19550-0170,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90551,200437,9243,19550-0098,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90570,200440,1778,19550-0414,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90424,200441,2833,19550-0157,2011-01-01,,,,,DCVHA DCVHB,2012,,,,,DE,,,10-Aircraft operator activities
+90421,200445,24270,19550-0184,2009-01-01,,,,,YM,2012,,,,,DE,,,10-Aircraft operator activities
+106592,200464,32544,19550-0149,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90808,200466,f10653,19550-0494,2011-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90428,200468,8901,19550-0253,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90425,200470,14658,19550-0061,2010-01-01,,,,,BMW,2012,,,,,DE,,,10-Aircraft operator activities
+90891,200471,8236,19550-0277,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90645,200474,19480,19550-0191,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90566,200479,10201,19550-0241,2010-01-01,,,,,SXS,2012,,,,,DE,,,10-Aircraft operator activities
+106299,200480,1389,19550-0506,2011-01-01,,,,,TUIjet,2012,,,,,DE,,,10-Aircraft operator activities
+90571,200483,31353,19550-0296,2010-01-01,,,,,CGTLA,2012,,,,,DE,,,10-Aircraft operator activities
+90580,200520,15176,19550-0065,2010-01-01,,,,,BPO,2012,,,,,DE,,,10-Aircraft operator activities
+90578,200541,10690,19550-0237,2009-01-01,,,,,PGT,2012,,,,,DE,,,10-Aircraft operator activities
+90582,200561,36121,19550-0495,2010-01-01,,,,,BCS,2012,,,,,DE,,,10-Aircraft operator activities
+90569,200644,8082,19550-0266,2009-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90564,200646,37030,19550-0102,2010-01-01,,,,,HAY,2012,,,,,DE,,,10-Aircraft operator activities
+90786,200656,14993,19550-0154,2010-01-01,,,,,BLI,2012,,,,,DE,,,10-Aircraft operator activities
+106096,200659,967,19550-0444,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106094,200661,516,19550-0050,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106095,200663,25978,19550-0053,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106132,200668,28844,19550-0173,2009-01-01,,,,,KZR,2012,,,,,DE,,,10-Aircraft operator activities
+90809,200675,32953,19550-0107,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90865,200715,34984,19550-0472,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+90825,200755,15456,19550-0117,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106153,200796,28795,19550-0079,2010-01-01,,,,,DCCVD,2012,,,,,DE,,,10-Aircraft operator activities
+90805,200816,037070,19550-0115,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106130,201016,34963,19550-0426,2010-01-01,,,,,ACX,2012,,,,,DE,,,10-Aircraft operator activities
+106199,201035,2681,19550-0229,2010-01-01,,,,,THA,2012,,,,,DE,,,10-Aircraft operator activities
+106049,201135,509,19550-0052,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108157,201136,37040,19550-0581,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106158,201235,2840,19550-0158,2010-01-01,,,,,WGT,2012,,,,,DE,,,10-Aircraft operator activities
+106338,201269,606,19550-0063,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106168,201273,32741,19550-0465,2010-01-01,,,,,M-UPCO,2012,,,,,DE,,,10-Aircraft operator activities
+106178,201346,2930,19550-0290,2010-01-01,,,,,WOA,2012,,,,,DE,,,10-Aircraft operator activities
+106196,201368,6802,19550-0178,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106197,201369,27514,19550-0438,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106241,201401,29368,19550-0010,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106247,201407,f11900,19550-0250,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106271,201459,27680,19550-0234,2010-01-01,,,,,FHY,2012,,,,,DE,,,10-Aircraft operator activities
+106311,201465,3343,19550-0134,2012-01-01,,,,,N400AJ,2012,,,,,DE,,,10-Aircraft operator activities
+106339,201491,8980,19550-0076,2010-01-01,,,,,M-ILTA,2012,,,,,DE,,,10-Aircraft operator activities
+106512,201542,28589,19550-0221,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106558,201554,6383,19550-0118,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106564,201557,22448,19550-0068,2010-01-01,,,,,RUS,2012,,,,,DE,,,10-Aircraft operator activities
+106598,201568,12648,19550-0135,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106957,201569,14557,19550-0151,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106912,201574,35785,19550-0423,2009-01-01,,,,,D-CIFM,2012,,,,,DE,,,10-Aircraft operator activities
+106647,201607,25059,19550-0276,2010-01-01,,,,,OAE,2012,,,,,DE,,,10-Aircraft operator activities
+106652,201613,25435,19550-0516,2010-01-01,,,,,N500QA,2012,,,,,DE,,,10-Aircraft operator activities
+106969,201689,15526,19550-0244,2010-01-01,,,,,ADB,2012,,,,,DE,,,10-Aircraft operator activities
+107230,201720,37808,19550-0037,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106928,201730,26105,19550-0103,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106919,201748,1562,19550-0212,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108009,201752,23956,19550-0058,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+106936,201758,18671,19550-0209,2012-01-01,,,,,VDA,2012,,,,,DE,,,10-Aircraft operator activities
+107091,201774,2073,19550-0133,2012-01-01,,,,,OLTRA,2012,,,,,DE,,,10-Aircraft operator activities
+107063,201840,32419,19550-0198,2010-01-01,,,,,ABW,2012,,,,,DE,,,10-Aircraft operator activities
+107070,201847,1323,19550-0160,2012-01-01,,,,,DCKWM,2012,,,,,DE,,,10-Aircraft operator activities
+107623,201850,27838,19550-0125,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+107581,201911,f10709,19550-0501,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+107289,202101,28362,19550-0172,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108103,202218,37379,19550-0584,2010-01-01,,,,,SXD,2012,,,,,DE,,,10-Aircraft operator activities
+107770,202300,30361,19550-0006,2012-01-01,,,,,M-FASH,2012,,,,,DE,,,10-Aircraft operator activities
+107593,202504,2044,19550-0132,2010-01-01,,,,,D-CRAO,2012,,,,,DE,,,10-Aircraft operator activities
+107612,202525,30996,19550-0263,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108038,202586,f11211,19550-0044,2009-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108069,202633,18991,19550-0145,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+107823,202660,22317,19550-0404,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108316,202691,20979,19550-0254,2012-01-01,,,,,GTI,2012,,,,,DE,,,10-Aircraft operator activities
+108101,202702,8272,19550-0337,2012-01-01,,,,,FAT,2012,,,,,DE,,,10-Aircraft operator activities
+107859,202767,6667,19550-0321,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+107861,202770,29389,19550-0259,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108341,202793,26886,19550-0208,2010-01-01,,,,,UTA,2012,,,,,DE,,,10-Aircraft operator activities
+107956,202800,35021,19550-0474,2012-01-01,,,,,VQ-BLV,2012,,,,,DE,,,10-Aircraft operator activities
+108021,202801,37922,19550-0591,2012-01-01,,,,,VP-CCH,2012,,,,,DE,,,10-Aircraft operator activities
+108256,202868,5165,19550-0515,2012-01-01,,,,,OE-GRA,2012,,,,,DE,,,10-Aircraft operator activities
+108104,202910,30605,19550-0161,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108015,202918,27868,19550-0232,2010-01-01,,,,,KKK,2012,,,,,DE,,,10-Aircraft operator activities
+108535,202940,27735,19550-0239,2010-01-01,,,,,SHY,2012,,,,,DE,,,10-Aircraft operator activities
+108255,202949,f10001,19550-0492,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108287,202961,567,19550-0131,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108089,202969,33269,19550-0108,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108148,202988,42192,19550-0120,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108346,203022,968,19550-0267,2012-01-01,,,,,N127SR,2012,,,,,DE,,,10-Aircraft operator activities
+108320,203026,18824,19550-0078,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108671,203029,12218,19550-0300,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108347,203052,29267,19550-0275,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108288,203081,24502,19550-0258,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108254,203091,35418,19550-0441,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108324,203095,31769,19550-0163,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108283,203114,21462,19550-0273,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108415,203115,24568,19550-0080,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108281,203138,f10774,19550-0508,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108418,203164,32678,19550-0093,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108336,203172,12213,19550-0260,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108721,203187,35742,19550-0486,2012-01-01,,,,,M-AGGY,2012,,,,,DE,,,10-Aircraft operator activities
+108681,203206,21734,19550-0205,2010-01-01,,,,,SBI,2012,,,,,DE,,,10-Aircraft operator activities
+108368,203219,f10558,19550-0448,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108613,203238,f10652,19550-0499,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108715,203253,24664,19550-0018,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108614,203259,33706,19550-0313,2010-01-01,,,,,D-COWB,2012,,,,,DE,,,10-Aircraft operator activities
+108451,203292,21723,19550-0207,2010-01-01,,,,,SVR,2012,,,,,DE,,,10-Aircraft operator activities
+108617,203313,22238,19550-0086,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108592,203327,f10232,19550-0454,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108593,203328,31870,19550-0148,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108536,203338,1528,19550-0168,2010-01-01,,,,,IRA,2012,,,,,DE,,,10-Aircraft operator activities
+108533,203344,31914,19550-0507,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108608,203352,f10788,19550-0542,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108631,203353,f10791,19550-0551,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108699,203362,31669,19550-0011,2013-01-01,,,,,VP-BVJ,2012,,,,,DE,,,10-Aircraft operator activities
+108655,203379,30586,19550-0256,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+112105,203391,36920,19550-0555,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108837,203504,28618,19550-0347,2012-01-01,,,,,n888hh,2012,,,,,DE,,,10-Aircraft operator activities
+109769,203528,36235,19550-0553,2009-01-01,,,,,C-GBBX C-GLBB,2012,,,,,DE,,,10-Aircraft operator activities
+108816,203534,156,19550-0195,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108819,203537,33133,19550-0020,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108823,203540,786,19550-0022,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108826,203541,27073,19550-0030,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108827,203542,19823,19550-0194,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108828,203543,3639,19550-0269,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108829,203545,16761,19550-0223,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108831,203547,23244,19550-0204,2010-01-01,,,,,SDM,2012,,,,,DE,,,10-Aircraft operator activities
+108832,203549,21072,19550-0169,2010-01-01,,,,,,2013,,,,,DE,,,10-Aircraft operator activities
+108834,203551,27446,19550-0282,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108835,203552,9200,19550-0283,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+108836,203553,f10464,19550-0493,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+110532,203761,36157,19550-0520,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+109168,203823,f13620,19550-0607,2013-01-01,,,,,CL30,2013,,,,,DE,,,10-Aircraft operator activities
+110786,204981,9354,19550-0582,2012-01-01,,,,,SRK,2012,,,,,DE,,,10-Aircraft operator activities
+110791,205203,F10445,19550-0447,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+110711,205487,35389,19550-0524,2010-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+111177,205621,3085,19550-0370,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+111219,205824,33963,19550-0363,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+111892,206350,34841,19550-0342,2012-01-01,,,,,N527JG,2012,,,,,DE,,,10-Aircraft operator activities
+112502,206844,12196,19550-0373,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+112641,206884,f12963,tbc,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+112603,206906,39258,19550-0644,2013-01-01,,,,,,2013,,,,,DE,,,10-Aircraft operator activities
+112671,207012,38681,19550-0687,2014-01-01,,,,,AZG,2014,,,,,DE,,,10-Aircraft operator activities
+112711,207023,26498,19550-0356,2011-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+112753,207038,37529,19550-0576,2012-01-01,,,,,,2012,,,,,DE,,,10-Aircraft operator activities
+113236,207497,002034,19550-0693,2015-01-01,,,,,EWG,2015,,,,,DE,,,10-Aircraft operator activities
+113291,207563,32268,19550-0430,2013-01-01,,,,,AHO,2013,,,,,DE,,,10-Aircraft operator activities
+113351,207582,444,19550-0606,2015-01-01,,,,,MHV,2015,,,,,DE,,,10-Aircraft operator activities
+113445,207724,39551,19550-0696,2015-01-01,,,,,IKAR,2015,,,,,DE,,,10-Aircraft operator activities
+113456,207745,30463,19550-0686,2013-01-01,,,,,IA,2014,,,,,DE,,,10-Aircraft operator activities
+114970,208973,43591,19550-0697,2016-01-01,,,,,LLX,2016,,,,,DE,,,10-Aircraft operator activities
+115088,209084,40316,19550-0694,2016-01-01,,,,,ATA Concept GmbH,2015,,,,,DE,,,10-Aircraft operator activities
+116071,210022,44626,19550-0702,2017-01-01,,,,,ARZ,2017,,,,,DE,,,10-Aircraft operator activities
+116012,210082,171,19550-0421,2017-01-01,,,,,,2017,,,,,DE,,,10-Aircraft operator activities
+116096,210183,44422,19550-0703,2017-01-01,,,,,SDR,2017,,,,,DE,,,10-Aircraft operator activities
+116577,210592,35215,19550-0450,2017-01-01,,,,,AXG,2017,,,,,DE,,,10-Aircraft operator activities
+118766,212160,114,19550-0712,2019-01-01,,,,,,2019,,,,,DE,,,10-Aircraft operator activities
+119006,212241,20017,19550-0297,2017-01-01,,,,,,2017,,,,,DE,,,10-Aircraft operator activities
+119048,212561,37720,19550-0566,2019-01-01,,,,,KAY,2019,,,,,DE,,,10-Aircraft operator activities
+119246,212580,45016,19550-0713,2019-01-01,,,,,,2019,,,,,DE,,,10-Aircraft operator activities
+119207,212683,42260,19550-0710,2019-01-01,,,,,FEG,2018,,,,,DE,,,10-Aircraft operator activities
+90686,200601,033560,SCT/PRO.PE/170/F/ETS,2010-01-01,,,,,M-JOLY,2012,,,,,GR,,,10-Aircraft operator activities
+90554,200602,34624,Sct/PROPE/40/F.Olympic Air,2009-01-01,,,,,OAL,2012,,,,,GR,,,10-Aircraft operator activities
+90888,200620,9459,Sct/PROPE/1052/F.Universal Air Link,2010-01-01,,,,,N315MK,2012,,,,,GR,,,10-Aircraft operator activities
+90735,200647,20514,SCT/PRO.PE/196/F.ETS,2010-01-01,,,,,AEE,2012,,,,,GR,,,10-Aircraft operator activities
+90734,200648,35228,SCT/PRO.PE/234/F.ETS,2010-01-01,,,,,,2012,,,,,GR,,,10-Aircraft operator activities
+90887,200649,34238,SCT/PRO.PE/184/F.ETS,2010-01-01,,,,,AZI,2012,,,,,GR,,,10-Aircraft operator activities
+90886,200653,31109,831/F.ETS/24-9-2010,2010-01-01,,,,,SEH,2012,,,,,GR,,,10-Aircraft operator activities
+90733,200654,23232,425/F.ETS/27-3-2012,2010-01-01,,,,,AEW,2012,,,,,GR,,,10-Aircraft operator activities
+90732,200655,22404,01,2010-01-01,,,,,,2012,,,,,GR,,,10-Aircraft operator activities
+107652,202567,31722,837/S.ETS/24SEP2010,2010-01-01,,,,,GNJ,2012,,,,,GR,,,10-Aircraft operator activities
+108461,203294,009012,848/F.ETS,2010-01-01,,,,,,2012,,,,,GR,,,10-Aircraft operator activities
+108626,203406,31621,31621-30/03/2011-V1,2010-01-01,,,,,VP-BCW,2012,,,,,GR,,,10-Aircraft operator activities
+108833,203548,f12006,Version 1/16-02-2012(New Monitoring Plan),2011-01-01,,,,,HL7227,2012,,,,,GR,,,10-Aircraft operator activities
+111076,205806,17957,Dpt/ProPe/852/F.ETS,2009-01-01,,,,,N600WG,2012,,,,,GR,,,10-Aircraft operator activities
+111304,205968,24067,Sct/PROPE/40503/1616,2012-01-01,,,,,MASHI,2012,,,,,GR,,,10-Aircraft operator activities
+111490,206106,40100,HCAA SCT/PROPE/5277/248,2014-01-01,,,,,ELB,2014,,,,,GR,,,10-Aircraft operator activities
+111882,206388,35368,HCAA/SCT/PROPE/32689/1414/1414,2012-01-01,,,,,BBG,2012,,,,,GR,,,10-Aircraft operator activities
+112246,206644,37699,664148 31/1/2013,2014-01-01,,,,,HRM HERMES,2012,,,,,GR,,,10-Aircraft operator activities
+112515,206909,39537,HCAA Sct/PROPE/21878/848,2014-01-01,,,,,ROU,2013,,,,,GR,,,10-Aircraft operator activities
+113172,207486,30312,HCAA/SCT/PROPE/18680/941,2012-01-01,,,,,MLM,2012,,,,,GR,,,10-Aircraft operator activities
+116013,209929,42395,1,2017-01-01,,,,,,2018,,,,,GR,,,10-Aircraft operator activities
+117026,210998,43757,17036/20-05-2019,2018-01-01,,,,,OTF,2019,,,,,GR,,,10-Aircraft operator activities
+117606,211319,44218,T/PROPE/14993/8.05.2019,2019-01-01,,,,,MAR,2019,,,,,GR,,,10-Aircraft operator activities
+591125,213821,43116,T/PROPE/9832/10.03.2020,2020-01-01,,,,,,2019,,,,,GR,,,10-Aircraft operator activities
+90234,200141,30078,14/6605-1/2010,2010-01-01,,,,,WZZ,2012,,,,,HU,,,10-Aircraft operator activities
+90233,200163,1803,MP-emission-MAH_Gauss-ver2,2010-01-01,,,,,MAH,2012,,,,,HU,,,10-Aircraft operator activities
+90232,200166,29227,14/16606-1/2010,2010-01-01,,,,,,2012,,,,,HU,,,10-Aircraft operator activities
+90231,200176,27768,102222881,2010-01-01,,,,,,2012,,,,,HU,,,10-Aircraft operator activities
+108784,203156,29545,29545-05/12/2009 V1,2011-01-01,,,,,,2012,,,,,HU,,,10-Aircraft operator activities
+115109,209149,20273,to be notified,2016-01-01,,,,,FAH,2016,,,,,HU,,,10-Aircraft operator activities
+90099,200123,35130,EUAETS 35130 AEMPV01 051010,2011-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+90100,200124,28475,EUAETS 28475 AEMV01 191009,2011-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+90107,200134,35682,EUAETS 35682 AEMv01 051210,2011-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+90191,200201,30279,EUAETS 30279 AEMV01 140809,2009-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+90251,200325,F12111,EUAETS F12111 AEMV01 261110,2011-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+90254,200330,01479,EUAETS 01479 AEMV01 221209,2009-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+90256,200333,3176,EUAETS 3176 AEMV01 110609,2009-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+106560,201460,37436,EUAETS 37436 AEMP V01 060312,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+107538,201990,27616,EUAETS_27616_AEMP_V04_10012012,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+109184,202216,f10447,AE AP f10447 15042010.pdf,2010-01-01,,,,,,2011,,,,,IS,,,10-Aircraft operator activities
+108392,202964,f11216,EUAETS f11216 MP V01 070213,2013-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108722,203134,f12473,EUAETS f12473 AEMP V02 04032012,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108685,203369,f10803,EUAETS_f10803_P3AEMP_V02_140213,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108582,203374,27489,EUAETS_27489_P3AEMP_V01_140912,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108656,203426,f12242,Approved_EUAETS f12242 AEMP V01 120312,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108710,203451,f12191,AEM f12191 VER1 041111,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108701,203455,f10370,The Pyle Group_AEMPhase3,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108700,203461,f11345,EUAETS_f11345_P3AEMP_V01_120912,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108762,203490,f11002,Approved_EUAETS f11002 MP V02 070113,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108765,203497,a11516,PIII_AEMP_Tamarack Flight Management CRCO#a11516,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108791,203515,38098,Kopie von PIII_AEMP_ICE RH-Flugdienst 38098 v2,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108790,203516,f10102,EU-ETS Emissions_APPROVED,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108788,203518,f10977,AEM10035 v1,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108825,203539,499,AEMP_ICE_Aerodata AG_V3,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108838,203550,6331,EUAETS_6331_AEMP_V01_260312,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108876,203570,f12816,Approved_EUAETS f12816 AEMP V01 190912,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+108887,203590,f12181,EUAETS f12181 AEMP V01 270412.,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+109554,204112,33519,Anpartsselskabet AE Monitoring Plan PIII_AEMP_ICE,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+110166,204724,32604,P2_AEMP_CLOSE AIR_APPROVED,2012-01-01,,,,,,2012,,,,,IS,,,10-Aircraft operator activities
+110599,205265,f11407,Approved_EUAETS F11407 AEMP V04 250912,2013-01-01,,,,,,2013,,,,,IS,,,10-Aircraft operator activities
+110950,205705,1403,Approved_EUAETS_1403_P3AEMP_V02_150413,2013-01-01,,,,,,2013,,,,,IS,,,10-Aircraft operator activities
+110989,205753,f11029,Approved_EUAETS f11029 MP V02 280213,2013-01-01,,,,,,2013,,,,,IS,,,10-Aircraft operator activities
+112514,206908,40090,Approved_ETS Emission_WOW_v03_40090,2013-01-01,,,,,,2014,,,,,IS,,,10-Aircraft operator activities
+115788,208662,32928,V03,2013-01-01,,,,,,2013,,,,,IS,,,10-Aircraft operator activities
+114992,209071,1502,EUAETS_1502_P3_AEMP_V03_220317_Approved,2016-01-01,,,,,ABD,2016,,,,,IS,,,10-Aircraft operator activities
+90214,200261,1009,1009,2010-01-01,,,,,N310-N312EL,2012,,,,,IE,,,10-Aircraft operator activities
+90290,200324,2797,AEAP2797,2010-01-01,,,,,N80A-E-Q,2012,,,,,IE,,,10-Aircraft operator activities
+90361,200403,33247,AEM10037,2010-01-01,,,,,N2767,2012,,,,,IE,,,10-Aircraft operator activities
+90576,200664,11930,TKM10123,2010-01-01,,,,,NAO,2012,,,,,IE,,,10-Aircraft operator activities
+90731,200798,298,AEM10010,2010-01-01,,,,,ABR,2012,,,,,IE,,,10-Aircraft operator activities
+106071,201078,8651,AEM10143,2010-01-01,,,,,RYR,2012,,,,,IE,,,10-Aircraft operator activities
+106154,201267,f10397,AEM10147,2010-01-01,,,,,N682GA N327GA,2012,,,,,IE,,,10-Aircraft operator activities
+106249,201416,36816,AEM10146,2011-01-01,,,,,N307PE,2012,,,,,IE,,,10-Aircraft operator activities
+106254,201421,2079,AEM10131,2010-01-01,,,,,N903G N901G,2012,,,,,IE,,,10-Aircraft operator activities
+106258,201424,21455,AEM 10046,2010-01-01,,,,,BCY,2012,,,,,IE,,,10-Aircraft operator activities
+106276,201461,36082,AEM10047 V1,2011-01-01,,,,,N64UC,2012,,,,,IE,,,10-Aircraft operator activities
+106306,201487,22958,AEM10081,2010-01-01,,,,,900HC900HE50HC,2012,,,,,IE,,,10-Aircraft operator activities
+106321,201508,32096,AEM10137,2010-01-01,,,,,PKZ,2012,,,,,IE,,,10-Aircraft operator activities
+106320,201509,f10208,AEM10071,2010-01-01,,,,,N709FG N83JJN51V,2012,,,,,IE,,,10-Aircraft operator activities
+106563,201573,132,AEM10005,2012-01-01,,,,,EIN,2012,,,,,IE,,,10-Aircraft operator activities
+106698,201632,3696,AEM10155v1.0,2009-01-01,,,,,N320GX N917GL,2012,,,,,IE,,,10-Aircraft operator activities
+106862,201692,21409,AEM10092V1.0,2010-01-01,,,,,C-GJKI C-FRKI,2012,,,,,IE,,,10-Aircraft operator activities
+106865,201716,23828,AEM10059,2010-01-01,,,,,N67TM,2012,,,,,IE,,,10-Aircraft operator activities
+107279,202142,21578,EM10068,2010-01-01,,,,,N23FM,2012,,,,,IE,,,10-Aircraft operator activities
+107300,202164,3252,AE AP 3252 V03 22102010,2010-01-01,,,,,N500PC N501PC,2012,,,,,IE,,,10-Aircraft operator activities
+107434,202273,f10968,AEM10115,2012-01-01,,,,,N1932P,2012,,,,,IE,,,10-Aircraft operator activities
+107463,202279,35072,IE-E-AV-10056,2012-01-01,,,,,N637TF CL60,2012,,,,,IE,,,10-Aircraft operator activities
+107771,202595,36958,IE-E-AV-10106,2010-01-01,,,,,N777TC,2012,,,,,IE,,,10-Aircraft operator activities
+107772,202675,35616,35616 Version 2,2010-01-01,,,,,N750 N850 N950LG,2012,,,,,IE,,,10-Aircraft operator activities
+107803,202692,9788,9788,2009-01-01,,,,,N604TF N882C,2012,,,,,IE,,,10-Aircraft operator activities
+107888,202773,34180,MPAEM,2010-01-01,,,,,N312AM,2012,,,,,IE,,,10-Aircraft operator activities
+107969,202813,f10230,f10230 VER1,2010-01-01,,,,,C-GTDO,2012,,,,,IE,,,10-Aircraft operator activities
+107933,202814,32479,AEM10117 V2.0,2012-01-01,,,,,VP-BVG,2012,,,,,IE,,,10-Aircraft operator activities
+107968,202875,5187,EM10172,2012-01-01,,,,,N46WC,2012,,,,,IE,,,10-Aircraft operator activities
+108061,202880,f11803,IE-E-AV-10164,2011-01-01,,,,,N707SG,2012,,,,,IE,,,10-Aircraft operator activities
+108017,202919,f10328,IE-E-AV-10119,2009-01-01,,,,,N70CR,2012,,,,,IE,,,10-Aircraft operator activities
+108030,202938,131,EM10004 Aer Arann AEMP,2011-01-01,,,,,REA Aer Arann,2012,,,,,IE,,,10-Aircraft operator activities
+108062,202955,31850,IE-E-AV-10093,2013-01-01,,,,,N900MF,2012,,,,,IE,,,10-Aircraft operator activities
+108097,202982,28219,IE-E-AV-10083 V4,2010-01-01,,,,,N80HD N88HD,2012,,,,,IE,,,10-Aircraft operator activities
+108221,203090,1584,1584,2009-01-01,,,,,,2012,,,,,IE,,,10-Aircraft operator activities
+108236,203097,29729,AEM10227,2011-01-01,,,,,N877LC,2012,,,,,IE,,,10-Aircraft operator activities
+108244,203111,27173,IRLAVETS 001-02,2012-01-01,,,,,N404ACN432AC,2012,,,,,IE,,,10-Aircraft operator activities
+108277,203136,f10441,IRL AVETS 001/02,2010-01-01,,,,,N192SWN194SW,2012,,,,,IE,,,10-Aircraft operator activities
+108495,203217,36499,IE-E-AV-10170,2011-01-01,,,,,N921WC,2012,,,,,IE,,,10-Aircraft operator activities
+108494,203225,5078,AEM 10044,2010-01-01,,,,,N18DF,2012,,,,,IE,,,10-Aircraft operator activities
+108569,203226,28485,AE AP 28485 V329112010,2010-01-01,,,,,N596DC N597DC,2012,,,,,IE,,,10-Aircraft operator activities
+108505,203239,9116,AEM 10125,2012-01-01,,,,,N707MQ N974VV,2012,,,,,IE,,,10-Aircraft operator activities
+108500,203318,36888,EM10039,2010-01-01,,,,,N604BN604BS,2012,,,,,IE,,,10-Aircraft operator activities
+108503,203321,33209,IE-E-AV-10188,2009-01-01,,,,,N515KSN755RA,2012,,,,,IE,,,10-Aircraft operator activities
+108567,203336,1104,1104,2012-01-01,,,,,IRL,2012,,,,,IE,,,10-Aircraft operator activities
+108565,203363,29280,29280,2010-01-01,,,,,N918CC,2012,,,,,IE,,,10-Aircraft operator activities
+108568,203366,F10361,AEM 10134 v1.0,2011-01-01,,,,,N353PCN387PC,2012,,,,,IE,,,10-Aircraft operator activities
+108571,203367,f11193,10088 - 13/03/2012 - V1,2012-01-01,,,,,N11AM,2012,,,,,IE,,,10-Aircraft operator activities
+108600,203384,f10815,AEM 10171,2010-01-01,,,,,N835AA,2012,,,,,IE,,,10-Aircraft operator activities
+108611,203393,29120,AEM10165,2010-01-01,,,,,MLJGI,2012,,,,,IE,,,10-Aircraft operator activities
+108632,203412,35241,AEM10082-P3,2012-01-01,,,,,N168NQ,2012,,,,,IE,,,10-Aircraft operator activities
+108695,203452,29521,AEM10066 V1.0,2010-01-01,,,,,C-GFHR,2012,,,,,IE,,,10-Aircraft operator activities
+108712,203453,32509,AEM10048-P3,2012-01-01,,,,,N604GWN500M,2012,,,,,IE,,,10-Aircraft operator activities
+108711,203462,33361,33361 AEMP V01 021109,2010-01-01,,,,,N566FN466F,2012,,,,,IE,,,10-Aircraft operator activities
+108795,203523,28444,28444,2010-01-01,,,,,N575NR,2012,,,,,IE,,,10-Aircraft operator activities
+108885,203585,29670,AEM 10181-22/12/2009-V1,2012-01-01,,,,,TKK,2012,,,,,IE,,,10-Aircraft operator activities
+108891,203598,3826,AEM 10072-12/03/2012-v1,2012-01-01,,,,,,2012,,,,,IE,,,10-Aircraft operator activities
+108892,203600,f12093,f12093,2012-01-01,,,,,N93NS,2012,,,,,IE,,,10-Aircraft operator activities
+108894,203602,35160,35160,2012-01-01,,,,,N163EG,2012,,,,,IE,,,10-Aircraft operator activities
+108935,203640,26140,26140,2009-01-01,,,,,N310TK,2012,,,,,IE,,,10-Aircraft operator activities
+108936,203641,28181,28181,2012-01-01,,,,,N76FC H25B,2012,,,,,IE,,,10-Aircraft operator activities
+108955,203656,f11106,AEM 10129,2012-01-01,,,,,N204DD,2012,,,,,IE,,,10-Aircraft operator activities
+109042,203745,f12458,IE-E-AV-10289,2012-01-01,,,,,N495CE,2012,,,,,IE,,,10-Aircraft operator activities
+109247,203787,38890,IE-E-AV-10250,2013-01-01,,,,,N908CAN900KR,2012,,,,,IE,,,10-Aircraft operator activities
+109270,203895,29250,29250,2010-01-01,,,,,N478GSN475LC,2012,,,,,IE,,,10-Aircraft operator activities
+109292,203936,029293,29293,2012-01-01,,,,,N987HP,2012,,,,,IE,,,10-Aircraft operator activities
+109604,204157,f13449,AEM10437,2012-01-01,,,,,N382G,2012,,,,,IE,,,10-Aircraft operator activities
+109644,204204,f10874,AEM10154-P3,2012-01-01,,,,,N365CJ247CJ 35BG,2012,,,,,IE,,,10-Aircraft operator activities
+109662,204208,f12940,f12940,2012-01-01,,,,,N474M N475M,2012,,,,,IE,,,10-Aircraft operator activities
+109729,204272,8180,AEM 10100-P3,2013-01-01,,,,,N900WK N906WK,2012,,,,,IE,,,10-Aircraft operator activities
+109953,204461,3964,EM10077,2010-01-01,,,,,N20G N22G N24G,2012,,,,,IE,,,10-Aircraft operator activities
+110051,204542,26605,IE-E-AV-10247-28/05/13 V1,2013-01-01,,,,,N566L,2013,,,,,IE,,,10-Aircraft operator activities
+110069,204603,f13612,IE-E-AV-10435,2012-01-01,,,,,N551GR N151KV,2012,,,,,IE,,,10-Aircraft operator activities
+110110,204639,18352,AEM10120 v1.0,2009-01-01,,,,,N605RPN606RP,2012,,,,,IE,,,10-Aircraft operator activities
+110211,204765,34422,AEM10136,2012-01-01,,,,,N794ME,2012,,,,,IE,,,10-Aircraft operator activities
+110268,204902,38653,38653,2012-01-01,,,,,HB-VYM,2012,,,,,IE,,,10-Aircraft operator activities
+110330,204963,30469,IE-E-AV-10070,2009-01-01,,,,,N1TS,2012,,,,,IE,,,10-Aircraft operator activities
+110603,205278,f10713,f10713 AEMP,2010-01-01,,,,,N800BD N501DB,2012,,,,,IE,,,10-Aircraft operator activities
+110602,205279,26985,AEMP 26985,2012-01-01,,,,,N504CX,2012,,,,,IE,,,10-Aircraft operator activities
+111166,205863,34053,34053,2009-01-01,,,,,C-FLKX,2012,,,,,IE,,,10-Aircraft operator activities
+111464,206074,1537,AEM 10033,2011-01-01,,,,,N1BX N9BX,2012,,,,,IE,,,10-Aircraft operator activities
+112384,206795,38550,AEM10456,2012-01-01,,,,,N672PS,2012,,,,,IE,,,10-Aircraft operator activities
+112628,206998,39577,IE-E-AV-10478,2014-01-01,,,,,,2013,,,,,IE,,,10-Aircraft operator activities
+112677,207021,8339,IE-E-AV-10057,2009-01-01,,,,,,2012,,,,,IE,,,10-Aircraft operator activities
+113397,207688,42956,AEM10503-P3,2015-01-01,,,,,IBK,2015,,,,,IE,,,10-Aircraft operator activities
+106089,201257,26015,AV019,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106098,201263,8487,AV068,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106100,201264,28484,AV070,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106099,201265,8484,AV086,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106101,201266,35318,AV026,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106128,201295,11479,AV004,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106159,201345,11698,AV067,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106234,201396,34831,AV012,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106273,201457,35213,AV048,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106272,201458,32161,AV046,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106283,201464,20198,AV015,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106388,201527,30965,AV006,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106659,201619,37425,AV001,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+106779,201677,29126,AV089,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+109213,201991,27891,AV065,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107643,202167,8586,AV102,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107305,202174,36770,AV028,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108108,202214,22368,AV002,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107457,202303,f10373,AV079,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107471,202341,F10871,AV044,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107534,202448,36491,AV063,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107535,202449,f10100,AV023,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107537,202450,33685,AV096,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107648,202520,28123,AV013,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107654,202566,19019,AV024,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107661,202571,29205,AV057,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107697,202596,f12493,AV094,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107698,202597,f11186,AV095,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108196,202624,29450,AV003,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107727,202637,32051,AV066,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108082,202652,f10400,AV084,2010-01-01,,,,,N747AE,2012,,,,,IT,,,10-Aircraft operator activities
+107780,202684,31311,AV069,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108084,202783,22663,AV092,2011-01-01,,,,,N502JL,2012,,,,,IT,,,10-Aircraft operator activities
+108348,202841,36730,AV017,2012-01-01,,,,,BAL,2012,,,,,IT,,,10-Aircraft operator activities
+108511,202888,24759,AV029,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+107997,202897,31766,AV025,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108350,202937,38345,AV114,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108452,202950,f10307,AV009,2012-01-01,,,,,N545CC,2012,,,,,IT,,,10-Aircraft operator activities
+108680,202965,31421,AV016,2012-01-01,,,,,LBY,2012,,,,,IT,,,10-Aircraft operator activities
+108657,203038,5051,AV042,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108193,203042,36364,AV093,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108597,203082,29878,AV014,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108252,203104,f10283,AV056,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108250,203109,29423,AV104,2010-01-01,,,,,WIND JET SPA,2012,,,,,IT,,,10-Aircraft operator activities
+108460,203120,f10781,AV062,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108662,203169,f10568,AV100,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108750,203176,F10022,AV011,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108458,203179,f12469,AV097,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108364,203209,32598,AV031,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108578,203358,33586,AV038,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108583,203359,38012,AV121,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108702,203418,27302,AV073,2010-01-01,,,,,N120AK,2012,,,,,IT,,,10-Aircraft operator activities
+108667,203437,f12981,AV117,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108693,203454,26545,AV103,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108698,203460,f10435,AV091,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108730,203472,23132,AV010,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108733,203475,1039,AV041,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108734,203476,31232,AV075,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108737,203478,26954,AV027,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108738,203479,31451,AV060,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108741,203481,f10633,AV072,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108744,203483,22653,AV080,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108747,203486,32661,AV082,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108748,203489,f10414,AV090,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108755,203491,f12234,AV045,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108761,203495,37803,AV118,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108813,203531,f10248,AV054,2010-01-01,,,,,N305LM,2012,,,,,IT,,,10-Aircraft operator activities
+108864,203544,32887,AV051,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108842,203555,31740,AV122,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108841,203556,37243,AV124,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108920,203634,f10372,AV077,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+108921,203635,22368,AV002,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+109071,203738,f11414,AV120,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+112438,203940,F13019,AV125,2013-01-01,,,,,,2013,,,,,IT,,,10-Aircraft operator activities
+109569,204140,31568,AV108,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+109826,204257,32561,AV099,2010-01-01,,,,,,2013,,,,,IT,,,10-Aircraft operator activities
+110551,205101,f10390,AV081,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+111412,205928,18428,AV034,2010-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+112439,205938,36592,av107,2011-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+112346,206761,f12602,AV109,2012-01-01,,,,,,2012,,,,,IT,,,10-Aircraft operator activities
+113788,207763,33364,AV105,2015-01-01,,,,,,2015,,,,,IT,,,10-Aircraft operator activities
+115056,208807,33783,AV049,2009-01-01,,,,,GLP,2012,,,,,IT,,,10-Aircraft operator activities
+114941,209010,43979,AV130,2016-01-01,,,,,BLUE PANORAMA,2016,,,,,IT,,,10-Aircraft operator activities
+116409,209470,42277,AV136,2015-01-01,,,,,,2015,,,,,IT,,,10-Aircraft operator activities
+116008,209486,29756,AV132,2016-01-01,,,,,,2016,,,,,IT,,,10-Aircraft operator activities
+116094,210162,40652,AV139,2017-01-01,,,,,,2017,,,,,IT,,,10-Aircraft operator activities
+116132,210212,1662,AV133,2016-01-01,,,,,,2016,,,,,IT,,,10-Aircraft operator activities
+116177,210267,43521,AV137,2017-01-01,,,,,FIA,2017,,,,,IT,,,10-Aircraft operator activities
+116382,210453,43583,AV138,2017-01-01,,,,,AWT,2017,,,,,IT,,,10-Aircraft operator activities
+116601,210621,44399,AV135,2018-01-01,,,,,ERNEST,2017,,,,,IT,,,10-Aircraft operator activities
+116693,210717,32391,AV134,2013-01-01,,,,,,2013,,,,,IT,,,10-Aircraft operator activities
+119406,212880,43114,AV140,2020-01-01,,,,,,2017,,,,,IT,,,10-Aircraft operator activities
+90050,200040,21470,ART,2010-01-01,,,,,,2012,,,,,LV,,,10-Aircraft operator activities
+90070,200081,23085,report TKM_COM_en_110609,2010-01-01,,,,,BTI,2012,,,,,LV,,,10-Aircraft operator activities
+113444,207742,40987,01-8/200,2015-01-01,,,,,PRW,2015,,,,,LV,,,10-Aircraft operator activities
+90236,200310,34582,LT_AVIA_0001,2010-01-01,,,,,,2012,,,,,LT,,,10-Aircraft operator activities
+90235,200311,23729,LT_AVIA_0002,2010-01-01,,,,,LSK,2012,,,,,LT,,,10-Aircraft operator activities
+107284,201853,31300,LT_AVIA_0003,2010-01-01,,,,,NVD,2012,,,,,LT,,,10-Aircraft operator activities
+110612,205307,39561,39561/82,2013-01-01,,,,,,2013,,,,,LT,,,10-Aircraft operator activities
+112690,207033,039547,1.2.,2013-01-01,,,,,LTU,2014,,,,,LT,,,10-Aircraft operator activities
+119127,212640,43681,43681,2019-01-01,,,,,,2019,,,,,LT,,,10-Aircraft operator activities
+106896,201731,1781,MP AEm_CO2M_LG,2012-01-01,,,,,LGL,2012,,,,,LU,,,10-Aircraft operator activities
+106902,201739,724,MP AEm_CO2M_CV,2012-01-01,,,,,CLX,2012,,,,,LU,,,10-Aircraft operator activities
+107358,201949,f11328,201104av-1-1,2012-01-01,,,,,,2012,,,,,LU,,,10-Aircraft operator activities
+108372,203216,29957,201103av-1-1,2010-01-01,,,,,SMG,2012,,,,,LU,,,10-Aircraft operator activities
+108419,203257,26052,26052,2012-01-01,,,,,SVW,2012,,,,,LU,,,10-Aircraft operator activities
+112627,206925,23415,Monitoring Plan for Annual Emissions,2013-01-01,,,,,LXA,2013,,,,,LU,,,10-Aircraft operator activities
+112928,207222,32947,YZR-A-031-HD,2011-01-01,,,,,YZR,2012,,,,,LU,,,10-Aircraft operator activities
+90213,200282,256,MP P3 AEm_030812_Airmalta_V3_20130725 MRA APPROVED,2010-01-01,,,,,AMC,2012,,,,,MT,,,10-Aircraft operator activities
+106636,201595,34461,MP P3 AEm_030812_Comlux_V2_20130725 MRA APPROVED,2010-01-01,,,,,MLM,2012,,,,,MT,,,10-Aircraft operator activities
+107051,201833,f10459,MP P3 AEM_MT_en_030812_f10459 TEI V02 240812,2012-01-01,,,,,,2012,,,,,MT,,,10-Aircraft operator activities
+108620,203398,38457,Vesting-38457-Phase2-MRA APPROVED20130401,2012-01-01,,,,,,2012,,,,,MT,,,10-Aircraft operator activities
+112569,206954,38482,MP P3 Aircraft-MT_en_030812_Vistajet Malta_V1,2013-01-01,,,,,,2013,,,,,MT,,,10-Aircraft operator activities
+113446,207743,38311,MT_en_030812_Hyperion_V1_20151221_MRA APPROVED,2015-01-01,,,,,,2013,,,,,MT,,,10-Aircraft operator activities
+116057,210149,44510,MP_Aircraft_MT_CORENDON_V1_20180206,2017-01-01,,,,,CXI,2017,,,,,MT,,,10-Aircraft operator activities
+116321,210420,40823,MP not required,2017-01-01,,,,,ULC,2017,,,,,MT,,,10-Aircraft operator activities
+116323,210422,42638,MP not currently required,2016-01-01,,,,,HAT,2016,,,,,MT,,,10-Aircraft operator activities
+116584,210657,39454,T2b_mp_aircraft_ets&corsia_MT_Air X Charter Ltd_V1,2015-01-01,,,,,AXY,2015,,,,,MT,,,10-Aircraft operator activities
+119409,212900,46243,Freebird_V1_MRA APPROVED_20200128,2019-01-01,,,,,FHM,2019,,,,,MT,,,10-Aircraft operator activities
+1121625,214760,39628,MP_AO_etscorsia_MT_HFM_V1_APPROVED 20200304,2020-01-01,,,,,HFM,2020,,,,,MT,,,10-Aircraft operator activities
+90110,200131,12405,NL-201000090,2010-01-01,,,,,N888RK,2012,,,,,NL,,,10-Aircraft operator activities
+90157,200169,278,NL-201000094,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+90174,200202,2440,NL-201000098,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+90241,200284,1640,NL-201100024,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+90271,200323,1833,NL-201000093,2010-01-01,,,,,MP,2012,,,,,NL,,,10-Aircraft operator activities
+90360,200419,F10349,NL-201100030,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+90429,200438,f10294,NL-201000068,2012-01-01,,,,,N515PL,2012,,,,,NL,,,10-Aircraft operator activities
+90553,200580,33613,NL-201000066,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+106113,201274,2723,NL-201000102,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+106115,201276,6984,NL-201000069,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+106340,201478,25536,NL-201000073,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+106663,201623,1005,NL-201000075,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+106686,201627,30852,NL-201000103,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+107241,202076,33648,NL-201000077,2010-01-01,,,,,KDAY,2012,,,,,NL,,,10-Aircraft operator activities
+107852,202759,22713,NL-201000074,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+107919,202784,3707,NL-201000078,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+107920,202785,f11885,NL-201100035,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+107873,202792,32631,NL-201000097,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+107934,202833,32631,NL-201000097,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+107947,202859,34761,NL-201000072,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+108011,202896,30777,NL-201000071,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+108467,203296,1770,NL-201000092,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+108532,203343,29439,NL-201000091,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+108599,203373,37301,NL-201000005,2011-01-01,,,,,CND,2012,,,,,NL,,,10-Aircraft operator activities
+108706,203446,28885,NL-201000081,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+108818,203533,23316,NL-201100031,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+108845,203559,f12150,NL-201100039,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+109013,203714,f10928,NL-201100033,2010-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+109058,203759,37890,NL-201300136,2012-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+112590,206968,36211,NL-201500685,2013-01-01,,,,,,2013,,,,,NL,,,10-Aircraft operator activities
+112670,207018,24134,NL-201000070,2012-01-01,,,,,,2012,,,,,NL,,,10-Aircraft operator activities
+112687,207030,3140,NL-201000079,2012-01-01,,,,,,2014,,,,,NL,,,10-Aircraft operator activities
+113416,207702,22139,NL-00000000,2015-01-01,,,,,,2015,,,,,NL,,,10-Aircraft operator activities
+114888,208982,2628,NL-201600764,2013-01-01,,,,,,2013,,,,,NL,,,10-Aircraft operator activities
+90242,200305,28088,2011/1559,2010-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+90244,200306,5343,2009/1132,2010-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+90245,200307,22212,2011/1560,2010-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+90246,200314,37084,2009/1241,2010-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+90240,200315,33705,2011/1561,2010-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+107918,202782,3536,NO-2009-1245,2010-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+108016,202914,f10118,NO-2011-1562,2013-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+108497,203317,f10772,NO-2012-407,2012-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+108527,203340,24142,NO-2011-1759,2012-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+108557,203361,37652,NO-2012-1083,2012-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+108572,203370,f10893,NO-2012-455,2012-01-01,,,,,,2012,,,,,NO,,,10-Aircraft operator activities
+90363,200425,1763,DZKiOApek-380-12/28646/11/BW,2011-01-01,,,,,LOT,2012,,,,,PL,,,10-Aircraft operator activities
+90364,200426,30797,DZKiOApek-350-20/28828/11/BW,2011-01-01,,,,,SP-ARK,2012,,,,,PL,,,10-Aircraft operator activities
+90365,200427,36143,DOPpek-350-3/24985/13/IK,2011-01-01,,,,,ENT,2012,,,,,PL,,,10-Aircraft operator activities
+106104,201268,35851,350-18/28775/11/BW,2011-01-01,,,,,MLCJP,2012,,,,,PL,,,10-Aircraft operator activities
+108018,202926,30603,DOPpek-350-2/18842/12/IK,2011-01-01,,,,,SP DDA,2012,,,,,PL,,,10-Aircraft operator activities
+108110,202994,31322,DOPpek-350-3/11298/13/IK,2012-01-01,,,,,JDI,2012,,,,,PL,,,10-Aircraft operator activities
+108117,202997,36308,DOPpek-350-3/11014/13/IK,2011-01-01,,,,,LLP,2012,,,,,PL,,,10-Aircraft operator activities
+108118,203000,25625,DOPpek-350-3/10198/13/IK,2012-01-01,,,,,ELO,2012,,,,,PL,,,10-Aircraft operator activities
+108337,203180,37958,DOPpek-350-3/11286/13/IK,2012-01-01,,,,,SP-CEO,2012,,,,,PL,,,10-Aircraft operator activities
+108384,203235,38443,DOPpek-28-3/12133/13/IK,2012-01-01,,,,,BGY,2012,,,,,PL,,,10-Aircraft operator activities
+108496,203316,38446,DOPpek-350-3/25853/13/IK,2012-01-01,,,,,TVP,2012,,,,,PL,,,10-Aircraft operator activities
+108539,203355,32654,DOPpek-350-3/9789/14/IK,2012-01-01,,,,,M-GCCC,2012,,,,,PL,,,10-Aircraft operator activities
+112698,207042,39588,DOP-II-350-1/12200/14/IK,2014-01-01,,,,,MJPLC,2014,,,,,PL,,,10-Aircraft operator activities
+116144,210247,30192,DPK-II.4431.15.2018.EB,2011-01-01,,,,,SRN,2017,,,,,PL,,,10-Aircraft operator activities
+116363,210498,45504,DPK-II-4431.3.2018.EB,2018-01-01,,,,,RYS,2018,,,,,PL,,,10-Aircraft operator activities
+117986,211578,42288,DPK-II.440.47.2019.EB,2019-01-01,,,,,AMQ,2019,,,,,PL,,,10-Aircraft operator activities
+108713,200360,F10830,PM EA.531.01,2010-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+90847,200482,2656,PM EA.501.02,2012-01-01,,,,,TAP,2012,,,,,PT,,,10-Aircraft operator activities
+90890,200652,27218,PM EA.502.03,2012-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108688,201503,24973,AEM Version 1 24973,2012-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108727,201511,F10117,PM EA.528.01,2012-01-01,,,,,N420CL,2012,,,,,PT,,,10-Aircraft operator activities
+108690,201667,29463,ea.519.01,2010-01-01,,,,,N516CC,2012,,,,,PT,,,10-Aircraft operator activities
+108326,201948,7732,PM EA.535.01,2012-01-01,,,,,N82RP,2012,,,,,PT,,,10-Aircraft operator activities
+108686,202562,23781,PM EA.515.02,2012-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108687,203024,24811,Report AEm_COM_en_110609.xls,2010-01-01,,,,,N722JB,2012,,,,,PT,,,10-Aircraft operator activities
+108726,203080,f10281,Version 1 AEM 10-12-2012,2012-01-01,,,,,N254SD,2012,,,,,PT,,,10-Aircraft operator activities
+108692,203142,35174,11481,2012-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108725,203157,44116,PM.EA.539.01-29/12/2012,2011-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108689,203207,25573,EA.511.01,2012-01-01,,,,,RZO,2012,,,,,PT,,,10-Aircraft operator activities
+108724,203240,27477,AEMN1NC-2010-V2,2010-01-01,,,,,N1NC,2012,,,,,PT,,,10-Aircraft operator activities
+108850,203325,32590,PM.EA.547.01,2012-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108720,203381,34256,PM.EA.516.01,2010-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108691,203420,9568,PM EA.526.02,2010-01-01,,,,,N1JN,2012,,,,,PT,,,10-Aircraft operator activities
+108771,203505,32417,AE513.01,2010-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+108798,203514,25266,Mente LLC-ID25266-AEM REPORT 2012,2010-01-01,,,,,N194WM,2012,,,,,PT,,,10-Aircraft operator activities
+108856,203566,2649,PM EA.500.02 III,2010-01-01,,,,,TCV,2012,,,,,PT,,,10-Aircraft operator activities
+108858,203573,F12524,PM EA.544.01,2012-01-01,,,,,N450MB,2012,,,,,PT,,,10-Aircraft operator activities
+108857,203574,F10078,PM EA.541.01,2012-01-01,,,,,N429DD,2012,,,,,PT,,,10-Aircraft operator activities
+108859,203575,388,PM EA.520.01,2010-01-01,,,,,DTA,2012,,,,,PT,,,10-Aircraft operator activities
+108895,203593,28991,PM EA. 546.01,2012-01-01,,,,,PREST,2012,,,,,PT,,,10-Aircraft operator activities
+112719,206994,32688,PM EA.549.01 III,2013-01-01,,,,,,2013,,,,,PT,,,10-Aircraft operator activities
+114611,208765,37186,PM550.01,2012-01-01,,,,,37186,2012,,,,,PT,,,10-Aircraft operator activities
+116100,210187,38781,ETS - BFW,2012-01-01,,,,,,2012,,,,,PT,,,10-Aircraft operator activities
+116386,210322,40846,553_01_III,2018-01-01,,,,,,2017,,,,,PT,,,10-Aircraft operator activities
+116684,210613,44175,TBA,2017-01-01,,,,,,2017,,,,,PT,,,10-Aircraft operator activities
+116653,210675,40726,PMEA 554.01 III,2018-01-01,,,,,,2018,,,,,PT,,,10-Aircraft operator activities
+90153,200172,30600,14153/20.10.2009,2012-01-01,,,,,BLA,2012,,,,,RO,,,10-Aircraft operator activities
+90152,200173,26254,3198/14.03.2011,2012-01-01,,,,,,2012,,,,,RO,,,10-Aircraft operator activities
+90154,200174,2658,14151/20.10.2009,2012-01-01,,,,,ROT,2012,,,,,RO,,,10-Aircraft operator activities
+90492,200603,26019,14155/20.10.2009,2009-01-01,,,,,,2012,,,,,RO,,,10-Aircraft operator activities
+108168,203039,36412,9830,2012-01-01,,,,,,2012,,,,,RO,,,10-Aircraft operator activities
+108789,203521,f10719,2700/25.02.2013,2012-01-01,,,,,,2012,,,,,RO,,,10-Aircraft operator activities
+90827,200955,28497,17366/2011,2012-01-01,,,,,VPA,2012,,,,,SK,,,10-Aircraft operator activities
+106322,201510,36243,17389/2011,2012-01-01,,,,,TVQ,2012,,,,,SK,,,10-Aircraft operator activities
+90255,200332,129,35433-133-2011,2011-01-01,,,,,ADR,2012,,,,,SI,,,10-Aircraft operator activities
+116111,210204,20012,35487-1-2018,2017-01-01,,,,,SOP,2017,,,,,SI,,,10-Aircraft operator activities
+116131,210219,38756,35487-3-2018,2017-01-01,,,,,,2017,,,,,SI,,,10-Aircraft operator activities
+106138,200262,4298,13012012_version4,2012-01-01,,,,,SPANAIR,2012,,,,,ES,,,10-Aircraft operator activities
+90414,200308,29804,MP Aem PUNTO FA SL Rev 1,2010-01-01,,,,,MGO,2012,,,,,ES,,,10-Aircraft operator activities
+90413,200357,6101,1,2010-01-01,,,,,EDW,2012,,,,,ES,,,10-Aircraft operator activities
+90533,200407,22380,22380,2009-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107050,200478,29086,11022011_version3,2011-01-01,,,,,MOV,2012,,,,,ES,,,10-Aircraft operator activities
+106157,200651,30190,18022011_version4,2011-01-01,,,,,VLG,2012,,,,,ES,,,10-Aircraft operator activities
+106162,201175,25406,13012012_version2,2012-01-01,,,,,IWD,2012,,,,,ES,,,10-Aircraft operator activities
+106163,201215,11309,14022013_versión8,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106164,201335,32852,21122009_version1,2009-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106877,201364,4470,25012012_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106366,201518,1475,30032017_version9,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106736,201532,9345,MP AEm_COM_en_110609 R03,2010-01-01,,,,,AEA,2012,,,,,ES,,,10-Aircraft operator activities
+106605,201587,29378,04022011_version2,2011-01-01,,,,,PLM,2012,,,,,ES,,,10-Aircraft operator activities
+106873,201693,f10006,14012011_version3,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106952,201749,32926,10022011_version5,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106989,201750,1689,09022011_version5,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106990,201751,29663,10022011_version5,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+106953,201761,f10331,07072011_version2,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107079,201797,30842,21122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107078,201860,31288,22122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107220,202048,24180,13012012_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107257,202104,38266,27022013_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107606,202503,4402,22122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107625,202533,38329,28012013_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107755,202661,27226,26062012_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107762,202671,2880,08022012_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107853,202762,34933,29072010_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+107980,202881,36637,14012011_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108111,202901,26560,01032011_version2,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108194,203072,35266,17012011_version2,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108338,203184,29057,14022013_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108412,203241,160,14022013_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108587,203375,28448,11022011_version2,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108605,203389,10117,22122009_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108637,203401,28586,27072010_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108639,203404,25843,21122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108635,203405,f12239,22052012_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108634,203411,31816,13072012_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108824,203538,18907,22122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108843,203554,36793,30032011_version1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108839,203557,460,08022012_version2,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108844,203558,15453,16012012_version3,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108846,203561,f10074,27072010_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108847,203563,f13610,29072010_VERSION 1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108848,203565,f10332,29072010_VERSION 1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108849,203568,f12156,29072010_VERSION 1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108851,203569,32826,30032011_version1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108855,203571,34316,29072010_VERSION 1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108866,203578,29825,22122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108882,203586,34271,22122012_version 1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108886,203589,32000,13012012_version2,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108893,203601,29581,22122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+108896,203604,32961,13012011_version 1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+109138,203792,1485,22122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+109176,203818,a11479,13012012_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+109761,204301,A12909,05112012_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+109762,204302,28372,16062011_version3,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+109809,204342,f11018,01112011_version1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110026,204545,34009,21122009_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110146,204690,f10226,18032011_version1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110615,205311,f10221,07072011_version2,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110616,205313,f10136,27072010_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110626,205331,f10915,14012011_version1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110632,205335,28727,27072010_version1,2010-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110643,205341,f11890,30032012_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110663,205392,41018,02092013_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+110877,205648,f12879,09042013_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+111292,205958,f11327,13012012_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+111759,206286,30440,14/01/2011_version1,2012-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+111886,206401,40052,15012014_versión1,2013-01-01,,,,,,2013,,,,,ES,,,10-Aircraft operator activities
+112173,206601,31936,13012011_version1,2011-01-01,,,,,,2012,,,,,ES,,,10-Aircraft operator activities
+112546,206937,40210,031214_version1,2014-01-01,,,,,,2014,,,,,ES,,,10-Aircraft operator activities
+112715,207063,2621,03032015_versión1,2014-01-01,,,,,,2014,,,,,ES,,,10-Aircraft operator activities
+112722,207069,39179,21102013_version1,2013-01-01,,,,,,2013,,,,,ES,,,10-Aircraft operator activities
+112724,207082,f11528,06032015_version 1,2013-01-01,,,,,,2013,,,,,ES,,,10-Aircraft operator activities
+114530,208722,35545,version4_13092016,2016-01-01,,,,,,2016,,,,,ES,,,10-Aircraft operator activities
+115081,209145,f14571,version1_28/03/2017,2016-01-01,,,,,,2016,,,,,ES,,,10-Aircraft operator activities
+115248,209342,35962,06062016_version1,2013-01-01,,,,,,2013,,,,,ES,,,10-Aircraft operator activities
+115289,209362,36232,21102013_version1,2015-01-01,,,,,,2015,,,,,ES,,,10-Aircraft operator activities
+115308,209384,23739,version1_30032017,2016-01-01,,,,,,2016,,,,,ES,,,10-Aircraft operator activities
+116116,210208,42844,versión 0_23022018,2017-01-01,,,,,,2017,,,,,ES,,,10-Aircraft operator activities
+116690,210724,4386,version1_11092018,2018-01-01,,,,,,2018,,,,,ES,,,10-Aircraft operator activities
+116764,210817,44618,version2_25042019,2018-01-01,,,,,,2018,,,,,ES,,,10-Aircraft operator activities
+119066,212620,37266,44230,2019-01-01,,,,,,2019,,,,,ES,,,10-Aircraft operator activities
+119386,212860,44479,version1_24/02/2020,2019-01-01,,,,,,2019,,,,,ES,,,10-Aircraft operator activities
+1080625,214640,26651,Versión_1_07022018,2018-01-01,,,,,,2016,,,,,ES,,,10-Aircraft operator activities
+90243,200041,23235,23235,2010-01-01,,,,,BLX,2012,,,,,SE,,,10-Aircraft operator activities
+90559,200082,2351,2351,2010-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+90556,200462,20170,NV-00912-11,2012-01-01,,,,,SWN,2012,,,,,SE,,,10-Aircraft operator activities
+90557,200643,21450,SE.MG.0033,2010-01-01,,,,,SCW,2012,,,,,SE,,,10-Aircraft operator activities
+106513,201561,13488,13488,2010-01-01,,,,,SCT,2012,,,,,SE,,,10-Aircraft operator activities
+106593,201586,24970,24970,2011-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+107080,201753,30326,30326,2010-01-01,,,,,APF,2012,,,,,SE,,,10-Aircraft operator activities
+107438,202091,f10545,AEM f10545,2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+108504,202186,f12232,NV-02740-12,2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+107763,202511,455,455,2010-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+107764,202512,26939,26939,2010-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+108139,202687,30408,Dnr 502-6003-09 Kp,2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+107999,202900,30120,30120,2012-01-01,,,,,NTJ,2012,,,,,SE,,,10-Aircraft operator activities
+108335,203126,22830,Dnr NV-00728-21,2010-01-01,,,,,Golden,2012,,,,,SE,,,10-Aircraft operator activities
+108333,203171,24912,nv-08952-12,2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+108349,203189,8697,8697,2012-01-01,,,,,SE-CFP,2012,,,,,SE,,,10-Aircraft operator activities
+108474,203252,f10123,"Classic Services, Inc.",2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+108491,203312,1116,1116,2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+108666,203431,3839,3839,2011-01-01,,,,,KIP11,2012,,,,,SE,,,10-Aircraft operator activities
+108873,203560,33709,3,2012-01-01,,,,,N551PM,2012,,,,,SE,,,10-Aircraft operator activities
+112556,206942,2041,2041,2012-01-01,,,,,,2012,,,,,SE,,,10-Aircraft operator activities
+112717,207066,21131,21131,2014-01-01,,,,,VAS,2014,,,,,SE,,,10-Aircraft operator activities
+90560,200060,21912,UK-E-AV-03413,2009-01-01,,,,,QTR,2012,,,,,GB,,,10-Aircraft operator activities
+106187,200062,20894,UK-S-AV-06143,2009-01-01,,,,,N797KK,2012,,,,,GB,,,10-Aircraft operator activities
+90787,200063,f10286,UK-E-AV-07842,2010-01-01,,,,,N196KC,2012,,,,,GB,,,10-Aircraft operator activities
+90530,200086,f10490,UK-E-AV-07683,2010-01-01,,,,,N605ZH,2012,,,,,GB,,,10-Aircraft operator activities
+90555,200087,5601,UK-E-AV-04852,2009-01-01,,,,,HJL,2012,,,,,GB,,,10-Aircraft operator activities
+90426,200088,26191,UK-E-AV-03463,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106892,200090,8962,UK-E-AV-04163,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90427,200100,38941,UK-S-AV-06362,2011-01-01,,,,,BMR,2012,,,,,GB,,,10-Aircraft operator activities
+90291,200101,f200002,UK-E-AV-06372,2011-01-01,,,,,baby,2012,,,,,GB,,,10-Aircraft operator activities
+90419,200102,36085,UK-E-AV-08153,2010-01-01,,,,,VQBPH,2012,,,,,GB,,,10-Aircraft operator activities
+106186,200104,32764,UK-E-AV-00803,2010-01-01,,,,,VT-SBK,2012,,,,,GB,,,10-Aircraft operator activities
+90585,200106,944,UK-E-AV-04572,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106256,200107,6323,UK-E-AV-04562,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90158,200110,201,UK-E-AV-00353,2009-01-01,,,,,ACA,2012,,,,,GB,,,10-Aircraft operator activities
+90239,200112,634,UK-E-AV-00023,2009-01-01,,,,,Midland,2012,,,,,GB,,,10-Aircraft operator activities
+106193,200114,9049,UK-E-AV-05893,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106575,200115,f10193,UK-E-AV-07203,2012-01-01,,,,,N85M,2012,,,,,GB,,,10-Aircraft operator activities
+90687,200116,32293,UK-E-AV-04612,2010-01-01,,,,,N700GR N604GR,2012,,,,,GB,,,10-Aircraft operator activities
+90371,200117,f10275,UK-E-AV-00603,2010-01-01,,,,,JELD-WEN,2012,,,,,GB,,,10-Aircraft operator activities
+106185,200130,23881,UK-E-AV-01613,2009-01-01,,,,,EJM,2012,,,,,GB,,,10-Aircraft operator activities
+106107,200133,f10121,UK-E-AV-07113,2010-01-01,,,,,N85DN,2012,,,,,GB,,,10-Aircraft operator activities
+90665,200135,1423,UK-E-AV-05643,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106228,200136,F10240,UK-E-AV-07273,2010-01-01,,,,,N4377,2012,,,,,GB,,,10-Aircraft operator activities
+106156,200137,1905,UK-E-AV-00013,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90417,200138,3991,UK-E-AV-07852,2010-01-01,,,,,VQ-BIJ,2012,,,,,GB,,,10-Aircraft operator activities
+106237,200140,2297,UK-E-AV-00473,2009-01-01,,,,,RJA,2012,,,,,GB,,,10-Aircraft operator activities
+106068,200147,2782,UK-E-AV-00073,2009-01-01,,,,,UAL,2012,,,,,GB,,,10-Aircraft operator activities
+90190,200161,00369,UK-E-AV-00483,2009-01-01,,,,,Hello,2012,,,,,GB,,,10-Aircraft operator activities
+90685,200178,11968,UK-E-AV-01413,2009-01-01,,,,,G-CEDK,2012,,,,,GB,,,10-Aircraft operator activities
+106106,200181,22294,UK-E-AV-03263,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90412,200240,3751,UK-E-AV-03373,2010-01-01,,,,,N1PG,2012,,,,,GB,,,10-Aircraft operator activities
+90552,200286,27034,UK-E-AV-04013,2009-01-01,,,,,TCX,2012,,,,,GB,,,10-Aircraft operator activities
+106467,200309,f10482,UK-E-AV-07643,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106608,200313,08142,UK-E-AV-00083,2009-01-01,,,,,VIR,2012,,,,,GB,,,10-Aircraft operator activities
+90558,200321,1278,UK-E-AV-01903,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90375,200329,493,UK-E-AV-00733,2010-01-01,,,,,JCB1,2012,,,,,GB,,,10-Aircraft operator activities
+106309,200339,25615,UK-E-AV-01863,2010-01-01,,,,,EXH,2012,,,,,GB,,,10-Aircraft operator activities
+107721,200346,37304,UK-E-AV-02853,2010-01-01,,,,,Verizon,2012,,,,,GB,,,10-Aircraft operator activities
+106176,200348,5216,UK-E-AV-03753,2009-01-01,,,,,ALK,2012,,,,,GB,,,10-Aircraft operator activities
+106319,200353,36081,UK-E-AV-07553,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106136,200361,31585,UK-E-AV-03423,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90561,200381,23226,UK-E-AV-00033,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106479,200401,32993,UK-E-AV-06633,2010-01-01,,,,,MSTCO,2012,,,,,GB,,,10-Aircraft operator activities
+90625,200402,032054,UK-E-AV-07703,2010-01-01,,,,,ARA,2012,,,,,GB,,,10-Aircraft operator activities
+108645,200406,35166,UK-E-AV-10247,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90608,200435,8740,UK-E-AV-00233,2009-01-01,,,,,N800AL or N900AL,2012,,,,,GB,,,10-Aircraft operator activities
+90510,200448,31570,UK-E-AV-01043,2009-01-01,,,,,N709DS,2012,,,,,GB,,,10-Aircraft operator activities
+106279,200451,24776,UK-E-AV-02223,2009-01-01,,,,,707WB,2012,,,,,GB,,,10-Aircraft operator activities
+106183,200461,264,UK-E-AV-00383,2009-01-01,,,,,ANZ,2012,,,,,GB,,,10-Aircraft operator activities
+106102,200463,34154,UK-E-AV-05733,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90579,200467,33050,UK-E-AV-10004,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106457,200481,31345,UK-E-AV-00633,2009-01-01,,,,,NPT,2012,,,,,GB,,,10-Aircraft operator activities
+106230,200562,1755,UK-S-AV-02733,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106381,200581,4381,UK-E-AV-08012,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106935,200640,F10555,UK-E-AV-08152,2011-01-01,,,,,G-JMCL,2012,,,,,GB,,,10-Aircraft operator activities
+106105,200642,28494,UK-E-AV-03903,2012-01-01,,,,,LX,2012,,,,,GB,,,10-Aircraft operator activities
+106097,200645,1922,UK-E-AV-02973,2009-01-01,,,,,MON,2012,,,,,GB,,,10-Aircraft operator activities
+106284,200658,22309,UK-E-AV-03293,2010-01-01,,,,,POT,2012,,,,,GB,,,10-Aircraft operator activities
+106291,200660,7618,UK-E-AV-01883,2009-01-01,,,,,GMA,2012,,,,,GB,,,10-Aircraft operator activities
+106282,200666,27766,UK-E-AV-02773,2009-01-01,,,,,N55LC,2012,,,,,GB,,,10-Aircraft operator activities
+90785,200670,2196,UK-E-AV-03403,2009-01-01,,,,,QF,2012,,,,,GB,,,10-Aircraft operator activities
+106108,200672,1076,UK-E-AV-01693,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+90806,200676,7521,UK-E-AV-01843,2009-01-01,,,,,FOR1,2012,,,,,GB,,,10-Aircraft operator activities
+106174,200695,29929,UK-E-AV-01563,2009-01-01,,,,,EY,2012,,,,,GB,,,10-Aircraft operator activities
+106169,200735,35715,UK-E-AV-06763,2010-01-01,,,,,D0,2012,,,,,GB,,,10-Aircraft operator activities
+106114,200935,00590,UK-E-AV-00003,2009-01-01,,,,,speedbird,2012,,,,,GB,,,10-Aircraft operator activities
+106577,201019,6064,UK-E-AV-01403,2010-01-01,,,,,DUB,2012,,,,,GB,,,10-Aircraft operator activities
+106173,201037,1559,UK-E-AV-02413,2009-01-01,,,,,JAL,2012,,,,,GB,,,10-Aircraft operator activities
+106362,201055,28048,UK-E-AV-06353,2009-01-01,,,,,N276GC,2012,,,,,GB,,,10-Aircraft operator activities
+106606,201056,6890,UK-E-AV-00763,2010-01-01,,,,,N2BD N522BD,2012,,,,,GB,,,10-Aircraft operator activities
+106257,201095,7526,UK-E-AV-01123,2009-01-01,,,,,N176CL N176CG,2012,,,,,GB,,,10-Aircraft operator activities
+106290,201155,29096,UK-E-AV-00253,2009-01-01,,,,,N554CE,2012,,,,,GB,,,10-Aircraft operator activities
+106181,201216,28558,UK-E-AV-00623,2009-01-01,,,,,Astraeus,2012,,,,,GB,,,10-Aircraft operator activities
+106192,201217,30278,UK-E-AV-01343,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106231,201260,372,UK-E-AV-00493,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107089,201272,9248,UK-E-AV-01283,2010-01-01,,,,,N300CR,2012,,,,,GB,,,10-Aircraft operator activities
+106854,201277,31095,UK-E-AV-12431,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107129,201280,33141,UK-E-AV-00453,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106155,201317,07532,UK-E-AV-00093,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106940,201338,2795,UK-E-AV-06873,2010-01-01,,,,,N373ML,2012,,,,,GB,,,10-Aircraft operator activities
+106619,201339,33488,UK-E-AV-01543,2010-01-01,,,,,C-GENW,2012,,,,,GB,,,10-Aircraft operator activities
+106182,201347,2463,UK-E-AV-03633,2009-01-01,,,,,Singapore,2012,,,,,GB,,,10-Aircraft operator activities
+106578,201355,26380,UK-E-AV-04642,2010-01-01,,,,,N10HZ,2012,,,,,GB,,,10-Aircraft operator activities
+106931,201358,25743,UK-E-AV-00553,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106371,201361,8430,UK-E-AV-01723,2009-01-01,,,,,MMOMO,2012,,,,,GB,,,10-Aircraft operator activities
+107098,201363,f11401,UK-S-AV-07143,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106194,201366,10014,UK-E-AV-07043,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106229,201367,27123,UK-E-AV-01353,2010-01-01,,,,,G-XBLU,2012,,,,,GB,,,10-Aircraft operator activities
+107342,201370,15677,UK-E-AV-04003,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106208,201375,33204,UK-E-AV-01313,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106262,201397,33100,UK-E-AV-06512,2010-01-01,,,,,N883RA,2012,,,,,GB,,,10-Aircraft operator activities
+106253,201400,31445,UK-E-AV-02663,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106243,201402,28542,UK-E-AV-05403,2012-01-01,,,,,N53GX,2012,,,,,GB,,,10-Aircraft operator activities
+106385,201406,26684,UK-E-AV-03933,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106852,201415,f10227,UK-E-AV-07253,2011-01-01,,,,,N346PC,2012,,,,,GB,,,10-Aircraft operator activities
+106260,201423,3508,UK-S-AV-02983,2009-01-01,,,,,229DK and 900YG,2012,,,,,GB,,,10-Aircraft operator activities
+108786,201425,34936,UK-E-AV-07853,2010-01-01,,,,,N725LB,2012,,,,,GB,,,10-Aircraft operator activities
+106585,201436,5453,UK-E-AV-01803,2010-01-01,,,,,BEE,2012,,,,,GB,,,10-Aircraft operator activities
+106926,201441,30590,UK-E-AV-00843,2011-01-01,,,,,BND,2012,,,,,GB,,,10-Aircraft operator activities
+107109,201463,f10140,UK-S-AV-07153,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107498,201470,02138,UK-E-AV-01213,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106888,201471,9532,UK-E-AV-07223,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107932,201472,29824,UK-E-AV-01493,2012-01-01,,,,,N737M,2012,,,,,GB,,,10-Aircraft operator activities
+108363,201473,31527,UK-E-AV-05623,2012-01-01,,,,,VP-BEM,2012,,,,,GB,,,10-Aircraft operator activities
+107812,201474,35895,UK-E-AV-07743,2012-01-01,,,,,VP-BFT,2012,,,,,GB,,,10-Aircraft operator activities
+107813,201475,31057,UK-E-AV-05473,2012-01-01,,,,,VP-BNO,2012,,,,,GB,,,10-Aircraft operator activities
+108530,201476,36098,UK-E-AV-10082,2012-01-01,,,,,VQ-BJA,2012,,,,,GB,,,10-Aircraft operator activities
+108390,201477,33587,UK-E-AV-06532,2012-01-01,,,,,VQ-BSC,2012,,,,,GB,,,10-Aircraft operator activities
+108247,201480,28983,UK-E-AV-05752,2012-01-01,,,,,VP-CGO,2012,,,,,GB,,,10-Aircraft operator activities
+107423,201488,3901,UK-S-AV-02783,2010-01-01,,,,,N550MC,2012,,,,,GB,,,10-Aircraft operator activities
+107261,201492,9900,UK-E-AV-03043,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106516,201493,36177,UK-E-AV-05813,2010-01-01,,,,,N71TV,2012,,,,,GB,,,10-Aircraft operator activities
+107424,201495,12499,UK-S-AV-04502,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106310,201502,30494,UK-E-AV-01663,2010-01-01,,,,,M-ECJI,2012,,,,,GB,,,10-Aircraft operator activities
+106851,201504,7382,UK-E-AV-01713,2010-01-01,,,,,7382,2012,,,,,GB,,,10-Aircraft operator activities
+106876,201522,25363,UK-E-AV-05923,2010-01-01,,,,,BOE,2012,,,,,GB,,,10-Aircraft operator activities
+106433,201524,22814,UK-E-AV-03623,2011-01-01,,,,,SHJ,2012,,,,,GB,,,10-Aircraft operator activities
+106602,201529,18980,UK-E-AV-05393,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106453,201533,005800,UK-E-AV-01023,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106607,201537,1673,UK-E-AV-02633,2012-01-01,,,,,KAC,2012,,,,,GB,,,10-Aircraft operator activities
+106623,201544,34670,UK-E-AV-04542,2010-01-01,,,,,G-CFGB,2012,,,,,GB,,,10-Aircraft operator activities
+106639,201546,35176,UK-E-AV-07873,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106850,201549,27210,UK-E-AV-01133,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106599,201555,18224,UK-E-AV-06573,2012-01-01,,,,,uzb,2012,,,,,GB,,,10-Aircraft operator activities
+106938,201556,43776,UK-E-AV-12524,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106861,201558,29444,UK-E-AV-10261,2012-01-01,,,,,N704MF,2012,,,,,GB,,,10-Aircraft operator activities
+107751,201559,436,UK-E-AV-00653,2010-01-01,,,,,AUR,2012,,,,,GB,,,10-Aircraft operator activities
+107131,201562,21529,UK-E-AV-06813,2010-01-01,,,,,G-KDMA,2012,,,,,GB,,,10-Aircraft operator activities
+107221,201563,f10462,UK-E-AV-07613,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106857,201566,28720,UK-E-AV-03873,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107067,201567,4029,UK-E-AV-00993,2013-01-01,,,,,N253CM,2012,,,,,GB,,,10-Aircraft operator activities
+106890,201570,9954,UK-E-AV-02113,2010-01-01,,,,,N964H,2012,,,,,GB,,,10-Aircraft operator activities
+107867,201572,31503,UK-E-AV-00063,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108682,201575,2316,UK-E-AV-03573,2012-01-01,,,,,SAA,2012,,,,,GB,,,10-Aircraft operator activities
+107571,201577,22820,UK-E-AV-06743,2012-01-01,,,,,OMA,2012,,,,,GB,,,10-Aircraft operator activities
+106849,201583,7579,UK-E-AV-12443,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106610,201584,5633,UK-E-AV-00413,2009-01-01,,,,,TSC,2012,,,,,GB,,,10-Aircraft operator activities
+106974,201591,6281,UK-E-AV-02503,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106859,201593,36336,UK-E-AV-10129,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106874,201597,f10470,UK-E-AV-10236,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106780,201598,09807,UK-E-AV-01533,2010-01-01,,,,,UAE,2012,,,,,GB,,,10-Aircraft operator activities
+106882,201599,30637,UK-E-AV-05883,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106644,201605,27693,UK-E-AV-06903,2012-01-01,,,,,N100JS,2012,,,,,GB,,,10-Aircraft operator activities
+107085,201610,17692,UK-E-AV-03163,2009-01-01,,,,,OHY,2012,,,,,GB,,,10-Aircraft operator activities
+106891,201611,1823,UK-E-AV-02723,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106660,201615,23373,UK-E-AV-08133,2012-01-01,,,,,HZ-SKI,2012,,,,,GB,,,10-Aircraft operator activities
+106914,201618,32750,UK-E-AV-04842,2010-01-01,,,,,M-MRBB,2012,,,,,GB,,,10-Aircraft operator activities
+107060,201624,f10378,UK-E-AV-07533,2010-01-01,,,,,N888PM,2012,,,,,GB,,,10-Aircraft operator activities
+106903,201628,12669,UK-E-AV-04962,2009-01-01,,,,,CFE,2012,,,,,GB,,,10-Aircraft operator activities
+106863,201634,32487,UK-E-AV-03173,2009-01-01,,,,,C-GCPM,2012,,,,,GB,,,10-Aircraft operator activities
+107057,201636,f10192,UK-E-AV-07193,2011-01-01,,,,,N333DS,2012,,,,,GB,,,10-Aircraft operator activities
+107140,201637,36957,UK-E-AV-02673,2012-01-01,,,,,N56LT,2012,,,,,GB,,,10-Aircraft operator activities
+106887,201638,32850,UK-E-AV-04362,2009-01-01,,,,,N888ZP,2012,,,,,GB,,,10-Aircraft operator activities
+106934,201654,33802,UK-E-AV-05993,2010-01-01,,,,,VP - BXB,2012,,,,,GB,,,10-Aircraft operator activities
+106853,201656,F10595,UK-E-AV-10253,2010-01-01,,,,,N4CP N83CP N77CP,2012,,,,,GB,,,10-Aircraft operator activities
+108548,201661,5759,UK-E-AV-04063,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106886,201662,8974,UK-E-AV-00793,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107088,201669,F10110,UK-E-AV-07133,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107062,201670,F10351,UK-E-AV-07473,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106856,201673,22305,UK-E-AV-06272,2009-01-01,,,,,VP-BSI,2012,,,,,GB,,,10-Aircraft operator activities
+106927,201675,9705,UK-E-AV-04043,2010-01-01,,,,,VPBPW ZJTHC,2012,,,,,GB,,,10-Aircraft operator activities
+106858,201676,36351,UK-E-AV-10198,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106885,201683,33376,UK-E-AV-06153,2010-01-01,,,,,MALMA,2012,,,,,GB,,,10-Aircraft operator activities
+107126,201685,30131,UK-E-AV-06412,2009-01-01,,,,,TOM,2012,,,,,GB,,,10-Aircraft operator activities
+107169,201687,f10888,UK-E-AV-12467,2012-01-01,,,,,N844GF,2012,,,,,GB,,,10-Aircraft operator activities
+106860,201713,36335,UK-E-AV-10130,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106871,201717,27726,UK-E-AV-00223,2009-01-01,,,,,C-GBGC,2012,,,,,GB,,,10-Aircraft operator activities
+107814,201721,34153,UK-E-AV-05483,2012-01-01,,,,,HB-JSM,2012,,,,,GB,,,10-Aircraft operator activities
+108248,201722,30051,UK-E-AV-06112,2012-01-01,,,,,N737ER,2012,,,,,GB,,,10-Aircraft operator activities
+106899,201725,32412,UK-E-AV-06823,2013-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107931,201726,29107,UK-E-AV-10003,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108531,201727,f11009,UK-E-AV-08372,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106897,201732,6625,UK-E-AV-01013,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106895,201733,24347,UK-E-AV-02573,2011-01-01,,,,,M-SKZL,2012,,,,,GB,,,10-Aircraft operator activities
+106932,201742,1365,UK-E-AV-02053,2012-01-01,,,,,GFA,2012,,,,,GB,,,10-Aircraft operator activities
+106911,201743,31859,UK-E-AV-06552,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106929,201745,342,UK-E-AV-04462,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106937,201746,1703,UK-E-AV-06133,2013-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107235,201747,26988,UK-E-AV-01253,2010-01-01,,,,,N83CW,2012,,,,,GB,,,10-Aircraft operator activities
+106949,201755,31782,UK-E-AV-05553,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106965,201767,F10210,UK-E-AV-07213,2011-01-01,,,,,N91CW,2012,,,,,GB,,,10-Aircraft operator activities
+108134,201770,37266,UK-E-AV-08002,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106970,201772,37019,UK-E-AV-10278,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+106967,201773,3166,UK-E-AV-00813,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107416,201798,04744,UK-E-AV-04033,2012-01-01,,,,,AWC,2012,,,,,GB,,,10-Aircraft operator activities
+108840,201813,6803,UK-E-AV-00213,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108205,201832,37311,UK-E-AV-12509,2012-01-01,,,,,M-EVAN,2012,,,,,GB,,,10-Aircraft operator activities
+107949,201837,24421,UK-E-AV-04293,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107058,201838,3259,UK-E-AV-02023,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107244,201842,f10376,UK-E-AV-07523,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107869,201857,14846,UK-E-AV-01573,2009-01-01,,,,,EVA,2012,,,,,GB,,,10-Aircraft operator activities
+107084,201861,24738,UK-E-AV-01033,2011-01-01,,,,,CGAZU,2012,,,,,GB,,,10-Aircraft operator activities
+107587,201871,27799,UK-E-AV-06502,2012-01-01,,,,,N619SM,2012,,,,,GB,,,10-Aircraft operator activities
+108492,201872,000364,UK-E-AV-04342,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107549,201875,f10801,UK-E-AV-08262,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107232,201892,f10485,UK-E-AV-07663,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107603,201902,18781,UK-E-AV-01763,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107544,201904,36350,UK-E-AV-07343,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107750,201905,f11412,UK-E-AV-08083,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108473,201908,f11350,UK-E-AV-10036,2012-01-01,,,,,N272BC,2012,,,,,GB,,,10-Aircraft operator activities
+107111,201913,9962,UK-W-AV-02293,2012-01-01,,,,,M-FRZN,2012,,,,,GB,,,10-Aircraft operator activities
+108643,201914,f10629,UK-E-AV-07783,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107866,201919,26351,UK-E-AV-01453,2010-01-01,,,,,EZE,2012,,,,,GB,,,10-Aircraft operator activities
+107670,201922,5683,UK-E-AV-03883,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107127,201924,1850,UK-E-AV-12502,2012-01-01,,,,,VP-CRB,2012,,,,,GB,,,10-Aircraft operator activities
+108624,201925,34320,UK-E-AV-00903,2013-01-01,,,,,M-ALUN,2012,,,,,GB,,,10-Aircraft operator activities
+108325,201932,30474,UK-E-AV-05953,2010-01-01,,,,,M-BIGG,2012,,,,,GB,,,10-Aircraft operator activities
+107120,201933,f12750,UK-E-AV-12504,2012-01-01,,,,,N394CK,2012,,,,,GB,,,10-Aircraft operator activities
+107130,201934,f11444,UK-E-AV-10147,2012-01-01,,,,,N7SB,2012,,,,,GB,,,10-Aircraft operator activities
+107953,201941,35354,UK-E-AV-06753,2010-01-01,,,,,XAX,2012,,,,,GB,,,10-Aircraft operator activities
+107913,201946,f11514,UK-E-AV-12561,2012-01-01,,,,,N67MT,2012,,,,,GB,,,10-Aircraft operator activities
+107128,201947,f10023,UK-E-AV-07033,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107889,201975,29387,UK-E-AV-02093,2009-01-01,,,,,N700HM,2012,,,,,GB,,,10-Aircraft operator activities
+108812,201978,21482,UK-E-AV-00753,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107973,201982,f10446,UK-E-AV-07593,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107212,201983,f10836,UK-E-AV-10078,2011-01-01,,,,,N324FP,2012,,,,,GB,,,10-Aircraft operator activities
+107157,201987,F10217,UK-E-AV-07233,2010-01-01,,,,,N200GN,2012,,,,,GB,,,10-Aircraft operator activities
+107663,201988,30922,UK-E-AV-01323,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107219,202013,33938,UK-E-AV-10254,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107483,202014,31508,UK-E-AV-05563,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107242,202017,3769,UK-E-AV-01113,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107893,202019,31555,UK-E-AV-12743,2012-01-01,,,,,MISLE,2012,,,,,GB,,,10-Aircraft operator activities
+107849,202020,25432,UK-E-AV-04213,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107421,202033,35068,UK-E-AV-07063,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107214,202034,f10219,UK-E-AV-07243,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107355,202039,31211,UK-E-AV-06202,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107712,202049,9674,UK-E-AV-03473,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107337,202082,25246,UK-E-AV-03733,2009-01-01,,,,,SSZ,2012,,,,,GB,,,10-Aircraft operator activities
+107437,202083,f12480,UK-E-AV-12471,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107243,202085,12275,UK-E-AV-02693,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107419,202088,6404,UK-E-AV-03703,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107541,202090,10992,UK-E-AV-01813,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108589,202093,37677,UK-E-AV-10680,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107274,202132,f12248,UK-E-AV-12562,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107338,202137,34322,UK-E-AV-10471,2010-01-01,,,,,HL8288,2012,,,,,GB,,,10-Aircraft operator activities
+107288,202144,8849,UK-E-AV-02243,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107801,202146,31673,UK-E-AV-06232,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107545,202147,f10265,UK-E-AV-07313,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107731,202157,f10124,UK-E-AV-07123,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107768,202166,24544,UK-E-AV-07073,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108152,202168,31583,UK-E-AV-01393,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107639,202169,30582,UK-E-AV-03713,2012-01-01,,,,,N900XS,2012,,,,,GB,,,10-Aircraft operator activities
+107550,202170,31697,UK-E-AV-05983,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107315,202182,f10319,UK-E-AV-07403,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108808,202184,24874,UK-E-AV-10448,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107525,202201,31156,UK-E-AV-01733,2010-01-01,,,,,M-NSJS,2012,,,,,GB,,,10-Aircraft operator activities
+107995,202202,21519,UK-E-AV-10251,2012-01-01,,,,,N700KG,2012,,,,,GB,,,10-Aircraft operator activities
+107996,202204,32533,UK-E-AV-05212,2012-01-01,,,,,MAIRS,2012,,,,,GB,,,10-Aircraft operator activities
+107478,202212,24536,UK-E-AV-05762,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108282,202219,26848,UK-E-AV-04622,2010-01-01,,,,,N1955M N1967M,2012,,,,,GB,,,10-Aircraft operator activities
+108463,202220,1727,UK-E-AV-02703,2011-01-01,,,,,LAA,2012,,,,,GB,,,10-Aircraft operator activities
+107749,202224,34746,UK-E-AV-12419,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108703,202239,37678,UK-E-AV-12558,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108389,202263,36881,UK-E-AV-10132,2011-01-01,,,,,N626UT,2012,,,,,GB,,,10-Aircraft operator activities
+108616,202264,29940,UK-E-AV-00933,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107815,202266,F10761,UK-E-AV-10074,2011-01-01,,,,,N898TS,2012,,,,,GB,,,10-Aircraft operator activities
+107428,202267,f12590,UK-E-AV-12538,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108931,202268,35911,UK-E-AV-10653,2012-01-01,,,,,WAC,2012,,,,,GB,,,10-Aircraft operator activities
+107778,202275,28158,UK-E-AV-03213,2012-01-01,,,,,N40XR,2012,,,,,GB,,,10-Aircraft operator activities
+108413,202278,30500,UK-E-AV-03773,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107605,202338,009695,UK-E-AV-01773,2012-01-01,,,,,A6-SMS,2012,,,,,GB,,,10-Aircraft operator activities
+108815,202393,25841,UK-E-AV-01933,2012-01-01,,,,,N282Q,2012,,,,,GB,,,10-Aircraft operator activities
+107685,202447,f12184,UK-E-AV-12481,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108651,202451,32958,UK-E-AV-10248,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107634,202477,20467,UK-E-AV-03583,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108323,202478,23240,UK-E-AV-05032,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108198,202502,6764,UK-E-AV-03033,2012-01-01,,,,,730965191,2012,,,,,GB,,,10-Aircraft operator activities
+108830,202514,25846,AEM02943,2010-01-01,,,,,N841WS,2012,,,,,GB,,,10-Aircraft operator activities
+107607,202515,29388,UK-E-AV-10257,2012-01-01,,,,,HGR8,2012,,,,,GB,,,10-Aircraft operator activities
+107610,202519,32579,UK-E-AV-06593,2010-01-01,,,,,MISKY,2012,,,,,GB,,,10-Aircraft operator activities
+107616,202527,31377,UK-E-AV-04203,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108223,202563,33646,UK-E-AV-06542,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108416,202568,27163,UK-E-AV-06613,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107703,202582,F10914,UK-E-AV-08222,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108518,202587,36342,UK-E-AV-10045,2013-01-01,,,,,M-CICO,2012,,,,,GB,,,10-Aircraft operator activities
+107710,202612,2088,UK-E-AV-06182,2010-01-01,,,,,PK,2012,,,,,GB,,,10-Aircraft operator activities
+108036,202614,24529,UK-E-AV-03793,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108276,202620,30733,UK-E-AV-04352,2010-01-01,,,,,MJSTA,2012,,,,,GB,,,10-Aircraft operator activities
+108033,202621,22252,UK-E-AV-04722,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107972,202623,f10894,UK-E-AV-08032,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107732,202641,9784,UK-E-AV-01423,2012-01-01,,,,,N200DE,2012,,,,,GB,,,10-Aircraft operator activities
+107890,202653,996,UK-E-AV-01483,2012-01-01,,,,,MSR,2012,,,,,GB,,,10-Aircraft operator activities
+107891,202657,12177,UK-E-AV-02863,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107752,202658,17402,UK-E-AV-05793,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108127,202659,31920,UK-E-AV-05052,2010-01-01,,,,,N60LW,2012,,,,,GB,,,10-Aircraft operator activities
+107777,202679,f10312,UK-E-AV-07373,2010-01-01,,,,,N6757M,2012,,,,,GB,,,10-Aircraft operator activities
+108610,202685,21858,UK-E-AV-10273,2011-01-01,,,,,N3618F,2012,,,,,GB,,,10-Aircraft operator activities
+107787,202689,28482,UK-E-AV-01163,2010-01-01,,,,,CGAWH,2012,,,,,GB,,,10-Aircraft operator activities
+108199,202693,f10342,UK-E-AV-10276,2012-01-01,,,,,HZOFC6,2012,,,,,GB,,,10-Aircraft operator activities
+108162,202694,f10452,UK-E-AV-10230,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108630,202704,34064,UK-E-AV-06973,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108764,202705,33143,UK-E-AV-06682,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108067,202706,33773,UK-E-AV-02013,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107974,202707,21887,UK-E-AV-04682,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108272,202708,f10324,UK-E-AV-07443,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107854,202765,33417,UK-E-AV-10270,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108044,202772,26475,UK-E-AV-02923,2011-01-01,,,,,N789NME,2012,,,,,GB,,,10-Aircraft operator activities
+108109,202776,27301,UK-E-AV-02393,2012-01-01,,,,,N888FR,2012,,,,,GB,,,10-Aircraft operator activities
+108459,202787,1801,UK-E-AV-00053,2012-01-01,,,,,MAS,2012,,,,,GB,,,10-Aircraft operator activities
+107892,202788,6179,UK-E-AV-00523,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108200,202789,f10770,UK-E-AV-10051,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108219,202806,38835,UK-E-AV-12863,2012-01-01,,,,,M-UKHA,2013,,,,,GB,,,10-Aircraft operator activities
+108095,202811,04090,UK-S-AV-04153,2012-01-01,,,,,N15UC,2012,,,,,GB,,,10-Aircraft operator activities
+108465,202815,22444,UK-E-AV-05342,2011-01-01,,,,,N523JM,2012,,,,,GB,,,10-Aircraft operator activities
+108027,202834,36005,UK-E-AV-10103,2012-01-01,,,,,kce,2012,,,,,GB,,,10-Aircraft operator activities
+108454,202837,31787,UK-E-AV-12442,2012-01-01,,,,,MROWL,2012,,,,,GB,,,10-Aircraft operator activities
+108852,202839,11068,UK-E-AV-02913,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108653,202840,22593,UK-E-AV-06712,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107940,202842,008099,UK-E-AV-03003,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108502,202849,29471,UK-E-AV-10272,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108026,202850,8352,UK-E-AV-02193,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108739,202851,34017,UK-E-AV-08112,2010-01-01,,,,,M-MIKE,2012,,,,,GB,,,10-Aircraft operator activities
+108787,202870,24583,UK-E-AV-02213,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+107978,202884,DELETED,DELETED,2011-01-01,,,,,DELETED,2012,,,,,GB,,,10-Aircraft operator activities
+108159,202887,4189,UK-E-AV-03973,2013-01-01,,,,,N80AT,2012,,,,,GB,,,10-Aircraft operator activities
+108612,202907,F10305,UK-E-AV-07413,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108107,202909,21857,UK-E-AV-02123,2012-01-01,,,,,N990HC,2012,,,,,GB,,,10-Aircraft operator activities
+108464,202920,22433,UK-E-AV-10371,2012-01-01,,,,,BAH,2012,,,,,GB,,,10-Aircraft operator activities
+108553,202922,37011,UK-E-AV-10264,2012-01-01,,,,,N805DB,2012,,,,,GB,,,10-Aircraft operator activities
+108217,202932,21845,UK-E-AV-03133,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108114,202942,36153,UK-E-AV-10030,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108053,202943,37598,UK-E-AV-12438,2012-01-01,,,,,M-XJOB,2012,,,,,GB,,,10-Aircraft operator activities
+108041,202944,37414,UK-E-AV-12468,2012-01-01,,,,,N777FF,2012,,,,,GB,,,10-Aircraft operator activities
+108042,202946,33298,UK-E-AV-06673,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108043,202947,33203,UK-E-AV-03093,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108050,202948,35826,UK-E-AV-05873,2009-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108566,202951,32962,UK-E-AV-06643,2012-01-01,,,,,MHDAM,2012,,,,,GB,,,10-Aircraft operator activities
+108052,202957,32069,UK-E-AV-05162,2012-01-01,,,,,MFINK,2012,,,,,GB,,,10-Aircraft operator activities
+108898,202963,023603,UK-E-AV-02753,2012-01-01,,,,,LNX,2012,,,,,GB,,,10-Aircraft operator activities
+108615,202966,35644,UK-E-AV-07693,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108270,202968,2296,UK-E-AV-03523,2012-01-01,,,,,RBA,2012,,,,,GB,,,10-Aircraft operator activities
+108116,202984,f11390,UK-E-AV-10240,2012-01-01,,,,,N45WL,2012,,,,,GB,,,10-Aircraft operator activities
+108106,202989,375,UK-E-AV-00503,2010-01-01,,,,,N70PS,2012,,,,,GB,,,10-Aircraft operator activities
+108456,202993,4999,UK-E-AV-06343,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108704,203001,33614,UK-E-AV-04492,2012-01-01,,,,,Hello,2012,,,,,GB,,,10-Aircraft operator activities
+108581,203003,27893,UK-E-AV-02873,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108158,203004,27049,AEM05152,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108853,203012,29157,UK-E-AV-00923,2012-01-01,,,,,N407GC,2012,,,,,GB,,,10-Aircraft operator activities
+108576,203013,36325,UK-E-AV-03083,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108154,203016,629,UK-E-AV-06733,2011-01-01,,,,,BHL,2012,,,,,GB,,,10-Aircraft operator activities
+108752,203017,32705,UK-E-AV-04982,2010-01-01,,,,,BAA JM,2012,,,,,GB,,,10-Aircraft operator activities
+108807,203020,4742,UK-E-AV-05142,2010-01-01,,,,,G-SIRO,2012,,,,,GB,,,10-Aircraft operator activities
+108648,203021,f11242,UK-E-AV-10246,2011-01-01,,,,,N77FK,2012,,,,,GB,,,10-Aircraft operator activities
+108872,203025,30794,UK-E-AV-03683,2012-01-01,,,,,M-ELON,2012,,,,,GB,,,10-Aircraft operator activities
+108163,203027,34630,UK-E-AV-05423,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108268,203032,28325,UK-E-AV-00583,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108267,203033,f10171,UK-E-AV-07163,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108590,203035,36976,UK-E-AV-12433,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108549,203043,f10338,UK-E-AV-07433,2012-01-01,,,,,Nordstrom,2012,,,,,GB,,,10-Aircraft operator activities
+108327,203044,5152,UK-E-AV-10274,2012-01-01,,,,,HZHA1,2012,,,,,GB,,,10-Aircraft operator activities
+108588,203055,22724,UK-E-AV-06842,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108575,203088,f13119,UK-E-AV-12855,2013-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+108574,203092,24116,UK-E-AV-10268,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108275,203094,30955,UK-E-AV-08142,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108237,203098,32952,UK-E-AV-10378,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108670,203099,23081,UK-E-AV-01743,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108274,203100,34299,UK-E-AV-10037,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108332,203103,f10356,UK-E-AV-07483,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108246,203113,11175,UK-E-AV-06893,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108564,203119,10639,UK-S-AV-00443,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108735,203123,31943,UK-E-AV-00513,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108285,203139,f11250,UK-E-AV-10206,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108552,203159,28061,UK-E-AV-06492,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108577,203160,35728,UK-E-AV-10637,2012-01-01,,,,,MODKZ,2012,,,,,GB,,,10-Aircraft operator activities
+108573,203161,36417,UK-E-AV-10189,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108559,203173,30021,UK-E-AV-05503,2012-01-01,,,,,N326JD,2012,,,,,GB,,,10-Aircraft operator activities
+108468,203174,27087,UK-E-AV-06323,2012-01-01,,,,,N624N,2012,,,,,GB,,,10-Aircraft operator activities
+108562,203175,30422,UK-E-AV-10197,2012-01-01,,,,,N711RL,2012,,,,,GB,,,10-Aircraft operator activities
+108529,203177,32120,UK-E-AV-06172,2012-01-01,,,,,N776JB,2012,,,,,GB,,,10-Aircraft operator activities
+108591,203193,38499,UK-E-AV-12816,2013-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+108362,203208,3735,UK-E-AV-02563,2011-01-01,,,,,KQA,2012,,,,,GB,,,10-Aircraft operator activities
+108366,203213,32164,UK-E-AV-10250,2011-01-01,,,,,VTASH,2012,,,,,GB,,,10-Aircraft operator activities
+108563,203218,F12740,UK-E-AV-12535,2012-01-01,,,,,N315RG,2012,,,,,GB,,,10-Aircraft operator activities
+108556,203315,1356,UK-E-AV-02063,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108554,203319,f11354,UK-E-AV-10086,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108586,203326,f11105,UK-E-AV-10053,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108550,203348,31354,UK-E-AV-12542,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108558,203351,34873,UK-E-AV-10656,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108709,203368,1277,UK-E-AV-01923,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108580,203371,f12107,UK-E-AV-12432,2012-01-01,,,,,N450EE,2012,,,,,GB,,,10-Aircraft operator activities
+108606,203376,34976,UK-E-AV-10657,2012-01-01,,,,,M-EANS,2012,,,,,GB,,,10-Aircraft operator activities
+108621,203377,f10880,UK-E-AV-10122,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108677,203395,29496,UK-E-AV-00463,2011-01-01,,,,,M-AJWA,2012,,,,,GB,,,10-Aircraft operator activities
+108629,203396,f12461,UK-E-AV-12520,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108767,203397,f10234,UK-E-AV-07263,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108641,203409,15438,UK-E-AV-02333,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108673,203423,32273,UK-E-AV-04772,2012-01-01,,,,,VP-CBA,2012,,,,,GB,,,10-Aircraft operator activities
+108659,203429,29935,UK-E-AV-01503,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108658,203430,10970,UK-E-AV-12451,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108672,203438,2642,UK-E-AV-03913,2010-01-01,,,,,SYR,2012,,,,,GB,,,10-Aircraft operator activities
+108753,203487,1808,UK-E-AV-06723,2011-01-01,,,,,HKS,2012,,,,,GB,,,10-Aircraft operator activities
+108749,203488,8721,UK-E-AV-04233,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108781,203499,29648,UK-E-AV-10201,2012-01-01,,,,,N426PF,2012,,,,,GB,,,10-Aircraft operator activities
+108775,203500,30837,UK-E-AV-05713,2009-01-01,,,,,Midroc Aviation,2012,,,,,GB,,,10-Aircraft operator activities
+108880,203501,F11137,UK-E-AV-10096,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108794,203524,f10488,UK-E-AV-07673,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108888,203525,22434,UK-E-AV-03343,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108804,203526,F12231,UK-E-AV-12545,2012-01-01,,,,,N750ME,2012,,,,,GB,,,10-Aircraft operator activities
+108805,203527,34107,UK-E-AV-06313,2009-01-01,,,,,N83TY,2012,,,,,GB,,,10-Aircraft operator activities
+108809,203529,4025,UK-E-AV-01523,2010-01-01,,,,,EMB,2012,,,,,GB,,,10-Aircraft operator activities
+108854,203562,35440,UK-E-AV-10271,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108870,203564,f10729,UK-E-AV-08272,2012-01-01,,,,,N420PD,2012,,,,,GB,,,10-Aircraft operator activities
+108863,203567,f10327,UK-E-AV-07423,2010-01-01,,,,,N246V,2012,,,,,GB,,,10-Aircraft operator activities
+108874,203583,22436,UK-E-AV-08073,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108883,203587,f10103,UK-E-AV-07093,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108884,203588,28904,UK-E-AV-05803,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108889,203592,37746,UK-E-AV-07173,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+108899,203605,29326,UK-E-AV-00323,2012-01-01,,,,,XA-RET,2012,,,,,GB,,,10-Aircraft operator activities
+109658,203801,f12235,UK-E-AV-12544,2013-01-01,,,,,B-KEQ,2013,,,,,GB,,,10-Aircraft operator activities
+109217,203864,EM07433,UK-E-AV-07433,2012-01-01,,,,,Nordstrom,2012,,,,,GB,,,10-Aircraft operator activities
+109555,203947,34328,UK-E-AV-10568,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+109615,204172,38743,UK-E-AV-12835,2013-01-01,,,,,M-SNAP,2013,,,,,GB,,,10-Aircraft operator activities
+109889,204197,7628,UK-E-AV-08252,2011-01-01,,,,,N800PJ,2012,,,,,GB,,,10-Aircraft operator activities
+109888,204275,7971,UK-E-AV-04123,2010-01-01,,,,,VP-BJD,2012,,,,,GB,,,10-Aircraft operator activities
+110086,204448,35935,UK-E-AV-10094,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+111243,204987,38166,UK-E-AV-12826,2013-01-01,,,,,N1818C,2013,,,,,GB,,,10-Aircraft operator activities
+110559,205171,38580,UK-E-AV-12900,2013-01-01,,,,,M-YCEF,2013,,,,,GB,,,10-Aircraft operator activities
+110810,205234,37117,UK-E-AV-12822,2013-01-01,,,,,N582D,2013,,,,,GB,,,10-Aircraft operator activities
+110610,205287,3021,UK-E-AV-00673,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+110831,205610,38737,UK-E-AV-12837,2013-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+111763,206003,28796,UK-E-AV-01103,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+111359,206014,f12222,UK-E-AV-12500,2012-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+111491,206067,f13783,UK-E-AV-12985,2014-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+112025,206461,9170,UK-E-AV-00783,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112638,206902,f13919,UK-E-AV-13045,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112640,206904,39446,UK-E-AV-13044,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112639,206905,39375,UK-E-AV-13048,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112669,206932,39127,UK-E-AV-12990,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112608,206933,39718,UK-E-AV-13065,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112624,206940,29599,UK-E-AV-03533,2013-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112688,206970,22109,UK-E-AV-01853,2013-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112646,206987,f12814,UK-E-AV-12469,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112713,206993,36945,UK-E-AV-10199,2013-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+112714,206999,38359,UK-E-AV-12908,2013-01-01,,,,,,2013,,,,,GB,,,10-Aircraft operator activities
+112642,207006,28439,UK-E-AV-06862,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112645,207010,f13501,UK-E-AV-13046,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112668,207015,39243,UK-E-AV-13001,2013-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112697,207019,39170,UK-E-AV-12983,2014-01-01,,,,,9MCJG,2014,,,,,GB,,,10-Aircraft operator activities
+112680,207024,f11532,UK-E-AV-13047,2014-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112696,207035,38724,UK-E-AV-12846,2013-01-01,,,,,,2014,,,,,GB,,,10-Aircraft operator activities
+112692,207036,37638,UK-E-AV-12530,2012-01-01,,,,,MYULI,2012,,,,,GB,,,10-Aircraft operator activities
+112712,207062,037278,UK-E-AV-12454,2014-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112718,207064,24731,UK-E-AV-05973,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112716,207065,24997,UK-E-AV-02443,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+112907,207123,40036,UK-E-AV-13271,2015-01-01,,,,,,2015,,,,,GB,,,10-Aircraft operator activities
+113230,207544,00237,UK-E-AV-00373,2010-01-01,,,,,AIC,2012,,,,,GB,,,10-Aircraft operator activities
+113422,207670,26208,UK-E-AV-13266,2016-01-01,,,,,ejo,2015,,,,,GB,,,10-Aircraft operator activities
+113417,207705,38494,UK-E-AV-13286,2015-01-01,,,,,CVK,2015,,,,,GB,,,10-Aircraft operator activities
+113428,207722,33714,UK-E-AV-13287,2015-01-01,,,,,,2015,,,,,GB,,,10-Aircraft operator activities
+113436,207723,2294,UK-E-AV-13370,2015-01-01,,,,,,2015,,,,,GB,,,10-Aircraft operator activities
+114776,208122,42401,UK-E-AV-13364,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+114228,208143,f14309,UK-E-AV-13359,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+114550,208743,31623,UK-E-AV-08323,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+114648,208805,F11874,UK-E-AV-10275,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+114874,208862,43019,UK-E-AV-13434,2016-01-01,,,,,CLU,2016,,,,,GB,,,10-Aircraft operator activities
+114912,208903,39821,UK-E-AV-13360,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+115007,208970,25465,UK-E-AV-13365,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+115003,208971,39476,UK-E-AV-13096,2016-01-01,,,,,QQE,2017,,,,,GB,,,10-Aircraft operator activities
+115009,208975,36990,UK-E-AV-13354,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+114931,209022,35797,UK-E-AV-07183,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+114938,209029,29813,UK-E-AV-10549,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+114942,209042,37767,UK-E-AV-12566,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+114972,209063,21667,UK-E-AV-03513,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115049,209083,31324,UK-E-AV-06422,2011-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115069,209105,35214,UK-E-AV-13487,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+115057,209106,31771,UK-E-AV-06392,2010-01-01,,,,,N526EE,2012,,,,,GB,,,10-Aircraft operator activities
+115074,209144,38040,UK-E-AV-12494,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115082,209146,42391,UK-E-AV-13368,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+115090,209150,529,UK-E-AV-02143,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115154,209243,43646,UK-E-AV-13470,2016-01-01,,,,,,2016,,,,,GB,,,10-Aircraft operator activities
+115663,209482,41143,UK-E-AV-13472,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+116036,209483,42839,UK-E-AV-13468,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115811,209484,f14474,UK-E-AV-13482,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115650,209485,42742,UK-E-AV-13466,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115588,209526,27210,UK-E-AV-13516,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115874,209564,42259,UK-E-AV-13471,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115652,209689,28603,UK-E-AV-06933,2010-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115810,209922,f10479,UK-E-AV-10651,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115848,209942,32635,UK-E-AV-00873,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115868,209962,f10215,UK-E-AV-10263,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+115906,209972,40782,UK-E-AV-13462,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115910,210009,37101,UK-E-AV-10666,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116113,210043,30093,UK-E-AV-10485,2500-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116041,210044,39891,UK-E-AV-13082,2012-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+115977,210088,37273,UK-E-AV-12464,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116136,210097,38822,UK-E-AV-12814,2017-01-01,,,,,BCI,2017,,,,,GB,,,10-Aircraft operator activities
+116037,210129,43215,UK-E-AV-13473,2017-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+116019,210132,37166,UK-E-AV-12489,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116025,210136,26701,UK-E-AV-10368,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116047,210146,38024,UK-E-AV-12516,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116135,210147,36037,UK-E-AV-10210,2012-01-01,,,,,,2017,,,,,GB,,,10-Aircraft operator activities
+116099,210188,33856,UK-E-AV-10350,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116101,210189,f11027,UK-E-AV-10245,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116102,210190,33031,UK-E-AV-10432,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116108,210202,f12496,UK-E-AV-12517,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116109,210203,36006,UK-E-AV-10061,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116114,210206,37269,UK-E-AV-12483,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116117,210209,21824,UK-E-AV-10625,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116118,210210,34836,UK-E-AV-10259,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116120,210213,21505,UK-E-AV-10561,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116130,210218,37023,UK-E-AV-10667,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116140,210221,478,UK-E-AV-13463,2017-01-01,,,,,BAE,2017,,,,,GB,,,10-Aircraft operator activities
+116137,210224,F11377,UK-E-AV-10080,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116141,210243,f11025,UK-E-AV-10203,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116142,210245,29515,UK-E-AV-10194,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116151,210264,F12979,UK-E-AV-12486,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116168,210282,36827,UK-E-AV-10218,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116173,210302,33259,UK-E-AV-10358,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116333,210365,44953,UK-E-AV-13601,2018-01-01,,,,,,2018,,,,,GB,,,10-Aircraft operator activities
+116343,210366,40665,UK-E-AV-13592,2018-01-01,,,,,,2018,,,,,GB,,,10-Aircraft operator activities
+116229,210367,24148,UK-E-AV-10355,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116231,210368,13174,UK-E-AV-04113,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116313,210414,30499,UK-E-AV-10127,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116322,210421,36987,UK-E-AV-10280,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116344,210459,34107,UK-E-AV-XXXX,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116352,210473,28683,UK-E-AV-12521,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116533,210493,40785,UK-E-AV-13607,2018-01-01,,,,,PR CGI,2018,,,,,GB,,,10-Aircraft operator activities
+116541,210495,46235,UK-E-AV-13668,2018-01-01,,,,,,2018,,,,,GB,,,10-Aircraft operator activities
+116519,210500,44515,UK-E-AV-13588,2019-01-01,,,,,VP-CRA,2018,,,,,GB,,,10-Aircraft operator activities
+116367,210514,37236,UK-E-AV-12436,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116440,210516,42143,UK-E-AV-13606,2018-01-01,,,,,,2018,,,,,GB,,,10-Aircraft operator activities
+116506,210584,F10980,UK-E-AV-10126,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116518,210590,36754,UK-E-AV-10217,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116568,210591,45347,UK-E-AV-13681,2018-01-01,,,,,WUK,2018,,,,,GB,,,10-Aircraft operator activities
+116572,210607,28036,UK-S-AV-13682,2018-01-01,,,,,EDC,2018,,,,,GB,,,10-Aircraft operator activities
+116548,210612,37246,UK-E-AV-13608,2018-01-01,,,,,,2018,,,,,GB,,,10-Aircraft operator activities
+116613,210618,43380,UK-E-AV-13672,2018-01-01,,,,,NRS,2018,,,,,GB,,,10-Aircraft operator activities
+116581,210638,43279,UK-E-AV-13613,2018-01-01,,,,,VLZ,2018,,,,,GB,,,10-Aircraft operator activities
+116625,210676,7867,UK-E-AV-10679,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+116652,210689,35466,UK-W-AV-10607,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+118226,211338,45112,UK-E-AV-13730,2019-01-01,,,,,,2019,,,,,GB,,,10-Aircraft operator activities
+117866,211498,37926,UK-E-AV-12506,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+118406,211538,45521,UK-E-AV-13737,2019-01-01,,,,,,2019,,,,,GB,,,10-Aircraft operator activities
+118146,211698,34647,UK-E-AV-10429,2012-01-01,,,,,,2012,,,,,GB,,,10-Aircraft operator activities
+118586,211798,29558,UK-E-AV-13721,2019-01-01,,,,,,2019,,,,,GB,,,10-Aircraft operator activities
+119132,211838,45376,UK-E-AV-13734,2019-01-01,,,,,,2019,,,,,GB,,,10-Aircraft operator activities
+118786,212058,4053,UK-E-AV-13718,2019-01-01,,,,,,2019,,,,,GB,,,10-Aircraft operator activities
