@@ -645,7 +645,7 @@ account_id,installation_id,installation_name,permit_id,permit_entry_date,permit_
 109272,203913,ArcelorMittal Gent 2,VL201B,2013-01-01,,,,vl00069475000114,2013,0,J. Kennedylaan 51,,9042,Gent,BE,,,24-Production of pig iron or steel
 109280,203915,Agfa-Gevaert nv- Westerlo,VL133B,2013-01-01,,,,vl00105388000531,2013,0,August Cannaertsstraat 125,,2260,Heultje,BE,,,20-Combustion of fuels
 109281,203916,Covestro NV Business Unit Polycarbonates,VL160B,2013-01-01,,,,vl01879684000166,2013,0,Scheldelaan 420 (Haven 507),,2040,Antwerpen,BE,,,42-Production of bulk chemicals
-109472,204032,ACG NV,VL854,2013-01-01,,,,,2013,0,Westvaartdijk 81C,,1850,Grimbergen,BE,,,20-Combustion of fuels
+109472,204032,Asfaltcentrale Grimbergen,VL854,2013-01-01,,,,,2013,0,Westvaartdijk 81C,,1850,Grimbergen,BE,,,20-Combustion of fuels
 109538,204096,Mouterij Albert N.V.-Enkele eesten,VL453A,2013-01-01,,,,,2013,0,Kanaaldijk z/n,,2870,Puurs,BE,,,20-Combustion of fuels
 109539,204097,Mouterij Albert N.V.-Dubbele eesten,VL453B,2013-01-01,,,,,2013,0,Kanaaldijk z/n,,2870,Puurs,BE,,,20-Combustion of fuels
 109540,204109,INEOS Styrolution Belgium,VL164,2013-01-01,,,,vl01863967000139,2013,0,Scheldelaan 600,,2040,Antwerpen,BE,,,42-Production of bulk chemicals
@@ -2671,7 +2671,7 @@ account_id,installation_id,installation_name,permit_id,permit_entry_date,permit_
 94315,510,SN GREGOIRE,06202493,1991-10-11,2012-09-13,,SOCIETE NOUVELLE GREGOIRE,,2005,2012,4 Faubourg de Remiremont,/,88200,Saint-Nabord,FR,0,0,36-Production of paper or cardboard
 94316,509,DALKIA chaufferie ZUP Kellerman,06202458,1995-01-09,2014-11-28,,DALKIA FRANCE,,2005,2014,Rue Ernest Colin,/,88100,Saint-Dié,FR,0,0,20-Combustion of fuels
 94319,508,PAPETERIE DES CHATELLES,06202418,1981-05-27,2016-04-21,,SARL CHATELLES,,2005,2015,Route de Saint-Dié,/,88110,Raon l'Etape,FR,0,0,35-Production of pulp
-94321,507,PAPETERIE RAON,06202417,1993-05-17,,,PAPETERIE RAON,088PAP3850,2005,0,Rue Emile Zola,/,88110,RAON L'ETAPE,FR,0,0,35-Production of pulp
+94321,507,RAON CIRCULAR REGENERATION,06202417,1993-05-17,,,RAON CIRCULAR REGENERATION,088PAP3850,2005,0,Rue Emile Zola,/,88110,RAON L'ETAPE,FR,0,0,35-Production of pulp
 94323,506,MATUSSIERE ET FOREST Rambervillers,06202399,2005-05-17,2008-08-12,,PAPETERIES MATUSSIERE ET FOREST,,2005,2007,Usine de Rambervillers,Badlieu/,88700,RAMBERVILLERS,FR,0,0,9-Industrial plants for the production of (a) pulp from timber or other fibrous materials (b) paper and board
 94326,505,EGGER PANNEAUX ET DECORS - Rambervillers,06202396,1994-03-14,,,EGGER PANNEAUX ET DECORS,,2005,0,ZI Blanchifontaine,/,88700,Rambervillers,FR,9.20662582,23.84875106,20-Combustion of fuels
 94327,504,LUCART,06202307,2000-12-11,,,LUCART,088NOV1271,2005,0,10 rue Maurice Mougeot,BP 35/,88600,Laval sur Vologne,FR,0,0,35-Production of pulp
@@ -3449,7 +3449,7 @@ account_id,installation_id,installation_name,permit_id,permit_entry_date,permit_
 95277,278,AHLSTROM MUNKSJO SPECIALTIES PONT AUDEMER,05800429,1988-09-09,,,AHLSTROM MUNKSJO SPECIALTIES,,2005,0,Rue des Papetiers,BP 131/,27500,Pont Audemer,FR,4.67237,24.85563,35-Production of pulp
 95278,1088,DALKIA Industrie cogénération malterie,10004382,1999-11-03,2012-12-31,,DALKIA ATLANTIQUE SERVICES,,2005,2012,74 rue des Alouettes,/,36104,Issoudun,FR,0,0,1-Combustion installations with a rated thermal input exceeding 20 MW
 95279,277,"Pochet du Courval, Usine de Guimerville",05800416,1997-04-01,,,POCHET DU COURVAL,,2005,0,Usine de Guimerville,/,76340,Hodeng au Bosc,FR,0,0,31-Manufacture of glass
-95280,833,Centrale Thermique de l'Illberg,06700619,2000-10-09,,,MULHOUSE ALSACE AGGLOMERATION (M2A),,2005,0,121 route de Dornach,/,68350,Didenheim,FR,0,0,1-Combustion installations with a rated thermal input exceeding 20 MW
+95280,833,M2A Centrale Thermique de l'Illberg,06700619,2000-10-09,,,MULHOUSE ALSACE AGGLOMERATION (M2A),,2005,0,121 route de Dornach,Didenheim,68350,BRUNSTATT,FR,0,0,20-Combustion of fuels
 95281,275,Sanofi Chimie - Saint Aubin Les Elbeuf,05800412,1947-10-31,,,SANOFI CHIMIE,,2005,0,32 Rue de Verdun,BP 80125,76410,Saint Aubin Les Elbeuf,FR,0,0,20-Combustion of fuels
 95282,832,LILLY France CHAUDIERES,06700612,1968-08-24,,,LILLY France SAS,,2005,0,"Lilly France, 2 rue du Colonel Lilly",BP 70419 Fegersheim/,67412,Illkirch cedex,FR,0,0,20-Combustion of fuels
 95283,1087,CRISTAL UNION Ets de Corbeilles,10002254,1983-07-08,,,CRISTAL UNION,,2005,0,43 rue de la Libération,/,45490,Corbeilles,FR,0,0,20-Combustion of fuels
@@ -6297,7 +6297,7 @@ account_id,installation_id,installation_name,permit_id,permit_entry_date,permit_
 107641,202183,Herstellung von Aluminiumhydroxid Al(OH)3,14310-1721,2012-01-22,,,,,2013,0,Kölner Str. 110,,50127,Bergheim,DE,,,20-Combustion of fuels
 107395,202194,Glykoletherbetrieb (B05 / B07),14616-0036,2010-06-16,2020-12-17,,,,2013,2020,Industrieparkstraße 1,,84508,Burgkirchen,DE,,,42-Production of bulk chemicals
 107396,202195,B02-Ethylenoxid,14616-0180,2007-07-09,,,,,2013,0,Industrieparkstraße 1,,84508,Burgkirchen,DE,,,42-Production of bulk chemicals
-107397,202196,B04-Ethylenglykol,14616-0181,2009-02-19,,,,,2013,0,Industrieparkstraße 1,,84508,Burgkirchen,DE,,,42-Production of bulk chemicals
+107397,202196,B04-Ethylenglykol,14616-0181,2009-02-19,2020-12-17,,,,2013,2020,Industrieparkstraße 1,,84508,Burgkirchen,DE,,,42-Production of bulk chemicals
 107368,202203,Acrylat-Anlage Böhlen,14616-0049,2006-12-12,,,,,2013,0,Dow Olefinverbund GmbH,Olefinstr. 1,04564,Böhlen,DE,,,42-Production of bulk chemicals
 107370,202206,Aromaten-Anlage Böhlen,14616-0056,1998-04-14,,,,,2013,0,Dow Olefinverbund GmbH,Olefinstr.1,04564,Böhlen,DE,,,42-Production of bulk chemicals
 107369,202207,Butadien-Anlage Böhlen,14616-0070,1999-07-01,,,,,2013,0,Dow Olefinverbund GmbH,Olefinstr. 1,04564,Böhlen,DE,,,42-Production of bulk chemicals
@@ -6483,8 +6483,8 @@ account_id,installation_id,installation_name,permit_id,permit_entry_date,permit_
 109083,203661,Papierfabrik Adolf Jass Schwarza GmbH,14280-0165,2013-01-01,2021-01-19,,,16-86-02000010000,2013,2020,Breitscheidstrasse 143,,07407,Rudolstadt,DE,,,36-Production of paper or cardboard
 109197,203663,HAS-Anlage,14613-0008,2013-01-01,,,,,2013,0,Bau 3101,Am Haupttor,06234,Leuna,DE,,,38-Production of nitric acid
 109198,203665,Cumol-Phenol-Anlage,14616-0061,2013-01-01,,,,,2013,0,Bau 3101,Am Haupttor,06234,Leuna,DE,,,42-Production of bulk chemicals
-109199,203666,Caprolactam-Anlage,14616-0186,2013-01-01,,,,,2013,0,Bau 3101,Am Haupttor,06234,Leuna,DE,,,42-Production of bulk chemicals
-109200,203667,Cyclohexanon-Anlange,14616-0187,2013-01-01,,,,,2013,0,Bau 3101,Am Haupttor,06234,Leuna,DE,,,42-Production of bulk chemicals
+109199,203666,Caprolactam-Anlage,14616-0186,2013-01-01,2021-01-28,,,,2013,2020,Bau 3101,Am Haupttor,06234,Leuna,DE,,,42-Production of bulk chemicals
+109200,203667,Cyclohexanon-Anlange,14616-0187,2013-01-01,2021-01-28,,,,2013,2020,Bau 3101,Am Haupttor,06234,Leuna,DE,,,42-Production of bulk chemicals
 109073,203739,MSA-Anlage,14616-0022,2013-01-01,,,,,2013,0,Römerstraße 733,,47443,Moers,DE,,,42-Production of bulk chemicals
 109609,203741,Eisengießerei mit Schmelzbetrieb,14226-0044,2013-01-01,,,,,2013,0,Sophienstraße 52-54,,35576,Wetzlar,DE,,,25-Production or processing of ferrous metals
 109516,203752,Heizzentrale,14310-1795,2001-06-26,,,,,2013,0,Hellweg 15,,33378,Rheda-Wiedenbrück,DE,,,20-Combustion of fuels
