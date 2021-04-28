@@ -14,7 +14,7 @@
     
     
       
-        <title>Accounts - ETS-Watch</title>
+        <title>EU Transaction Log Database - ETS-Watch</title>
       
     
     
@@ -93,7 +93,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Accounts
+              EU Transaction Log Database
             
           </span>
         </div>
@@ -173,15 +173,13 @@
         
   
   
-    
-  
 
 
   
   
   
     <li class="md-tabs__item">
-      <a href="../01-prices/" class="md-tabs__link md-tabs__link--active">
+      <a href="../01-prices/" class="md-tabs__link">
         Development
       </a>
     </li>
@@ -253,14 +251,12 @@
 
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
       <label class="md-nav__link" for="__nav_2">
         Development
@@ -300,65 +296,11 @@
             
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Accounts
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../03-EUTL-database/" class="md-nav__link">
         Accounts
       </a>
-      
-        
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#identifying-operator-holding-accounts" class="md-nav__link">
-    Identifying Operator Holding Accounts
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#retrieving-installationoperator-data" class="md-nav__link">
-    Retrieving Installation/Operator Data
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#putting-it-all-together" class="md-nav__link">
-    Putting It All Together
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -439,13 +381,14 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/OSUKED/ETS-Watch/edit/main/docs/03-EUTL-database.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/OSUKED/ETS-Watch/edit/main/docs/03-eutl-accounts.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
                 
                 <h1 id="eu-transaction-log-database">EU Transaction Log Database<a class="headerlink" href="#eu-transaction-log-database" title="Permanent link">&para;</a></h1>
-<div class="highlight"><pre><span></span><code><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
 <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 <span class="kn">import</span> <span class="nn">xarray</span> <span class="k">as</span> <span class="nn">xr</span>
 
@@ -478,7 +421,7 @@
 <p>For this single page we'll create a function that converts the relevant table into a dataframe</p>
 <div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
 <span class="k">def</span> <span class="nf">extract_search_df</span><span class="p">(</span><span class="n">r</span><span class="p">):</span>
-    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">,</span> <span class="n">features</span><span class="o">=</span><span class="s1">&#39;lxml&#39;</span><span class="p">)</span>
     <span class="n">results_table</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;table&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;id&#39;</span><span class="p">:</span> <span class="s1">&#39;tblAccountSearchResult&#39;</span><span class="p">})</span>
 
     <span class="n">df_search</span> <span class="o">=</span> <span class="p">(</span><span class="n">pd</span>
@@ -579,7 +522,7 @@
 <div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
 <span class="k">def</span> <span class="nf">get_num_operating_accounts_pages</span><span class="p">():</span>
     <span class="n">r</span> <span class="o">=</span> <span class="n">get_accounts_raw_search</span><span class="p">()</span>
-    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">,</span> <span class="n">features</span><span class="o">=</span><span class="s1">&#39;lxml&#39;</span><span class="p">)</span>
 
     <span class="n">soup_pn</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;input&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;name&#39;</span><span class="p">:</span> <span class="s1">&#39;resultList.lastPageNumber&#39;</span><span class="p">})</span>
     <span class="n">num_pages</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">soup_pn</span><span class="p">[</span><span class="s1">&#39;value&#39;</span><span class="p">])</span>
@@ -622,6 +565,8 @@
         <span class="n">df_search</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/account_search.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="n">df_search</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/account_search.csv&#39;</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">df_search</span>
 </code></pre></div>
 <div class="highlight"><pre><span></span><code><span class="n">redownload_search_df</span> <span class="o">=</span> <span class="kc">False</span>
 
@@ -726,7 +671,7 @@ Name: account_type, dtype: int64
 
 <span class="k">def</span> <span class="nf">extract_key_table_soups</span><span class="p">(</span><span class="n">account_url</span><span class="p">):</span>
     <span class="n">r</span> <span class="o">=</span> <span class="n">retry_request</span><span class="p">(</span><span class="n">account_url</span><span class="p">)</span>
-    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">,</span> <span class="n">features</span><span class="o">=</span><span class="s1">&#39;lxml&#39;</span><span class="p">)</span>
 
     <span class="n">operator_master_table</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;table&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;summary&#39;</span><span class="p">:</span> <span class="s1">&#39;Master account details&#39;</span><span class="p">})</span>
     <span class="n">operator_child_table</span><span class="p">,</span> <span class="n">compliance_table</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">findAll</span><span class="p">(</span><span class="s1">&#39;table&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;summary&#39;</span><span class="p">:</span> <span class="s1">&#39;Child account details&#39;</span><span class="p">})</span>
@@ -741,7 +686,8 @@ Name: account_type, dtype: int64
 </code></pre></div>
 <p><br></p>
 <p>The first table we'll extract is the time-series compliance data</p>
-<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">try_convert</span><span class="p">(</span><span class="n">value</span><span class="p">,</span> <span class="n">default</span><span class="p">,</span> <span class="n">type_</span><span class="p">):</span>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">try_convert</span><span class="p">(</span><span class="n">value</span><span class="p">,</span> <span class="n">default</span><span class="p">,</span> <span class="n">type_</span><span class="p">):</span>
     <span class="k">try</span><span class="p">:</span>
         <span class="k">return</span> <span class="n">type_</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
     <span class="k">except</span><span class="p">:</span>
@@ -1234,9 +1180,7 @@ dtype: object
     <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">data_dir</span><span class="p">):</span>
         <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">data_dir</span><span class="p">)</span>
 
-    <span class="n">redownload_aircraft</span> <span class="o">=</span> <span class="kc">True</span>
-
-    <span class="k">if</span> <span class="n">redownload_aircraft</span> <span class="o">==</span> <span class="kc">True</span><span class="p">:</span>
+    <span class="k">if</span> <span class="n">redownload</span> <span class="o">==</span> <span class="kc">True</span><span class="p">:</span>
         <span class="n">aircraft_dfs</span> <span class="o">=</span> <span class="n">construct_aircraft_dfs</span><span class="p">(</span><span class="n">account_ids</span><span class="p">)</span>
 
         <span class="k">for</span> <span class="n">filename</span><span class="p">,</span> <span class="n">df_aircraft</span> <span class="ow">in</span> <span class="n">aircraft_dfs</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
@@ -1269,12 +1213,12 @@ dtype: object
 <h3 id="putting-it-all-together">Putting It All Together<a class="headerlink" href="#putting-it-all-together" title="Permanent link">&para;</a></h3>
 <p>Finally we'll finish by creating a wrapper that downloads all of the data to the specified directory</p>
 <div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
-<span class="k">def</span> <span class="nf">redownload_all_data</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="s1">&#39;data&#39;</span><span class="p">):</span>
+<span class="k">def</span> <span class="nf">retrieve_all_data</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="s1">&#39;data&#39;</span><span class="p">,</span> <span class="n">redownload_search</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">redownload_installations</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">redownload_aircraft</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
     <span class="n">all_dfs</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">()</span>
-    <span class="n">all_dfs</span><span class="p">[</span><span class="s1">&#39;account_search&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">get_search_df</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="n">data_dir</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="n">all_dfs</span><span class="p">[</span><span class="s1">&#39;account_search&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">get_search_df</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="n">data_dir</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="p">(</span><span class="n">redownload_installations</span><span class="o">|</span><span class="n">redownload_installations</span><span class="o">|</span><span class="n">redownload_aircraft</span><span class="p">))</span>
 
-    <span class="n">installation_dfs</span> <span class="o">=</span> <span class="n">get_installation_dfs</span><span class="p">(</span><span class="n">all_dfs</span><span class="p">[</span><span class="s1">&#39;account_search&#39;</span><span class="p">],</span> <span class="n">data_dir</span><span class="o">=</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/installations&#39;</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-    <span class="n">aircraft_dfs</span> <span class="o">=</span> <span class="n">get_aircraft_dfs</span><span class="p">(</span><span class="n">all_dfs</span><span class="p">[</span><span class="s1">&#39;account_search&#39;</span><span class="p">],</span> <span class="n">data_dir</span><span class="o">=</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/aircraft&#39;</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="n">installation_dfs</span> <span class="o">=</span> <span class="n">get_installation_dfs</span><span class="p">(</span><span class="n">all_dfs</span><span class="p">[</span><span class="s1">&#39;account_search&#39;</span><span class="p">],</span> <span class="n">data_dir</span><span class="o">=</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/installations&#39;</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="n">redownload_installations</span><span class="p">)</span>
+    <span class="n">aircraft_dfs</span> <span class="o">=</span> <span class="n">get_aircraft_dfs</span><span class="p">(</span><span class="n">all_dfs</span><span class="p">[</span><span class="s1">&#39;account_search&#39;</span><span class="p">],</span> <span class="n">data_dir</span><span class="o">=</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/aircraft&#39;</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="n">redownload_aircraft</span><span class="p">)</span>
 
     <span class="n">all_dfs</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">installation_dfs</span><span class="p">)</span>
     <span class="n">all_dfs</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">aircraft_dfs</span><span class="p">)</span>
@@ -1284,7 +1228,7 @@ dtype: object
 <div class="highlight"><pre><span></span><code><span class="n">redownload_everything</span> <span class="o">=</span> <span class="kc">False</span>
 
 <span class="k">if</span> <span class="n">redownload_everything</span> <span class="o">==</span> <span class="kc">True</span><span class="p">:</span>
-    <span class="n">all_dfs</span> <span class="o">=</span> <span class="n">redownload_all_data</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="s1">&#39;../data&#39;</span><span class="p">)</span>
+    <span class="n">all_dfs</span> <span class="o">=</span> <span class="n">retrieve_all_data</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="s1">&#39;../data&#39;</span><span class="p">)</span>
 </code></pre></div>
                 
               
@@ -1301,39 +1245,6 @@ dtype: object
       
         
 <footer class="md-footer">
-  
-    <nav class="md-footer__inner md-grid" aria-label="Footer">
-      
-        <a href="../02-installation-allocations/" class="md-footer__link md-footer__link--prev" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Installations
-            </div>
-          </div>
-        </a>
-      
-      
-        <a href="../04-deployment/" class="md-footer__link md-footer__link--next" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Deployment
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">

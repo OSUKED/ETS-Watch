@@ -14,7 +14,7 @@
     
     
       
-        <title>Market Prices - ETS-Watch</title>
+        <title>Title - ETS-Watch</title>
       
     
     
@@ -93,7 +93,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Market Prices
+              Title
             
           </span>
         </div>
@@ -173,15 +173,13 @@
         
   
   
-    
-  
 
 
   
   
   
     <li class="md-tabs__item">
-      <a href="./" class="md-tabs__link md-tabs__link--active">
+      <a href="../01-prices/" class="md-tabs__link">
         Development
       </a>
     </li>
@@ -253,14 +251,12 @@
 
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
       <label class="md-nav__link" for="__nav_2">
         Development
@@ -276,21 +272,11 @@
             
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../01-prices/" class="md-nav__link">
         Market Prices
       </a>
-      
     </li>
   
 
@@ -366,7 +352,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/OSUKED/ETS-Watch/edit/main/docs/01-prices.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/OSUKED/ETS-Watch/edit/main/docs/01-mkt-prices.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -381,19 +367,21 @@
 <span class="kn">import</span> <span class="nn">FEAutils</span> <span class="k">as</span> <span class="nn">hlp</span>
 
 <span class="kn">import</span> <span class="nn">os</span>
-<span class="kn">import</span> <span class="nn">dotenv</span>
 <span class="kn">import</span> <span class="nn">requests</span>
 </code></pre></div>
-<div class="highlight"><pre><span></span><code><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">JSON</span>
+<div class="highlight"><pre><span></span><code><span class="kn">import</span> <span class="nn">dotenv</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">JSON</span>
 </code></pre></div>
 <div class="highlight"><pre><span></span><code><span class="n">dotenv</span><span class="o">.</span><span class="n">load_dotenv</span><span class="p">()</span>
 <span class="n">api_key</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">getenv</span><span class="p">(</span><span class="s1">&#39;QUANDL_API_KEY&#39;</span><span class="p">)</span>
 </code></pre></div>
 <div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
-<span class="k">def</span> <span class="nf">get_ets_mkt_data</span><span class="p">():</span>
+<span class="k">def</span> <span class="nf">get_ets_mkt_data</span><span class="p">(</span>
+    <span class="n">api_key</span><span class="p">,</span> 
+    <span class="n">api_root</span><span class="o">=</span><span class="s1">&#39;https://www.quandl.com/api/v3/datasets&#39;</span><span class="p">,</span> 
+    <span class="n">quandl_code</span><span class="o">=</span><span class="s1">&#39;CHRIS/ICE_C1&#39;</span>
+<span class="p">):</span>
     <span class="c1"># Constructing endpoint</span>
-    <span class="n">api_root</span> <span class="o">=</span> <span class="s1">&#39;https://www.quandl.com/api/v3/datasets&#39;</span>
-    <span class="n">quandl_code</span> <span class="o">=</span> <span class="s1">&#39;CHRIS/ICE_C1&#39;</span>
     <span class="n">endpoint_url</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">api_root</span><span class="si">}</span><span class="s1">/</span><span class="si">{</span><span class="n">quandl_code</span><span class="si">}</span><span class="s1">.json&#39;</span>
 
     <span class="c1"># Making the data request</span>
@@ -415,14 +403,14 @@
 </code></pre></div>
 <div class="highlight"><pre><span></span><code><span class="o">%%</span><span class="n">time</span>
 
-<span class="n">df_ets</span> <span class="o">=</span> <span class="n">get_ets_mkt_data</span><span class="p">()</span>
+<span class="n">df_ets</span> <span class="o">=</span> <span class="n">get_ets_mkt_data</span><span class="p">(</span><span class="n">api_key</span><span class="p">)</span>
 
 <span class="n">df_ets</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 </code></pre></div>
-<div class="highlight"><pre><span></span><code>Wall time: 1.4 s
+<div class="highlight"><pre><span></span><code>Wall time: 1.36 s
 
 
-C:\Users\Ayrto\anaconda3\envs\ETSWatch\lib\site-packages\ipykernel_launcher.py:17: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will*not* be treated as literal strings when regex=True.
+C:\Users\Ayrto\anaconda3\envs\ETSWatch\lib\site-packages\ipykernel_launcher.py:19: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will*not* be treated as literal strings when regex=True.
 </code></pre></div>
 <table>
 <thead>
@@ -612,39 +600,6 @@ C:\Users\Ayrto\anaconda3\envs\ETSWatch\lib\site-packages\ipykernel_launcher.py:1
       
         
 <footer class="md-footer">
-  
-    <nav class="md-footer__inner md-grid" aria-label="Footer">
-      
-        <a href=".." class="md-footer__link md-footer__link--prev" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Home
-            </div>
-          </div>
-        </a>
-      
-      
-        <a href="../02-installation-allocations/" class="md-footer__link md-footer__link--next" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Installations
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">

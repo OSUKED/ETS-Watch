@@ -305,6 +305,18 @@
   
 
           
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-deployment/" class="md-nav__link">
+        Deployment
+      </a>
+    </li>
+  
+
+          
         </ul>
       </nav>
     </li>
@@ -364,6 +376,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#transferring-other-images" class="md-nav__link">
+    Transferring Other Images
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -390,6 +409,7 @@
 <span class="kn">from</span> <span class="nn">nbdev.export2html</span> <span class="kn">import</span> <span class="n">convert_md</span>
 
 <span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">shutil</span>
 <span class="kn">import</span> <span class="nn">codecs</span>
 <span class="kn">from</span> <span class="nn">ipypb</span> <span class="kn">import</span> <span class="n">track</span>
 <span class="kn">from</span> <span class="nn">warnings</span> <span class="kn">import</span> <span class="n">warn</span>
@@ -439,8 +459,10 @@
 <progress style="width:60ex" max="4" value="4" class="Progress-main"/></progress>
 <span class="Progress-label"><strong>100%</strong></span>
 <span class="Iteration-label">4/4</span>
-<span class="Time-label">[00:01<00:01, 0.32s/it]</span></div>
+<span class="Time-label">[00:03<00:01, 0.66s/it]</span></div>
 
+<div class="highlight"><pre><span></span><code>C:\Users\Ayrto\anaconda3\envs\wind-farms\lib\site-packages\ipykernel_launcher.py:22: UserWarning: images were failed to be exported for ./00-documentation.ipynb
+</code></pre></div>
 <p><br></p>
 <h3 id="cleaning-markdown-tables">Cleaning Markdown Tables<a class="headerlink" href="#cleaning-markdown-tables" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
@@ -539,6 +561,21 @@
 </code></pre></div>
 <div class="highlight"><pre><span></span><code><span class="k">for</span> <span class="n">md_fp</span> <span class="ow">in</span> <span class="n">md_fps</span><span class="p">:</span>
     <span class="n">clean_md_file_img_fps</span><span class="p">(</span><span class="n">md_fp</span><span class="p">)</span>
+</code></pre></div>
+<p><br></p>
+<h3 id="transferring-other-images">Transferring Other Images<a class="headerlink" href="#transferring-other-images" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">copy_tree</span><span class="p">(</span><span class="n">src</span><span class="p">,</span> <span class="n">dst</span><span class="p">,</span> <span class="n">symlinks</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">ignore</span><span class="o">=</span><span class="kc">None</span><span class="p">):</span>
+    <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="n">src</span><span class="p">):</span>
+        <span class="n">s</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">src</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span>
+        <span class="n">d</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">dst</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span>
+
+        <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isdir</span><span class="p">(</span><span class="n">s</span><span class="p">):</span>
+            <span class="n">shutil</span><span class="o">.</span><span class="n">copytree</span><span class="p">(</span><span class="n">s</span><span class="p">,</span> <span class="n">d</span><span class="p">,</span> <span class="n">symlinks</span><span class="p">,</span> <span class="n">ignore</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">shutil</span><span class="o">.</span><span class="n">copy2</span><span class="p">(</span><span class="n">s</span><span class="p">,</span> <span class="n">d</span><span class="p">)</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">copy_tree</span><span class="p">(</span><span class="s1">&#39;../img&#39;</span><span class="p">,</span> <span class="s1">&#39;../docs/img&#39;</span><span class="p">)</span>
 </code></pre></div>
                 
               
