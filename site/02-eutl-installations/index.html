@@ -1,0 +1,1391 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.3">
+    
+    
+      
+        <title>Installation Allocations - ETS-Watch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.e35208c4.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#000000">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#installation-allocations" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="ETS-Watch" class="md-header__button md-logo" aria-label="ETS-Watch" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ETS-Watch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Installation Allocations
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/OSUKED/ETS-Watch/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ETS-Watch
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href=".." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../01-prices/" class="md-tabs__link">
+        Development
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ETS-Watch" class="md-nav__button md-logo" aria-label="ETS-Watch" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    ETS-Watch
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/OSUKED/ETS-Watch/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ETS-Watch
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Development
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Development" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Development
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-prices/" class="md-nav__link">
+        Market Prices
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-installation-allocations/" class="md-nav__link">
+        Installations
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-EUTL-database/" class="md-nav__link">
+        Accounts
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-deployment/" class="md-nav__link">
+        Deployment
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#retrieving-installation-table-links" class="md-nav__link">
+    Retrieving Installation Table Links
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#retrieving-installation-allocation-data" class="md-nav__link">
+    Retrieving Installation Allocation Data
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/OSUKED/ETS-Watch/edit/main/docs/02-eutl-installations.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="installation-allocations">Installation Allocations<a class="headerlink" href="#installation-allocations" title="Permanent link">&para;</a></h1>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+
+<span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">from</span> <span class="nn">bs4</span> <span class="kn">import</span> <span class="n">BeautifulSoup</span> <span class="k">as</span> <span class="n">bs</span>
+<span class="kn">import</span> <span class="nn">urllib.parse</span> <span class="k">as</span> <span class="nn">urlparse</span>
+<span class="kn">from</span> <span class="nn">urllib.parse</span> <span class="kn">import</span> <span class="n">parse_qs</span>
+
+<span class="kn">import</span> <span class="nn">re</span>
+<span class="kn">from</span> <span class="nn">warnings</span> <span class="kn">import</span> <span class="n">warn</span>
+
+<span class="kn">from</span> <span class="nn">ipypb</span> <span class="kn">import</span> <span class="n">track</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">JSON</span>
+</code></pre></div>
+<p><br></p>
+<h3 id="retrieving-installation-table-links">Retrieving Installation Table Links<a class="headerlink" href="#retrieving-installation-table-links" title="Permanent link">&para;</a></h3>
+<p>In this first section we'll set out to retrieve the urls for the installations databases across different ETS phases and each country.</p>
+<p>We'll start by retrieving the raw results for a single country</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_country_raw_search</span><span class="p">(</span><span class="n">country_code</span><span class="o">=</span><span class="s1">&#39;AT&#39;</span><span class="p">):</span>
+    <span class="n">url</span> <span class="o">=</span> <span class="s1">&#39;https://ec.europa.eu/clima/ets/nap.do&#39;</span>
+
+    <span class="n">params</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="s1">&#39;languageCode&#39;</span><span class="p">:</span> <span class="s1">&#39;en&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;nap.registryCodeArray&#39;</span><span class="p">:</span> <span class="n">country_code</span><span class="p">,</span>
+        <span class="s1">&#39;periodCode&#39;</span><span class="p">:</span> <span class="s1">&#39;-1&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;search&#39;</span><span class="p">:</span> <span class="s1">&#39;Search&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;currentSortSettings&#39;</span><span class="p">:</span> <span class="s1">&#39;&#39;</span>
+    <span class="p">}</span>
+
+    <span class="n">r</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="n">params</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">r</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">r</span> <span class="o">=</span> <span class="n">get_country_raw_search</span><span class="p">(</span><span class="s1">&#39;IS&#39;</span><span class="p">)</span>
+
+<span class="n">r</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>&lt;Response [200]&gt;
+</code></pre></div>
+<p><br></p>
+<p>From the response we can extract a table containing the relevant information on the installation databases</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">extract_search_df</span><span class="p">(</span><span class="n">r</span><span class="p">):</span>
+    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">results_table</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;table&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;id&#39;</span><span class="p">:</span> <span class="s1">&#39;tblNapSearchResult&#39;</span><span class="p">})</span>
+
+    <span class="n">df_search</span> <span class="o">=</span> <span class="p">(</span><span class="n">pd</span>
+                 <span class="o">.</span><span class="n">read_html</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">results_table</span><span class="p">))</span>
+                 <span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+                 <span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">2</span><span class="p">:,</span> <span class="p">:</span><span class="o">-</span><span class="mi">3</span><span class="p">]</span>
+                 <span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+                 <span class="o">.</span><span class="n">T</span>
+                 <span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+                 <span class="o">.</span><span class="n">T</span>
+                 <span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+                 <span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span>
+                     <span class="s1">&#39;National Administrator&#39;</span><span class="p">:</span> <span class="s1">&#39;country&#39;</span><span class="p">,</span>
+                     <span class="s1">&#39;EU ETS Phase&#39;</span><span class="p">:</span> <span class="s1">&#39;phase&#39;</span><span class="p">,</span>
+                     <span class="s1">&#39;For issuance to not new entrants&#39;</span><span class="p">:</span> <span class="s1">&#39;non_new_entrants&#39;</span><span class="p">,</span>
+                     <span class="s1">&#39;From NER&#39;</span><span class="p">:</span> <span class="s1">&#39;new_entrants_reserve&#39;</span>
+                 <span class="p">})</span>
+                <span class="p">)</span>
+
+    <span class="n">df_search</span><span class="p">[</span><span class="s1">&#39;installations_link&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;https://ec.europa.eu/&#39;</span><span class="o">+</span><span class="n">a</span><span class="p">[</span><span class="s1">&#39;href&#39;</span><span class="p">]</span> <span class="k">for</span> <span class="n">a</span> <span class="ow">in</span> <span class="n">soup</span><span class="o">.</span><span class="n">findAll</span><span class="p">(</span><span class="s1">&#39;a&#39;</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s1">&#39;Installations linked to this Allocation Table&#39;</span><span class="p">))]</span>
+
+    <span class="k">return</span> <span class="n">df_search</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">df_search_country</span> <span class="o">=</span> <span class="n">extract_search_df</span><span class="p">(</span><span class="n">r</span><span class="p">)</span>
+
+<span class="n">df_search_country</span>
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="left">country</th>
+<th align="left">phase</th>
+<th align="right">non_new_entrants</th>
+<th align="right">new_entrants_reserve</th>
+<th align="left">installations_link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">0</td>
+<td align="left">Iceland</td>
+<td align="left">Phase 3 (2013-2020)</td>
+<td align="right">11527090</td>
+<td align="right">172828</td>
+<td align="left">https://ec.europa.eu//clima/ets/napInstallatio...</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p>It's all good doing this for Austria but we want European-wide coverage. We can identify the countries we can query from the option box on the main search page.</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_country_codes</span><span class="p">():</span>
+    <span class="n">r</span> <span class="o">=</span> <span class="n">get_country_raw_search</span><span class="p">()</span>
+
+    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+
+    <span class="n">registry_code_to_country</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="n">option</span><span class="p">[</span><span class="s1">&#39;value&#39;</span><span class="p">]:</span> <span class="n">option</span><span class="o">.</span><span class="n">text</span>
+        <span class="k">for</span> <span class="n">option</span> 
+        <span class="ow">in</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;select&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;name&#39;</span><span class="p">:</span> <span class="s1">&#39;nap.registryCodeArray&#39;</span><span class="p">})</span><span class="o">.</span><span class="n">findAll</span><span class="p">(</span><span class="s1">&#39;option&#39;</span><span class="p">)</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="n">registry_code_to_country</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">registry_code_to_country</span> <span class="o">=</span> <span class="n">get_country_codes</span><span class="p">()</span>
+
+<span class="n">JSON</span><span class="p">([</span><span class="n">registry_code_to_country</span><span class="p">])</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>&lt;IPython.core.display.JSON object&gt;
+</code></pre></div>
+<p><br></p>
+<p>We can now use these to repeat our search for each country and concatenate the results</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_installation_links_dataframe</span><span class="p">():</span>
+    <span class="n">df_search</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">()</span>
+
+    <span class="k">for</span> <span class="n">registry_code</span> <span class="ow">in</span> <span class="n">registry_code_to_country</span><span class="o">.</span><span class="n">keys</span><span class="p">():</span>
+        <span class="n">r</span> <span class="o">=</span> <span class="n">get_country_raw_search</span><span class="p">(</span><span class="n">registry_code</span><span class="p">)</span>
+        <span class="n">df_search_country</span> <span class="o">=</span> <span class="n">extract_search_df</span><span class="p">(</span><span class="n">r</span><span class="p">)</span>
+        <span class="n">df_search</span> <span class="o">=</span> <span class="n">df_search</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">df_search_country</span><span class="p">)</span>
+
+    <span class="n">df_search</span> <span class="o">=</span> <span class="n">df_search</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="n">null_values_present</span> <span class="o">=</span> <span class="n">df_search</span><span class="o">.</span><span class="n">isnull</span><span class="p">()</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span> <span class="o">&gt;</span> <span class="mi">0</span>
+
+    <span class="k">if</span> <span class="n">null_values_present</span> <span class="o">==</span> <span class="kc">True</span><span class="p">:</span>
+        <span class="n">warn</span><span class="p">(</span><span class="s1">&#39;There are null values present in the dataframe&#39;</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">df_search</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">df_search</span> <span class="o">=</span> <span class="n">get_installation_links_dataframe</span><span class="p">()</span>
+
+<span class="n">df_search</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="left">country</th>
+<th align="left">phase</th>
+<th align="right">non_new_entrants</th>
+<th align="right">new_entrants_reserve</th>
+<th align="left">installations_link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">0</td>
+<td align="left">Austria</td>
+<td align="left">Phase 1 (2005-2007)</td>
+<td align="right">97791309</td>
+<td align="right">990150</td>
+<td align="left">https://ec.europa.eu//clima/ets/napInstallatio...</td>
+</tr>
+<tr>
+<td align="right">1</td>
+<td align="left">Austria</td>
+<td align="left">Phase 2 (2008-2012)</td>
+<td align="right">160218569</td>
+<td align="right">2000000</td>
+<td align="left">https://ec.europa.eu//clima/ets/napInstallatio...</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="left">Austria</td>
+<td align="left">Phase 3 (2013-2020)</td>
+<td align="right">160295499</td>
+<td align="right">1893669</td>
+<td align="left">https://ec.europa.eu//clima/ets/napInstallatio...</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="left">Belgium</td>
+<td align="left">Phase 1 (2005-2007)</td>
+<td align="right">178690906</td>
+<td align="right">7653297</td>
+<td align="left">https://ec.europa.eu//clima/ets/napInstallatio...</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="left">Belgium</td>
+<td align="left">Phase 2 (2008-2012)</td>
+<td align="right">283317829</td>
+<td align="right">9153852</td>
+<td align="left">https://ec.europa.eu//clima/ets/napInstallatio...</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="retrieving-installation-allocation-data">Retrieving Installation Allocation Data<a class="headerlink" href="#retrieving-installation-allocation-data" title="Permanent link">&para;</a></h3>
+<p>In this section we'll start by separating the root url and the parameters from each of the installation links</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_url_root_and_params</span><span class="p">(</span><span class="n">installations_link</span><span class="p">):</span>
+    <span class="n">url_root</span> <span class="o">=</span> <span class="n">installations_link</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;?&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="n">parsed</span> <span class="o">=</span> <span class="n">urlparse</span><span class="o">.</span><span class="n">urlparse</span><span class="p">(</span><span class="n">installations_link</span><span class="p">)</span>
+    <span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="n">k</span><span class="p">:</span> <span class="n">v</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="k">for</span> <span class="n">k</span><span class="p">,</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">parse_qs</span><span class="p">(</span><span class="n">parsed</span><span class="o">.</span><span class="n">query</span><span class="p">)</span><span class="o">.</span><span class="n">items</span><span class="p">()}</span>
+
+    <span class="k">return</span> <span class="n">url_root</span><span class="p">,</span> <span class="n">params</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">installations_link</span> <span class="o">=</span> <span class="n">df_search</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="s1">&#39;installations_link&#39;</span><span class="p">]</span>
+
+<span class="n">url_root</span><span class="p">,</span> <span class="n">params</span> <span class="o">=</span> <span class="n">get_url_root_and_params</span><span class="p">(</span><span class="n">installations_link</span><span class="p">)</span>
+
+<span class="n">JSON</span><span class="p">(</span><span class="n">params</span><span class="p">)</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>&lt;IPython.core.display.JSON object&gt;
+</code></pre></div>
+<p><br></p>
+<p>We also need to pass the page number to the parameters, to do this we need to first know how many pages there are</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_num_pages</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">):</span> 
+    <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="n">params</span><span class="p">)</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">soup_pn</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;input&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;name&#39;</span><span class="p">:</span> <span class="s1">&#39;resultList.lastPageNumber&#39;</span><span class="p">})</span>
+
+    <span class="k">if</span> <span class="n">soup_pn</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="n">num_pages</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">soup_pn</span><span class="p">[</span><span class="s1">&#39;value&#39;</span><span class="p">])</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">num_pages</span> <span class="o">=</span> <span class="mi">1</span>
+
+    <span class="k">return</span> <span class="n">num_pages</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">num_pages</span> <span class="o">=</span> <span class="n">get_num_pages</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">)</span>
+
+<span class="n">num_pages</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>11
+</code></pre></div>
+<p><br></p>
+<p>We're now ready to iterate over multiple pages and combine the results for a single ETS phase in a single country</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">extract_installation_allocations_df</span><span class="p">(</span><span class="n">r</span><span class="p">):</span>
+        <span class="n">soup</span> <span class="o">=</span> <span class="n">bs</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+        <span class="n">table</span> <span class="o">=</span> <span class="n">soup</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;table&#39;</span><span class="p">,</span> <span class="n">attrs</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;id&#39;</span><span class="p">:</span> <span class="s1">&#39;tblNapList&#39;</span><span class="p">})</span>
+
+        <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="p">(</span><span class="n">pd</span>
+                                       <span class="o">.</span><span class="n">read_html</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">table</span><span class="p">))</span>
+                                       <span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+                                       <span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">])</span>
+                                       <span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+                                       <span class="o">.</span><span class="n">T</span>
+                                       <span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+                                       <span class="o">.</span><span class="n">T</span>
+                                       <span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;Options&#39;</span><span class="p">])</span>
+                                      <span class="p">)</span>
+
+        <span class="k">return</span> <span class="n">df_installation_allocations</span>
+
+<span class="k">def</span> <span class="nf">retry_request</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">,</span> <span class="n">n_retries</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">n_retries</span><span class="p">):</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">r</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="n">params</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+            <span class="k">return</span> <span class="n">r</span>
+        <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+            <span class="k">continue</span>
+
+    <span class="k">raise</span> <span class="n">e</span>
+
+<span class="k">def</span> <span class="nf">get_installation_allocations_df</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">,</span> <span class="n">n_retries</span><span class="o">=</span><span class="mi">5</span><span class="p">):</span>
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">()</span>
+
+    <span class="n">num_pages</span> <span class="o">=</span> <span class="n">get_num_pages</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">)</span>
+    <span class="n">params</span><span class="p">[</span><span class="s1">&#39;nextList&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;Next&#39;</span>
+
+    <span class="k">for</span> <span class="n">page_num</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">num_pages</span><span class="p">):</span>
+        <span class="n">params</span><span class="p">[</span><span class="s1">&#39;resultList.currentPageNumber&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">page_num</span>            
+        <span class="n">r</span> <span class="o">=</span> <span class="n">retry_request</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">,</span> <span class="n">n_retries</span><span class="o">=</span><span class="n">n_retries</span><span class="p">)</span>
+
+        <span class="n">df_installation_allocations_page</span> <span class="o">=</span> <span class="n">extract_installation_allocations_df</span><span class="p">(</span><span class="n">r</span><span class="p">)</span>
+        <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">df_installation_allocations_page</span><span class="p">)</span>
+
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">df_installation_allocations</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">get_installation_allocations_df</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;DataFrame shape: </span><span class="si">{</span><span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">shape</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+
+<span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>DataFrame shape: (201, 11)
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">Installation ID</th>
+<th align="left">Installation Name</th>
+<th align="left">Address City</th>
+<th align="left">Account Holder Name</th>
+<th align="left">Account Status</th>
+<th align="left">Permit ID</th>
+<th align="left">Latest Update</th>
+<th align="right">2005</th>
+<th align="right">2006</th>
+<th align="right">2007</th>
+<th align="left">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="left">Baumit Baustoffe Bad Ischl</td>
+<td align="left">Bad Ischl</td>
+<td align="left">Calmit GmbH</td>
+<td align="left">open</td>
+<td align="left">IKA119</td>
+<td align="left">2009-05-08 09:13:58</td>
+<td align="right">44894</td>
+<td align="right">44894</td>
+<td align="right">44894</td>
+<td align="left">Active</td>
+</tr>
+<tr>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="left">Breitenfelder Edelstahl Mitterdorf</td>
+<td align="left">Mitterdorf</td>
+<td align="left">Breitenfeld Edelstahl AG</td>
+<td align="left">open</td>
+<td align="left">IES069</td>
+<td align="left">2009-05-08 09:13:58</td>
+<td align="right">8492</td>
+<td align="right">8492</td>
+<td align="right">8492</td>
+<td align="left">Active</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="left">Ziegelwerk Danreiter Ried im Innkreis</td>
+<td align="left">Ried</td>
+<td align="left">Ziegelwerk Danreiter GmbH &amp; Co KG</td>
+<td align="left">open</td>
+<td align="left">IZI155</td>
+<td align="left">2009-05-08 09:13:58</td>
+<td align="right">7397</td>
+<td align="right">7397</td>
+<td align="right">7397</td>
+<td align="left">Active</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p>The next step is to repeat this for all countries and ETS phases, then combine the resulting dataframes</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_all_installation_allocations_df</span><span class="p">(</span><span class="n">df_search</span><span class="p">):</span>
+    <span class="n">col_renaming_map</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="s1">&#39;Installation ID&#39;</span><span class="p">:</span> <span class="s1">&#39;installation_id&#39;</span><span class="p">,</span> 
+        <span class="s1">&#39;Installation Name&#39;</span><span class="p">:</span> <span class="s1">&#39;installation_name&#39;</span><span class="p">,</span> 
+        <span class="s1">&#39;Address City&#39;</span><span class="p">:</span> <span class="s1">&#39;installation_city&#39;</span><span class="p">,</span> 
+        <span class="s1">&#39;Account Holder Name&#39;</span><span class="p">:</span> <span class="s1">&#39;account_holder&#39;</span><span class="p">,</span> 
+        <span class="s1">&#39;Account Status&#39;</span><span class="p">:</span> <span class="s1">&#39;account_status&#39;</span><span class="p">,</span> 
+        <span class="s1">&#39;Permit ID&#39;</span><span class="p">:</span> <span class="s1">&#39;permit_id&#39;</span><span class="p">,</span> 
+        <span class="s1">&#39;Status&#39;</span><span class="p">:</span> <span class="s1">&#39;status&#39;</span>
+    <span class="p">}</span>
+
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">()</span>
+
+    <span class="c1"># Retrieving raw data</span>
+    <span class="k">for</span> <span class="n">country</span> <span class="ow">in</span> <span class="n">track</span><span class="p">(</span><span class="n">df_search</span><span class="p">[</span><span class="s1">&#39;country&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">()):</span>
+        <span class="n">df_installation_allocations_country</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">()</span>
+        <span class="n">country_installations_links</span> <span class="o">=</span> <span class="n">df_search</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">df_search</span><span class="p">[</span><span class="s1">&#39;country&#39;</span><span class="p">]</span><span class="o">==</span><span class="n">country</span><span class="p">,</span> <span class="s1">&#39;installations_link&#39;</span><span class="p">]</span>
+
+        <span class="k">for</span> <span class="n">installations_link</span> <span class="ow">in</span> <span class="n">track</span><span class="p">(</span><span class="n">country_installations_links</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="n">country</span><span class="p">):</span>
+            <span class="n">url_root</span><span class="p">,</span> <span class="n">params</span> <span class="o">=</span> <span class="n">get_url_root_and_params</span><span class="p">(</span><span class="n">installations_link</span><span class="p">)</span>
+            <span class="n">df_installation_allocations_country_phase</span> <span class="o">=</span> <span class="n">get_installation_allocations_df</span><span class="p">(</span><span class="n">root_url</span><span class="p">,</span> <span class="n">params</span><span class="p">)</span>
+
+            <span class="k">if</span> <span class="n">df_installation_allocations_country</span><span class="o">.</span><span class="n">size</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+                <span class="n">df_installation_allocations_country</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">df_installation_allocations_country</span><span class="p">,</span> <span class="n">df_installation_allocations_country_phase</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s1">&#39;outer&#39;</span><span class="p">,</span> <span class="n">on</span><span class="o">=</span><span class="nb">list</span><span class="p">(</span><span class="n">col_renaming_map</span><span class="o">.</span><span class="n">keys</span><span class="p">()))</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">df_installation_allocations_country</span> <span class="o">=</span> <span class="n">df_installation_allocations_country_phase</span>
+
+        <span class="n">df_installation_allocations_country</span><span class="p">[</span><span class="s1">&#39;country&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">country</span>
+        <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">df_installation_allocations_country</span><span class="p">)</span>
+
+    <span class="c1"># Collating update datetimes</span>
+    <span class="n">update_cols</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">columns</span><span class="p">[</span><span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="s1">&#39;Latest Update&#39;</span><span class="p">)]</span>
+    <span class="n">df_installation_allocations</span><span class="p">[</span><span class="s1">&#39;latest_update&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="p">[</span><span class="n">update_cols</span><span class="p">]</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">max</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="n">update_cols</span><span class="p">)</span>
+
+    <span class="c1"># Renaming columns</span>
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="p">(</span><span class="n">df_installation_allocations</span>
+                                   <span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+                                   <span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="n">col_renaming_map</span><span class="p">)</span>
+                                  <span class="p">)</span>
+
+    <span class="c1"># Sorting column order</span>
+    <span class="n">non_year_cols</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;country&#39;</span><span class="p">]</span> <span class="o">+</span> <span class="nb">list</span><span class="p">(</span><span class="n">col_renaming_map</span><span class="o">.</span><span class="n">values</span><span class="p">())</span> <span class="o">+</span> <span class="p">[</span><span class="s1">&#39;latest_update&#39;</span><span class="p">]</span>
+    <span class="n">year_cols</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">columns</span><span class="p">)</span> <span class="o">-</span> <span class="nb">set</span><span class="p">(</span><span class="n">non_year_cols</span><span class="p">)))</span>
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="p">[</span><span class="n">non_year_cols</span><span class="o">+</span><span class="n">year_cols</span><span class="p">]</span>
+
+    <span class="c1"># Dropping header rows</span>
+    <span class="n">idxs_to_drop</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="p">[</span><span class="s1">&#39;permit_id&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="s1">&#39;\*&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="kc">False</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span><span class="p">)</span><span class="o">.</span><span class="n">dropna</span><span class="p">()</span><span class="o">.</span><span class="n">index</span>
+    <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">idxs_to_drop</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">df_installation_allocations</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">get_all_installation_allocations_df</span><span class="p">(</span><span class="n">df_search</span><span class="p">)</span>
+
+<span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</code></pre></div>
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:0; max-width:15ex; vertical-align:middle; text-align:right"></span>
+<progress style="width:60ex" max="32" value="32" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">32/32</span>
+<span class="Time-label">[24:25<01:34, 45.78s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Austria</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:16<00:05, 5.35s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Belgium</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:24<00:10, 7.95s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Bulgaria</span>
+<progress style="width:45ex" max="2" value="2" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">2/2</span>
+<span class="Time-label">[00:07<00:03, 3.37s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Croatia</span>
+<progress style="width:45ex" max="1" value="1" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">1/1</span>
+<span class="Time-label">[00:01<00:01, 1.26s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Cyprus</span>
+<progress style="width:45ex" max="2" value="2" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">2/2</span>
+<span class="Time-label">[00:01<00:01, 0.64s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Czech Republic</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:33<00:12, 11.09s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Denmark</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:30<00:11, 10.07s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Estonia</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:04<00:01, 1.21s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Finland</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[01:04<00:19, 21.32s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">France</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[02:50<01:18, 56.52s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Germany</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[06:22<03:02, 127.24s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Greece</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:09<00:03, 3.03s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Hungary</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:18<00:07, 5.88s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Iceland</span>
+<progress style="width:45ex" max="1" value="1" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">1/1</span>
+<span class="Time-label">[00:01<00:01, 0.63s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Ireland</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:08<00:02, 2.58s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Italy</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[02:45<01:22, 54.94s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Latvia</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:06<00:02, 1.88s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Liechtenstein</span>
+<progress style="width:45ex" max="2" value="2" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">2/2</span>
+<span class="Time-label">[00:01<00:00, 0.49s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Lithuania</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:07<00:03, 2.46s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Luxembourg</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:02<00:01, 0.54s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Malta</span>
+<progress style="width:45ex" max="1" value="1" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">1/1</span>
+<span class="Time-label">[00:00<00:00, 0.47s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Netherlands</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:33<00:15, 10.85s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Northern Ireland</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:01<00:00, 0.46s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Norway</span>
+<progress style="width:45ex" max="2" value="2" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">2/2</span>
+<span class="Time-label">[00:06<00:03, 3.00s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Poland</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[01:48<00:41, 36.07s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Portugal</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:16<00:05, 5.37s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Romania</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:16<00:05, 5.45s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Slovakia</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:11<00:04, 3.60s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Slovenia</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[00:05<00:01, 1.74s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Spain</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[02:11<00:48, 43.72s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">Sweden</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[01:35<00:30, 31.67s/it]</span></div>
+
+<div><span class="Text-label" style="display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; min-width:15ex; max-width:15ex; vertical-align:middle; text-align:right">United Kingdom</span>
+<progress style="width:45ex" max="3" value="3" class="Progress-main"/></progress>
+<span class="Progress-label"><strong>100%</strong></span>
+<span class="Iteration-label">3/3</span>
+<span class="Time-label">[01:34<00:31, 31.37s/it]</span></div>
+
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="left">country</th>
+<th align="right">installation_id</th>
+<th align="left">installation_name</th>
+<th align="left">installation_city</th>
+<th align="left">account_holder</th>
+<th align="left">account_status</th>
+<th align="left">permit_id</th>
+<th align="left">status</th>
+<th align="left">latest_update</th>
+<th align="right">2005</th>
+<th align="left">...</th>
+<th align="right">2011</th>
+<th align="right">2012</th>
+<th align="right">2013</th>
+<th align="right">2014</th>
+<th align="right">2015</th>
+<th align="right">2016</th>
+<th align="right">2017</th>
+<th align="right">2018</th>
+<th align="right">2019</th>
+<th align="right">2020</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">0</td>
+<td align="left">Austria</td>
+<td align="right">1</td>
+<td align="left">Baumit Baustoffe Bad Ischl</td>
+<td align="left">Bad Ischl</td>
+<td align="left">Calmit GmbH</td>
+<td align="left">open</td>
+<td align="left">IKA119</td>
+<td align="left">Active</td>
+<td align="left">2013-12-19 15:47:52</td>
+<td align="right">44894</td>
+<td align="left">...</td>
+<td align="right">43171</td>
+<td align="right">43171</td>
+<td align="right">42159</td>
+<td align="right">41426</td>
+<td align="right">40685</td>
+<td align="right">39937</td>
+<td align="right">39180</td>
+<td align="right">38416</td>
+<td align="right">37643</td>
+<td align="right">36866</td>
+</tr>
+<tr>
+<td align="right">1</td>
+<td align="left">Austria</td>
+<td align="right">2</td>
+<td align="left">Breitenfelder Edelstahl Mitterdorf</td>
+<td align="left">Mitterdorf</td>
+<td align="left">Breitenfeld Edelstahl AG</td>
+<td align="left">open</td>
+<td align="left">IES069</td>
+<td align="left">Active</td>
+<td align="left">2013-12-19 15:48:16</td>
+<td align="right">8492</td>
+<td align="left">...</td>
+<td align="right">26429</td>
+<td align="right">26429</td>
+<td align="right">15118</td>
+<td align="right">14856</td>
+<td align="right">14590</td>
+<td align="right">14322</td>
+<td align="right">14051</td>
+<td align="right">13776</td>
+<td align="right">13499</td>
+<td align="right">13221</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="left">Austria</td>
+<td align="right">3</td>
+<td align="left">Ziegelwerk Danreiter Ried im Innkreis</td>
+<td align="left">Ried</td>
+<td align="left">Ziegelwerk Danreiter GmbH &amp; Co KG</td>
+<td align="left">open</td>
+<td align="left">IZI155</td>
+<td align="left">Active</td>
+<td align="left">2013-12-19 15:48:12</td>
+<td align="right">7397</td>
+<td align="left">...</td>
+<td align="right">5927</td>
+<td align="right">5927</td>
+<td align="right">3494</td>
+<td align="right">3434</td>
+<td align="right">3373</td>
+<td align="right">3311</td>
+<td align="right">3248</td>
+<td align="right">3185</td>
+<td align="right">3120</td>
+<td align="right">3056</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="left">Austria</td>
+<td align="right">4</td>
+<td align="left">Wienerberger Blindenmarkt</td>
+<td align="left">Blindenmarkt</td>
+<td align="left">Wienerberger Österreich GmbH</td>
+<td align="left">closed</td>
+<td align="left">IZI146-1</td>
+<td align="left">Account Closed</td>
+<td align="left">2009-05-08 09:13:58</td>
+<td align="right">8335</td>
+<td align="left">...</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="left">Austria</td>
+<td align="right">5</td>
+<td align="left">Isomax Dekorative Laminate Wiener Neudorf</td>
+<td align="left">Wiener Neudorf</td>
+<td align="left">FunderMax GmbH</td>
+<td align="left">open</td>
+<td align="left">ICH113</td>
+<td align="left">Active</td>
+<td align="left">2013-12-19 15:47:46</td>
+<td align="right">24003</td>
+<td align="left">...</td>
+<td align="right">27343</td>
+<td align="right">27343</td>
+<td align="right">26223</td>
+<td align="right">25697</td>
+<td align="right">25167</td>
+<td align="right">24636</td>
+<td align="right">24102</td>
+<td align="right">23566</td>
+<td align="right">23026</td>
+<td align="right">22488</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p>A quick check reveals some issues with the dataset, for example there are several permit ids that have duplicate entries</p>
+<div class="highlight"><pre><span></span><code><span class="n">permit_ids_with_duplicate_idxs</span> <span class="o">=</span> <span class="p">(</span><span class="n">df_installation_allocations</span><span class="p">[</span><span class="s1">&#39;permit_id&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span><span class="o">&gt;</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="kc">False</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span><span class="p">)</span><span class="o">.</span><span class="n">dropna</span><span class="p">()</span><span class="o">.</span><span class="n">index</span>
+<span class="n">df_dupe_permit_ids</span> <span class="o">=</span> <span class="n">df_installation_allocations</span><span class="p">[</span><span class="n">df_installation_allocations</span><span class="p">[</span><span class="s1">&#39;permit_id&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">permit_ids_with_duplicate_idxs</span><span class="p">)]</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;permit_id&#39;</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;There are </span><span class="si">{</span><span class="n">df_dupe_permit_ids</span><span class="p">[</span><span class="s1">&#39;permit_id&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">()</span><span class="o">.</span><span class="n">size</span><span class="si">}</span><span class="s2"> permit ids which have duplicate entries due to inconsistent values (e.g. for `installation_id`)</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+
+<span class="n">df_dupe_permit_ids</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">6</span><span class="p">)</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>There are 109 permit ids which have duplicate entries due to inconsistent values (e.g. for `installation_id`)
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="left">country</th>
+<th align="right">installation_id</th>
+<th align="left">installation_name</th>
+<th align="left">installation_city</th>
+<th align="left">account_holder</th>
+<th align="left">account_status</th>
+<th align="right">permit_id</th>
+<th align="left">status</th>
+<th align="left">latest_update</th>
+<th align="right">2005</th>
+<th align="left">...</th>
+<th align="right">2011</th>
+<th align="right">2012</th>
+<th align="right">2013</th>
+<th align="right">2014</th>
+<th align="right">2015</th>
+<th align="right">2016</th>
+<th align="right">2017</th>
+<th align="right">2018</th>
+<th align="right">2019</th>
+<th align="right">2020</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">4184</td>
+<td align="left">France</td>
+<td align="right">204319</td>
+<td align="left">ARKEMA FRANCE- Usine de Mont</td>
+<td align="left">Orthez</td>
+<td align="left">ARKEMA FRANCE</td>
+<td align="left">open</td>
+<td align="right">5202690</td>
+<td align="left">Active</td>
+<td align="left">2014-01-27 16:54:18</td>
+<td align="right">nan</td>
+<td align="left">...</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">26157</td>
+<td align="right">25703</td>
+<td align="right">25242</td>
+<td align="right">24779</td>
+<td align="right">24308</td>
+<td align="right">23835</td>
+<td align="right">23355</td>
+<td align="right">22873</td>
+</tr>
+<tr>
+<td align="right">2937</td>
+<td align="left">France</td>
+<td align="right">102</td>
+<td align="left">ARKEMA FRANCE - Usine de Mont</td>
+<td align="left">MONT</td>
+<td align="left">ARKEMA FRANCE</td>
+<td align="left">closed</td>
+<td align="right">5202690</td>
+<td align="left">Account Closed</td>
+<td align="left">2012-11-29 14:18:52</td>
+<td align="right">32802</td>
+<td align="left">...</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+</tr>
+<tr>
+<td align="right">4165</td>
+<td align="left">France</td>
+<td align="right">204063</td>
+<td align="left">SOCIETE FROMAGERE DE SAINTE CECILE</td>
+<td align="left">SAINTE-CECILE</td>
+<td align="left">SOCIETE FROMAGERE DE SAINTE CECILE</td>
+<td align="left">open</td>
+<td align="right">5301510</td>
+<td align="left">Active</td>
+<td align="left">2014-01-27 16:57:52</td>
+<td align="right">nan</td>
+<td align="left">...</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">3864</td>
+<td align="right">3458</td>
+<td align="right">3063</td>
+<td align="right">2680</td>
+<td align="right">2309</td>
+<td align="right">1949</td>
+<td align="right">1602</td>
+<td align="right">1267</td>
+</tr>
+<tr>
+<td align="right">3913</td>
+<td align="left">France</td>
+<td align="right">1121</td>
+<td align="left">SOCIETE FROMAGERE DE SAINTE CECILE</td>
+<td align="left">Sainte Cécile</td>
+<td align="left">BOUVIER</td>
+<td align="left">closed</td>
+<td align="right">5301510</td>
+<td align="left">Account Closed</td>
+<td align="left">2009-05-08 09:13:58</td>
+<td align="right">7790</td>
+<td align="left">...</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+</tr>
+<tr>
+<td align="right">4162</td>
+<td align="left">France</td>
+<td align="right">204060</td>
+<td align="left">SOCIETE FROMAGERE DE DOMFRONT</td>
+<td align="left">Domfront</td>
+<td align="left">SOCIETE FROMAGERE DE DOMFRONT</td>
+<td align="left">open</td>
+<td align="right">5302209</td>
+<td align="left">Active</td>
+<td align="left">2014-01-27 16:54:24</td>
+<td align="right">nan</td>
+<td align="left">...</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">5780</td>
+<td align="right">5173</td>
+<td align="right">4582</td>
+<td align="right">4009</td>
+<td align="right">3454</td>
+<td align="right">2916</td>
+<td align="right">2396</td>
+<td align="right">1895</td>
+</tr>
+<tr>
+<td align="right">2961</td>
+<td align="left">France</td>
+<td align="right">127</td>
+<td align="left">SOCIETE FROMAGERE DE DOMFRONT</td>
+<td align="left">Domfront</td>
+<td align="left">SCOTTO</td>
+<td align="left">closed</td>
+<td align="right">5302209</td>
+<td align="left">Account Closed</td>
+<td align="left">2009-05-08 09:13:58</td>
+<td align="right">11326</td>
+<td align="left">...</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+<td align="right">nan</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p>Lastly we'll wrap these steps in a function that will retrieve/download our data to/from the specified directory</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#exports</span>
+<span class="k">def</span> <span class="nf">get_installation_allocations_df</span><span class="p">(</span><span class="n">data_dir</span><span class="o">=</span><span class="s1">&#39;data&#39;</span><span class="p">,</span> <span class="n">redownload</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>    
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">data_dir</span><span class="p">):</span>
+        <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">data_dir</span><span class="p">)</span>
+
+    <span class="k">if</span> <span class="n">redownload</span> <span class="o">==</span> <span class="kc">True</span><span class="p">:</span>
+        <span class="n">df_search</span> <span class="o">=</span> <span class="n">get_installation_links_dataframe</span><span class="p">()</span>
+        <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">get_all_installation_allocations_df</span><span class="p">(</span><span class="n">df_search</span><span class="p">)</span>
+        <span class="n">df_installation_allocations</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/installation_allocations.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">data_dir</span><span class="si">}</span><span class="s1">/installation_allocations.csv&#39;</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">df_installation_allocations</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><span class="n">redownload_installation_allocations</span> <span class="o">=</span> <span class="kc">False</span>
+
+<span class="n">df_installation_allocations</span> <span class="o">=</span> <span class="n">get_installation_allocations_df</span><span class="p">(</span>
+    <span class="n">data_dir</span><span class="o">=</span><span class="s1">&#39;../data&#39;</span><span class="p">,</span> 
+    <span class="n">redownload</span><span class="o">=</span><span class="n">redownload_installation_allocations</span>
+<span class="p">)</span>
+</code></pre></div>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["header.autohide", "navigation.tabs", "navigation.instant", "search.suggest"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.4ea5477f.min.js"></script>
+      
+    
+  </body>
+</html>

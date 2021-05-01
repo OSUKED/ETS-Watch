@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: etswatch
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/OSUKED/ETS-Watch
+Author: Ayrton Bourn
+Author-email: ayrtonbourn@outlook.com
+License: UNKNOWN
+Description: # ETS Watch
+        
+        This repository includes code for retrieving the latest data on the EU ETS market
+        
+        Last updated: 2021-04-28 07:51
+        
+        <br>
+        
+        ### Long-Term Average Price
+        
+        ![Long-term average](img/long_term_avg.png)
+        
+        <br>
+        
+        ### Candle-Stick Chart for Last 8-Weeks
+        
+        ![Open, High, Low, Close & Volume](img/ohlc_vol.png)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

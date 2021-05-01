@@ -4,21 +4,42 @@ channels:
   - conda-forge
 
 dependencies:
+  # core
+  - python=3.7
+  - jupyterlab
+  - pip
+  
+  # data
+  - xarray
+  - pandas
+  - numpy
+  
+  # plotting
+  - seaborn
+  - matplotlib
+
+  # data retrieval
   - beautifulsoup4
   - html5lib
-  - jupyterlab
   - lxml
-  - matplotlib
-  - pandas
-  - pip
-  - python-dotenv
-  - python=3.7
-  - seaborn
   - xmltodict
-  - xarray
+  
+  # packaging/devops
+  - twine
+  - python-dotenv
+
+  # nbdev/docs
+  - mkdocs
+  - mkdocs-material
+  - typer
 
   - pip:
+      - -e .
       - mplfinance
-      - feautils
+      - nbdev
       - ipypb
-
+      - feautils
+      - mkdocs-material-extensions
+      - mkdocstrings
+      - configparser
+      - junix
