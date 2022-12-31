@@ -21,13 +21,7 @@ jobs:
       run: |
         dir
         python -m pip install --upgrade pip
-        python -m pip install pandas
-        python -m pip install requests
-        python -m pip install feautils
-        python -m pip install matplotlib
-        python -m pip install mplfinance
-        python -m pip install ipython
-        python -m pip install python-dotenv
+        python -m pip install pandas requests feautils matplotlib mplfinance ipython python-dotenv regex
         python update_data.py
         dir
       env: 
