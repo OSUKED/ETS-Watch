@@ -2,7 +2,7 @@
 
 > `etswatch` provides a Python client for retrieving the latest data on the EU ETS market and its participants
 
-Last updated: 2024-04-25 01:36
+Last updated: 2024-04-26 01:34
 
 <br>
 
